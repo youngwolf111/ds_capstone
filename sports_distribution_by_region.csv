@@ -1,117 +1,5203 @@
-,Attendees,Sex,Sport
-0,26958,M,Athletics
-1,17578,M,Gymnastics
-2,13345,M,Swimming
-3,11666,F,Athletics
-4,9850,F,Swimming
-5,9724,M,Shooting
-6,9465,M,Cycling
-7,9129,F,Gymnastics
-8,8735,M,Fencing
-9,8402,M,Rowing
-10,6850,M,Wrestling
-11,5975,M,Boxing
-12,5748,M,Cross Country Skiing
-13,5733,M,Football
-14,5660,M,Sailing
-15,5431,M,Alpine Skiing
-16,5098,M,Equestrianism
-17,4791,M,Canoeing
-18,4762,M,Ice Hockey
-19,3958,M,Hockey
-20,3532,M,Speed Skating
-21,3474,M,Weightlifting
-22,3398,F,Alpine Skiing
-23,3385,F,Cross Country Skiing
-24,3358,M,Water Polo
-25,3280,M,Basketball
-26,3201,M,Art Competitions
-27,3030,M,Biathlon
-28,2915,M,Bobsleigh
-29,2708,M,Judo
-30,2371,M,Ski Jumping
-31,2264,M,Handball
-32,2193,F,Rowing
-33,2081,F,Speed Skating
-34,2000,F,Fencing
-35,1863,F,Biathlon
-36,1861,M,Volleyball
-37,1724,F,Shooting
-38,1684,M,Tennis
-39,1632,M,Diving
-40,1543,F,Volleyball
-41,1513,M,Modern Pentathlon
-42,1459,F,Hockey
-43,1401,F,Handball
-44,1394,F,Cycling
-45,1380,F,Canoeing
-46,1344,M,Nordic Combined
-47,1319,M,Archery
-48,1256,F,Basketball
-49,1246,F,Equestrianism
-50,1210,F,Diving
-51,1178,F,Tennis
-52,1172,F,Figure Skating
-53,1126,M,Figure Skating
-54,1102,M,Luge
-55,1093,F,Judo
-56,1015,F,Archery
-57,1012,F,Football
-58,1002,M,Table Tennis
-59,953,F,Table Tennis
-60,926,F,Sailing
-61,909,F,Synchronized Swimming
-62,894,M,Baseball
-63,773,M,Short Track Speed Skating
-64,761,F,Short Track Speed Skating
-65,754,F,Ice Hockey
-66,740,F,Badminton
-67,717,M,Badminton
-68,658,F,Rhythmic Gymnastics
-69,520,M,Snowboarding
-70,504,M,Freestyle Skiing
-71,488,F,Water Polo
-72,478,F,Softball
-73,463,F,Weightlifting
-74,433,F,Freestyle Skiing
-75,416,F,Snowboarding
-76,377,F,Art Competitions
-77,377,F,Luge
-78,307,M,Taekwondo
-79,304,F,Wrestling
-80,299,F,Taekwondo
-81,288,M,Beach Volleyball
-82,276,F,Beach Volleyball
-83,266,M,Triathlon
-84,263,F,Triathlon
-85,241,M,Curling
-86,222,F,Curling
-87,177,M,Golf
-88,170,M,Tug-Of-War
-89,164,F,Modern Pentathlon
-90,162,M,Rugby
-91,151,M,Rugby Sevens
-92,148,F,Rugby Sevens
-93,143,F,Bobsleigh
-94,133,M,Skeleton
-95,95,M,Polo
-96,76,F,Trampolining
-97,76,M,Trampolining
-98,72,F,Boxing
-99,70,F,Golf
-100,66,F,Skeleton
-101,60,M,Lacrosse
-102,30,F,Ski Jumping
-103,24,M,Alpinism
-104,24,M,Cricket
-105,24,M,Military Ski Patrol
-106,16,M,Motorboating
-107,13,M,Croquet
-108,12,M,Racquets
-109,11,M,Jeu De Paume
-110,6,F,Croquet
-111,4,M,Roque
-112,2,M,Basque Pelota
-113,1,M,Aeronautics
-114,1,F,Alpinism
-115,1,F,Motorboating
+,Male_Attendees,Female_Attendees,Sport,Team
+0,2348,854,Athletics,United States
+1,1615,625,Athletics,Great Britain
+2,1367,572,Gymnastics,United States
+3,1140,354,Athletics,France
+4,1126,450,Gymnastics,France
+5,947,398,Gymnastics,Italy
+6,892,730,Swimming,United States
+7,891,116,Athletics,Sweden
+8,825,157,Fencing,France
+9,817,437,Athletics,Germany
+10,781,435,Gymnastics,Japan
+11,776,377,Athletics,Canada
+12,766,476,Gymnastics,Hungary
+13,766,97,Gymnastics,Switzerland
+14,761,260,Athletics,Italy
+15,759,153,Athletics,Finland
+16,732,260,Gymnastics,Germany
+17,719,408,Gymnastics,Great Britain
+18,698,593,Swimming,Great Britain
+19,676,381,Gymnastics,Czechoslovakia
+20,647,588,Swimming,Australia
+21,637,535,Gymnastics,Romania
+22,631,343,Gymnastics,Bulgaria
+23,614,168,Athletics,Japan
+24,608,106,Gymnastics,Finland
+25,605,388,Athletics,Australia
+26,601,78,Cycling,France
+27,596,140,Fencing,Italy
+28,584,183,Athletics,Hungary
+29,575,211,Rowing,United States
+30,554,91,Shooting,United States
+31,548,26,Shooting,Sweden
+32,538,152,Fencing,United States
+33,537,318,Athletics,Soviet Union
+34,536,315,Athletics,Poland
+35,534,60,Shooting,France
+36,529,344,Swimming,France
+37,528,140,Athletics,Greece
+38,519,128,Gymnastics,Yugoslavia
+39,513,482,Swimming,Canada
+40,507,75,Cycling,Great Britain
+41,497,131,Fencing,Hungary
+42,489,165,Rowing,Great Britain
+43,487,103,Fencing,Great Britain
+44,483,154,Athletics,Spain
+45,472,22,Rowing,Italy
+46,465,97,Art Competitions,United States
+47,452,406,Swimming,Japan
+48,452,267,Swimming,Hungary
+49,447,350,Gymnastics,Soviet Union
+50,445,277,Swimming,Italy
+51,438,85,Cycling,United States
+52,433,26,Shooting,Great Britain
+53,425,94,Athletics,Belgium
+54,418,15,Gymnastics,Luxembourg
+55,409,103,Gymnastics,South Korea
+56,399,42,Rowing,France
+57,398,347,Swimming,Sweden
+58,397,101,Ice Hockey,United States
+59,395,78,Cycling,Netherlands
+60,391,56,Cycling,Italy
+61,391,53,Equestrianism,France
+62,387,120,Swimming,Brazil
+63,386,100,Ice Hockey,Sweden
+64,384,26,Shooting,Norway
+65,383,324,Swimming,Germany
+66,379,130,Rowing,Australia
+67,372,16,Shooting,Greece
+68,368,101,Ice Hockey,Canada
+69,367,16,Wrestling,United States
+70,364,277,Gymnastics,China
+71,363,163,Rowing,Canada
+72,363,156,Athletics,Brazil
+73,352,114,Athletics,Kenya
+74,349,122,Rowing,Germany
+75,347,249,Cross Country Skiing,Sweden
+76,347,181,Cross Country Skiing,Italy
+77,346,244,Cross Country Skiing,Finland
+78,344,226,Speed Skating,United States
+79,344,84,Cycling,Australia
+80,343,362,Gymnastics,Canada
+81,343,13,Art Competitions,Germany
+82,341,339,Athletics,Jamaica
+83,340,76,Cycling,Germany
+84,339,239,Cross Country Skiing,Norway
+85,338,303,Gymnastics,Poland
+86,336,297,Gymnastics,Spain
+87,330,56,Gymnastics,Cuba
+88,329,92,Athletics,Switzerland
+89,328,210,Cross Country Skiing,United States
+90,327,83,Speed Skating,Norway
+91,326,18,Fencing,Belgium
+92,323,97,Ice Hockey,Finland
+93,323,43,Art Competitions,France
+94,320,191,Athletics,Netherlands
+95,318,29,Shooting,Finland
+96,317,23,Cycling,Belgium
+97,315,30,Hockey,India
+98,311,12,Cycling,Denmark
+99,308,141,Rowing,Netherlands
+100,308,68,Athletics,South Africa
+101,307,107,Fencing,Poland
+102,302,201,Speed Skating,Netherlands
+103,302,37,Shooting,Italy
+104,301,152,Equestrianism,United States
+105,300,82,Fencing,Germany
+106,300,63,Athletics,Czechoslovakia
+107,297,118,Cross Country Skiing,Switzerland
+108,297,75,Athletics,Mexico
+109,294,57,Athletics,Norway
+110,291,180,Swimming,Soviet Union
+111,290,5,Gymnastics,Denmark
+112,289,50,Art Competitions,Great Britain
+113,282,106,Equestrianism,Sweden
+114,282,59,Ice Hockey,Switzerland
+115,280,276,Alpine Skiing,Austria
+116,279,273,Alpine Skiing,United States
+117,277,327,Athletics,Russia
+118,277,243,Alpine Skiing,Switzerland
+119,276,107,Cross Country Skiing,France
+120,275,4,Wrestling,Hungary
+121,274,224,Alpine Skiing,Italy
+122,274,144,Hockey,Netherlands
+123,274,12,Wrestling,Sweden
+124,273,1,Wrestling,Finland
+125,271,95,Hockey,Spain
+126,268,425,Swimming,Netherlands
+127,268,221,Gymnastics,Sweden
+128,267,19,Shooting,Denmark
+129,266,0,Ice Hockey,Czechoslovakia
+130,264,113,Hockey,Great Britain
+131,263,211,Speed Skating,Japan
+132,260,6,Wrestling,Turkey
+133,258,35,Equestrianism,Italy
+134,255,58,Rowing,Poland
+135,254,42,Shooting,Switzerland
+136,253,92,Gymnastics,Norway
+137,252,52,Water Polo,Hungary
+138,252,46,Shooting,Hungary
+139,251,113,Gymnastics,Austria
+140,250,192,Athletics,Cuba
+141,250,40,Cycling,Switzerland
+142,250,5,Boxing,United States
+143,249,189,Swimming,Spain
+144,248,73,Rowing,Soviet Union
+145,247,170,Athletics,Nigeria
+146,247,6,Rowing,Switzerland
+147,245,0,Hockey,Pakistan
+148,244,148,Athletics,West Germany
+149,243,190,Speed Skating,Canada
+150,243,132,Equestrianism,Great Britain
+151,242,234,Alpine Skiing,France
+152,241,81,Cycling,Canada
+153,241,0,Ice Hockey,Austria
+154,240,180,Gymnastics,East Germany
+155,240,154,Gymnastics,West Germany
+156,240,0,Football,Italy
+157,238,155,Swimming,Mexico
+158,237,144,Hockey,Australia
+159,237,60,Ice Hockey,Germany
+160,234,174,Gymnastics,Russia
+161,233,63,Water Polo,United States
+162,233,19,Fencing,Netherlands
+163,230,71,Canoeing,United States
+164,228,18,Fencing,Sweden
+165,227,79,Canoeing,Hungary
+166,227,52,Water Polo,Italy
+167,226,132,Alpine Skiing,Norway
+168,225,156,Swimming,Russia
+169,224,289,Gymnastics,Australia
+170,224,103,Athletics,Austria
+171,224,76,Canoeing,Canada
+172,223,0,Ice Hockey,Norway
+173,222,119,Basketball,United States
+174,221,198,Alpine Skiing,Canada
+175,221,55,Equestrianism,Switzerland
+176,220,18,Wrestling,Japan
+177,219,106,Athletics,Portugal
+178,219,78,Equestrianism,Germany
+179,219,27,Rowing,Czechoslovakia
+180,219,23,Cycling,Poland
+181,219,5,Boxing,Great Britain
+182,219,0,Ice Hockey,Poland
+183,217,113,Hockey,Germany
+184,217,53,Canoeing,France
+185,216,65,Speed Skating,Sweden
+186,216,63,Fencing,Soviet Union
+187,216,7,Wrestling,Bulgaria
+188,214,43,Athletics,Denmark
+189,213,98,Fencing,Romania
+190,212,245,Athletics,China
+191,212,27,Fencing,Argentina
+192,212,16,Hockey,Belgium
+193,211,89,Athletics,Ireland
+194,210,46,Rowing,Denmark
+195,209,112,Cross Country Skiing,Japan
+196,209,45,Rowing,New Zealand
+197,208,30,Fencing,Switzerland
+198,207,31,Cycling,Sweden
+199,205,143,Cross Country Skiing,Germany
+200,205,24,Fencing,Denmark
+201,204,102,Football,Brazil
+202,201,170,Cross Country Skiing,Canada
+203,201,155,Swimming,West Germany
+204,201,16,Shooting,Belgium
+205,200,136,Gymnastics,Ukraine
+206,200,41,Cross Country Skiing,Austria
+207,200,14,Cycling,Austria
+208,199,307,Swimming,China
+209,199,90,Athletics,Ethiopia
+210,199,45,Speed Skating,Finland
+211,197,1,Wrestling,Great Britain
+212,196,78,Canoeing,Poland
+213,196,71,Canoeing,Germany
+214,194,38,Cycling,Spain
+215,193,65,Fencing,Canada
+216,193,16,Art Competitions,Netherlands
+217,192,7,Art Competitions,Austria
+218,190,12,Equestrianism,Spain
+219,189,60,Athletics,Trinidad and Tobago
+220,189,0,Wrestling,Iran
+221,188,150,Alpine Skiing,Great Britain
+222,188,62,Shooting,Russia
+223,188,27,Fencing,Austria
+224,188,8,Wrestling,France
+225,186,64,Shooting,Germany
+226,185,25,Water Polo,Spain
+227,184,182,Athletics,East Germany
+228,184,65,Water Polo,Australia
+229,184,63,Athletics,Argentina
+230,184,39,Shooting,Canada
+231,182,96,Football,United States
+232,182,36,Shooting,Spain
+233,180,111,Hockey,New Zealand
+234,180,16,Equestrianism,Japan
+235,179,90,Athletics,India
+236,179,66,Equestrianism,Netherlands
+237,179,63,Canoeing,Australia
+238,179,14,Shooting,Czechoslovakia
+239,179,10,Art Competitions,Italy
+240,178,113,Swimming,South Africa
+241,177,73,Canoeing,Great Britain
+242,177,20,Equestrianism,Belgium
+243,176,110,Hockey,Argentina
+244,176,68,Shooting,Australia
+245,176,4,Ski Jumping,Norway
+246,175,54,Canoeing,Sweden
+247,175,10,Equestrianism,Mexico
+248,174,107,Biathlon,Norway
+249,174,102,Cross Country Skiing,Czechoslovakia
+250,174,56,Cycling,New Zealand
+251,174,26,Water Polo,Greece
+252,174,1,Boxing,Italy
+253,173,82,Basketball,Brazil
+254,173,49,Canoeing,Romania
+255,173,20,Cycling,Colombia
+256,173,6,Cycling,Argentina
+257,173,2,Shooting,Netherlands
+258,173,0,Cycling,Czechoslovakia
+259,172,3,Ski Jumping,United States
+260,171,20,Ice Hockey,Italy
+261,170,25,Water Polo,Netherlands
+262,170,8,Wrestling,Poland
+263,170,2,Boxing,France
+264,169,135,Alpine Skiing,Sweden
+265,169,108,Biathlon,France
+266,169,0,Ice Hockey,France
+267,168,92,Swimming,Poland
+268,168,3,Wrestling,Romania
+269,168,0,Ice Hockey,Soviet Union
+270,167,95,Basketball,Australia
+271,167,17,Football,Mexico
+272,167,1,Ski Jumping,Finland
+273,166,18,Rowing,Argentina
+274,165,120,Volleyball,Brazil
+275,165,17,Shooting,Austria
+276,165,15,Rowing,Japan
+277,165,2,Ski Jumping,Austria
+278,164,87,Athletics,Bahamas
+279,164,0,Football,Spain
+280,163,65,Equestrianism,Australia
+281,163,3,Ski Jumping,Japan
+282,162,144,Swimming,New Zealand
+283,162,81,Athletics,South Korea
+284,162,2,Wrestling,Italy
+285,160,82,Swimming,Greece
+286,160,21,Fencing,Egypt
+287,160,7,Biathlon,Austria
+288,160,0,Wrestling,Soviet Union
+289,160,0,Football,Yugoslavia
+290,159,59,Biathlon,Sweden
+291,158,10,Wrestling,Germany
+292,157,105,Alpine Skiing,Argentina
+293,157,40,Swimming,Philippines
+294,156,90,Biathlon,United States
+295,156,81,Athletics,New Zealand
+296,156,18,Wrestling,Canada
+297,156,14,Equestrianism,Brazil
+298,156,0,Football,South Korea
+299,156,0,Equestrianism,Argentina
+300,155,14,Gymnastics,Egypt
+301,154,24,Sailing,Sweden
+302,153,71,Athletics,Turkey
+303,153,67,Football,Japan
+304,153,5,Art Competitions,Switzerland
+305,152,238,Athletics,Ukraine
+306,152,126,Diving,United States
+307,152,10,Equestrianism,Soviet Union
+308,152,4,Wrestling,South Korea
+309,151,54,Alpine Skiing,Liechtenstein
+310,150,86,Gymnastics,Belarus
+311,150,80,Biathlon,Italy
+312,150,68,Alpine Skiing,Spain
+313,150,30,Canoeing,Italy
+314,149,209,Rowing,Romania
+315,148,106,Swimming,Argentina
+316,148,58,Handball,Spain
+317,148,44,Canoeing,Spain
+318,148,42,Sailing,United States
+319,148,41,Sailing,Great Britain
+320,148,36,Basketball,Italy
+321,148,33,Speed Skating,Italy
+322,147,124,Speed Skating,South Korea
+323,147,50,Athletics,Morocco
+324,147,29,Rowing,Hungary
+325,147,15,Alpine Skiing,Chile
+326,147,4,Cycling,Soviet Union
+327,146,49,Athletics,Yugoslavia
+328,145,134,Swimming,Belgium
+329,145,92,Swimming,Finland
+330,144,103,Cross Country Skiing,Soviet Union
+331,144,92,Shooting,China
+332,144,54,Alpine Skiing,Japan
+333,144,47,Basketball,Spain
+334,144,27,Art Competitions,Belgium
+335,143,191,Swimming,East Germany
+336,143,108,Swimming,Switzerland
+337,143,27,Cycling,Japan
+338,142,49,Shooting,Japan
+339,142,0,Football,Egypt
+340,141,100,Football,Sweden
+341,141,10,Rowing,Belgium
+342,140,50,Athletics,Ghana
+343,140,40,Ice Hockey,Japan
+344,140,34,Football,France
+345,138,151,Speed Skating,Germany
+346,138,123,Gymnastics,North Korea
+347,138,15,Weightlifting,United States
+348,138,11,Fencing,Greece
+349,138,3,Boxing,Canada
+350,137,90,Fencing,China
+351,137,43,Fencing,Cuba
+352,137,39,Sailing,Italy
+353,137,6,Wrestling,Greece
+354,136,19,Ice Hockey,Slovakia
+355,136,15,Football,Denmark
+356,136,1,Boxing,Poland
+357,135,83,Fencing,Russia
+358,135,80,Ice Hockey,Russia
+359,135,38,Sailing,France
+360,135,28,Art Competitions,Poland
+361,135,0,Hockey,France
+362,134,72,Shooting,South Korea
+363,134,43,Sailing,Spain
+364,134,39,Sailing,Australia
+365,134,0,Ice Hockey,Czech Republic
+366,133,155,Cross Country Skiing,Poland
+367,133,72,Rowing,East Germany
+368,133,50,Equestrianism,Ireland
+369,133,46,Shooting,Poland
+370,133,45,Rowing,West Germany
+371,133,28,Sailing,Brazil
+372,133,10,Alpine Skiing,Bulgaria
+373,133,1,Ski Jumping,Switzerland
+374,133,0,Ski Jumping,Poland
+375,133,0,Boxing,Argentina
+376,132,60,Volleyball,Italy
+377,132,8,Fencing,Spain
+378,132,0,Rowing,Yugoslavia
+379,132,0,Football,Hungary
+380,131,132,Volleyball,United States
+381,131,126,Equestrianism,Canada
+382,131,45,Cross Country Skiing,Bulgaria
+383,131,10,Cycling,Mexico
+384,130,125,Cross Country Skiing,Russia
+385,130,93,Basketball,China
+386,130,91,Diving,Great Britain
+387,130,79,Swimming,Austria
+388,130,37,Athletics,Chile
+389,130,9,Shooting,Soviet Union
+390,129,115,Gymnastics,Mexico
+391,129,34,Speed Skating,Austria
+392,129,33,Athletics,Senegal
+393,129,29,Sailing,Canada
+394,129,28,Canoeing,Czechoslovakia
+395,129,0,Nordic Combined,Norway
+396,128,221,Swimming,Denmark
+397,128,9,Rowing,Brazil
+398,128,0,Nordic Combined,United States
+399,127,15,Football,Argentina
+400,127,8,Shooting,Romania
+401,126,96,Speed Skating,Soviet Union
+402,126,0,Hockey,Malaysia
+403,126,0,Boxing,Cuba
+404,125,115,Cross Country Skiing,Kazakhstan
+405,125,73,Fencing,South Korea
+406,125,60,Swimming,Puerto Rico
+407,125,16,Football,Great Britain
+408,125,8,Rowing,Norway
+409,124,225,Gymnastics,Netherlands
+410,124,182,Athletics,Bulgaria
+411,124,33,Sailing,Denmark
+412,124,6,Athletics,Pakistan
+413,124,5,Weightlifting,France
+414,124,5,Art Competitions,Japan
+415,123,74,Cross Country Skiing,Estonia
+416,123,52,Biathlon,Finland
+417,123,37,Swimming,Portugal
+418,123,31,Athletics,Puerto Rico
+419,123,5,Weightlifting,Great Britain
+420,123,2,Boxing,Australia
+421,123,0,Water Polo,Germany
+422,122,2,Boxing,Ireland
+423,122,1,Wrestling,Cuba
+424,122,0,Water Polo,Yugoslavia
+425,121,112,Biathlon,Germany
+426,121,45,Handball,Sweden
+427,121,31,Cycling,Norway
+428,121,9,Rowing,Spain
+429,120,85,Swimming,Hong Kong
+430,120,31,Archery,France
+431,120,8,Equestrianism,Poland
+432,119,17,Cycling,South Africa
+433,119,8,Rowing,Austria
+434,119,8,Bobsleigh,United States-2
+435,119,8,Bobsleigh,United States-1
+436,119,0,Ice Hockey,West Germany
+437,118,29,Fencing,Australia
+438,118,13,Rowing,Cuba
+439,117,91,Athletics,Colombia
+440,117,88,Handball,Hungary
+441,117,46,Football,Nigeria
+442,117,0,Nordic Combined,Finland
+443,116,87,Swimming,Ukraine
+444,116,23,Athletics,Algeria
+445,116,8,Shooting,Portugal
+446,116,5,Cycling,Hungary
+447,114,60,Cycling,Russia
+448,114,1,Boxing,Romania
+449,114,0,Wrestling,Switzerland
+450,113,56,Fencing,Japan
+451,113,45,Handball,Germany
+452,113,40,Fencing,West Germany
+453,113,30,Athletics,Uganda
+454,113,28,Canoeing,Soviet Union
+455,113,4,Bobsleigh,Switzerland-2
+456,113,2,Ski Jumping,Canada
+457,113,0,Wrestling,Belgium
+458,112,49,Football,Australia
+459,112,4,Ski Jumping,Germany
+460,112,0,Baseball,Japan
+461,112,0,Baseball,Cuba
+462,111,36,Basketball,France
+463,111,34,Sailing,New Zealand
+464,111,2,Fencing,Portugal
+465,111,2,Equestrianism,Portugal
+466,110,83,Football,Germany
+467,110,51,Swimming,Venezuela
+468,110,45,Hockey,Canada
+469,110,36,Basketball,Soviet Union
+470,110,24,Cross Country Skiing,Yugoslavia
+471,110,0,Hockey,Kenya
+472,110,0,Football,Netherlands
+473,110,0,Football,Morocco
+474,110,0,Boxing,South Korea
+475,110,0,Boxing,Hungary
+476,109,91,Biathlon,Poland
+477,109,33,Sailing,Netherlands
+478,109,14,Cycling,Finland
+479,109,13,Shooting,Brazil
+480,109,11,Shooting,Argentina
+481,108,217,Athletics,Romania
+482,108,0,Boxing,Germany
+483,108,0,Basketball,Puerto Rico
+484,107,99,Cross Country Skiing,Czech Republic
+485,107,91,Alpine Skiing,Slovenia
+486,107,74,Handball,France
+487,107,43,Alpine Skiing,Yugoslavia
+488,107,4,Bobsleigh,Switzerland-1
+489,107,0,Nordic Combined,Japan
+490,107,0,Nordic Combined,Austria
+491,106,72,Basketball,Canada
+492,106,39,Alpine Skiing,Iceland
+493,106,34,Volleyball,Poland
+494,106,27,Canoeing,Bulgaria
+495,106,24,Cross Country Skiing,Great Britain
+496,106,8,Speed Skating,Great Britain
+497,106,0,Football,Poland
+498,105,120,Swimming,South Korea
+499,105,95,Gymnastics,Belgium
+500,105,54,Athletics,Thailand
+501,105,12,Athletics,Venezuela
+502,105,0,Wrestling,Czechoslovakia
+503,104,16,Wrestling,Russia
+504,104,13,Weightlifting,Poland
+505,104,8,Sailing,Austria
+506,103,59,Biathlon,Japan
+507,103,4,Wrestling,Egypt
+508,103,0,Cycling,Uruguay
+509,102,6,Fencing,Czechoslovakia
+510,102,4,Biathlon,Great Britain
+511,102,3,Athletics,Saudi Arabia
+512,102,0,Handball,Iceland
+513,102,0,Football,Soviet Union
+514,101,101,Speed Skating,Russia
+515,101,26,Fencing,Mexico
+516,101,24,Athletics,Estonia
+517,101,15,Rowing,Sweden
+518,101,11,Shooting,Mexico
+519,101,6,Alpine Skiing,Turkey
+520,101,1,Modern Pentathlon,Sweden
+521,101,0,Ice Hockey,Latvia
+522,100,128,Handball,South Korea
+523,100,59,Handball,Denmark
+524,100,33,Gymnastics,Argentina
+525,100,17,Weightlifting,South Korea
+526,100,4,Wrestling,India
+527,100,2,Shooting,South Africa
+528,100,1,Wrestling,Australia
+529,100,0,Wrestling,Denmark
+530,99,98,Biathlon,Russia
+531,99,65,Diving,Mexico
+532,99,54,Diving,Sweden
+533,99,24,Sailing,Greece
+534,99,0,Water Polo,Soviet Union
+535,98,22,Canoeing,Austria
+536,98,19,Athletics,Iceland
+537,98,12,Sailing,Switzerland
+538,98,6,Fencing,Norway
+539,98,2,Bobsleigh,Italy-2
+540,98,0,Water Polo,France
+541,98,0,Football,Ghana
+542,97,128,Hockey,South Korea
+543,97,86,Athletics,Czech Republic
+544,97,13,Wrestling,Mongolia
+545,97,2,Boxing,Bulgaria
+546,97,2,Bobsleigh,Italy-1
+547,97,0,Boxing,Mexico
+548,96,65,Biathlon,Slovenia
+549,96,59,Archery,United States
+550,96,36,Basketball,Yugoslavia
+551,96,15,Weightlifting,Japan
+552,96,11,Art Competitions,Sweden
+553,96,10,Volleyball,Bulgaria
+554,96,10,Modern Pentathlon,Great Britain
+555,96,0,Boxing,Soviet Union
+556,95,160,Alpine Skiing,Germany
+557,95,151,Athletics,Belarus
+558,95,64,Diving,Germany
+559,95,13,Cross Country Skiing,Spain
+560,95,7,Athletics,Luxembourg
+561,94,121,Volleyball,South Korea
+562,94,52,Athletics,Latvia
+563,94,13,Cross Country Skiing,South Korea
+564,94,2,Ski Jumping,Italy
+565,94,1,Wrestling,Austria
+566,93,50,Swimming,Singapore
+567,93,48,Shooting,Bulgaria
+568,93,28,Equestrianism,New Zealand
+569,93,6,Weightlifting,Hungary
+570,93,3,Ski Jumping,France
+571,93,0,Water Polo,Romania
+572,93,0,Ice Hockey,Yugoslavia
+573,92,140,Volleyball,Japan
+574,92,48,Biathlon,Estonia
+575,92,32,Canoeing,Denmark
+576,92,26,Shooting,Thailand
+577,92,2,Athletics,Qatar
+578,92,0,Ski Jumping,Sweden
+579,92,0,Nordic Combined,Switzerland
+580,92,0,Nordic Combined,Germany
+581,92,0,Baseball,Netherlands
+582,91,22,Cycling,South Korea
+583,91,17,Equestrianism,Austria
+584,91,16,Equestrianism,West Germany
+585,91,3,Weightlifting,Italy
+586,90,95,Biathlon,Belarus
+587,90,10,Canoeing,Finland
+588,90,5,Weightlifting,Germany
+589,89,52,Alpine Skiing,Australia
+590,89,48,Equestrianism,Denmark
+591,89,42,Swimming,Israel
+592,89,4,Bobsleigh,Great Britain-1
+593,89,0,Water Polo,Belgium
+594,89,0,Nordic Combined,France
+595,89,0,Boxing,Puerto Rico
+596,88,94,Cross Country Skiing,Belarus
+597,88,57,Handball,Romania
+598,88,26,Sailing,Argentina
+599,88,10,Modern Pentathlon,United States
+600,88,0,Handball,Egypt
+601,88,0,Basketball,Argentina
+602,88,0,Baseball,United States
+603,88,0,Baseball,Italy
+604,87,90,Biathlon,Czech Republic
+605,87,48,Judo,France
+606,87,41,Cross Country Skiing,West Germany
+607,87,36,Basketball,Czechoslovakia
+608,87,33,Football,Colombia
+609,87,17,Swimming,Yugoslavia
+610,87,13,Water Polo,Great Britain
+611,87,4,Bobsleigh,Great Britain-2
+612,87,1,Wrestling,Norway
+613,86,96,Hockey,United States
+614,86,90,Rowing,Bulgaria
+615,86,56,Handball,United States
+616,86,28,Canoeing,Russia
+617,86,23,Speed Skating,France
+618,86,18,Cycling,Venezuela
+619,86,18,Art Competitions,Denmark
+620,86,14,Canoeing,Norway
+621,86,7,Modern Pentathlon,France
+622,86,7,Cycling,West Germany
+623,86,0,Ski Jumping,Czechoslovakia
+624,86,0,Bobsleigh,Austria-2
+625,86,0,Bobsleigh,Austria-1
+626,85,15,Alpine Skiing,Greece
+627,85,11,Canoeing,Belgium
+628,85,3,Shooting,Peru
+629,85,3,Rowing,Finland
+630,85,3,Cycling,Chile
+631,85,2,Art Competitions,Hungary
+632,84,31,Hockey,West Germany
+633,84,27,Sailing,Norway
+634,84,18,Canoeing,Slovakia
+635,84,18,Athletics,Tanzania
+636,84,9,Weightlifting,Bulgaria
+637,84,4,Ski Jumping,Slovenia
+638,84,0,Football,Czechoslovakia
+639,84,0,Boxing,Denmark
+640,84,0,Basketball,Mexico
+641,83,87,Volleyball,Cuba
+642,83,40,Swimming,Colombia
+643,83,13,Water Polo,Brazil
+644,83,10,Modern Pentathlon,Hungary
+645,83,5,Gymnastics,India
+646,83,4,Art Competitions,Czechoslovakia
+647,83,1,Equestrianism,Hungary
+648,83,0,Basketball,Lithuania
+649,82,64,Gymnastics,Portugal
+650,82,19,Swimming,Egypt
+651,82,12,Volleyball,Argentina
+652,82,1,Boxing,Thailand
+653,82,0,Weightlifting,Austria
+654,82,0,Cycling,Yugoslavia
+655,81,13,Fencing,Brazil
+656,81,1,Cycling,Greece
+657,81,1,Boxing,Venezuela
+658,81,0,Boxing,Egypt
+659,81,0,Basketball,Uruguay
+660,80,91,Biathlon,Ukraine
+661,80,49,Judo,Japan
+662,80,45,Alpine Skiing,Poland
+663,80,38,Biathlon,Latvia
+664,80,10,Modern Pentathlon,Italy
+665,80,1,Cycling,Bulgaria
+666,80,0,Football,Iraq
+667,79,73,Biathlon,Canada
+668,79,26,Shooting,India
+669,79,16,Cycling,Brazil
+670,79,4,Boxing,Morocco
+671,79,2,Archery,Belgium
+672,79,0,Wrestling,Yugoslavia
+673,79,0,Basketball,Philippines
+674,78,42,Judo,Brazil
+675,78,32,Swimming,Czechoslovakia
+676,78,27,Alpine Skiing,Andorra
+677,78,8,Golf,United States
+678,77,76,Short Track Speed Skating,Canada
+679,77,33,Alpine Skiing,Romania
+680,77,15,Gymnastics,Chinese Taipei
+681,77,6,Art Competitions,Canada
+682,77,0,Water Polo,Croatia
+683,77,0,Boxing,Japan
+684,77,0,Basketball,Egypt
+685,76,48,Swimming,Bulgaria
+686,76,43,Judo,South Korea
+687,76,33,Athletics,Barbados
+688,76,16,Hockey,Poland
+689,76,10,Weightlifting,Egypt
+690,76,9,Sailing,Portugal
+691,76,7,Weightlifting,Greece
+692,76,0,Wrestling,West Germany
+693,76,0,Water Polo,Japan
+694,75,77,Diving,Australia
+695,75,41,Tennis,United States
+696,75,31,Swimming,Croatia
+697,75,31,Sailing,Germany
+698,75,16,Sailing,Poland
+699,75,14,Handball,Croatia
+700,75,5,Boxing,Brazil
+701,75,4,Cycling,Ireland
+702,75,2,Boxing,Sweden
+703,75,0,Boxing,South Africa
+704,75,0,Boxing,Philippines
+705,74,82,Diving,Canada
+706,74,65,Biathlon,Bulgaria
+707,74,54,Athletics,Chinese Taipei
+708,74,24,Sailing,Finland
+709,74,0,Weightlifting,Iran
+710,73,71,Handball,Brazil
+711,73,48,Basketball,Cuba
+712,73,35,Alpine Skiing,New Zealand
+713,73,26,Athletics,Sierra Leone
+714,73,20,Weightlifting,China
+715,73,16,Alpine Skiing,Lebanon
+716,73,8,Bobsleigh,Germany-2
+717,73,8,Bobsleigh,Germany-1
+718,73,2,Equestrianism,Bulgaria
+719,73,0,Ice Hockey,Romania
+720,72,70,Volleyball,Russia
+721,72,41,Alpine Skiing,Russia
+722,72,33,Judo,United States
+723,72,28,Swimming,Turkey
+724,72,26,Canoeing,West Germany
+725,72,22,Shooting,Cuba
+726,72,17,Wrestling,Ukraine
+727,72,3,Modern Pentathlon,Mexico
+728,72,1,Boxing,Nigeria
+729,72,0,Ski Jumping,Yugoslavia
+730,72,0,Ski Jumping,Czech Republic
+731,72,0,Hockey,Switzerland
+732,72,0,Handball,Tunisia
+733,72,0,Handball,Poland
+734,72,0,Boxing,Spain
+735,71,130,Gymnastics,Brazil
+736,71,75,Alpine Skiing,West Germany
+737,71,70,Volleyball,Soviet Union
+738,71,70,Short Track Speed Skating,South Korea
+739,71,44,Handball,Yugoslavia
+740,71,40,Judo,Great Britain
+741,71,29,Athletics,Cote d'Ivoire
+742,71,22,Canoeing,East Germany
+743,71,19,Fencing,Venezuela
+744,71,14,Canoeing,Netherlands
+745,71,13,Shooting,Egypt
+746,71,3,Cycling,East Germany
+747,71,1,Shooting,Philippines
+748,71,1,Boxing,Finland
+749,71,0,Wrestling,Mexico
+750,71,0,Weightlifting,Soviet Union
+751,71,0,Water Polo,Sweden
+752,71,0,Football,Turkey
+753,71,0,Boxing,Uganda
+754,70,132,Swimming,Romania
+755,70,73,Figure Skating,United States
+756,70,35,Volleyball,Netherlands
+757,70,31,Cycling,Ukraine
+758,70,30,Diving,Italy
+759,70,12,Basketball,Poland
+760,70,12,Athletics,Zimbabwe
+761,70,8,Weightlifting,Australia
+762,70,2,Sailing,Soviet Union
+763,70,0,Volleyball,Tunisia
+764,70,0,Cycling,Iran
+765,69,107,Speed Skating,China
+766,69,34,Swimming,Norway
+767,69,29,Sailing,Japan
+768,69,20,Canoeing,Czech Republic
+769,69,5,Athletics,Botswana
+770,69,3,Alpine Skiing,Iran
+771,69,0,Ice Hockey,Belarus
+772,69,0,Hockey,Denmark
+773,69,0,Football,Bulgaria
+774,69,0,Boxing,Algeria
+775,68,67,Short Track Speed Skating,United States
+776,68,63,Swimming,Iceland
+777,68,52,Tennis,France
+778,68,50,Football,Norway
+779,68,48,Alpine Skiing,Czech Republic
+780,68,8,Alpine Skiing,South Korea
+781,68,4,Cycling,Luxembourg
+782,68,1,Ski Jumping,Russia
+783,68,0,Modern Pentathlon,Finland
+784,68,0,Football,Honduras
+785,68,0,Boxing,Turkey
+786,68,0,Baseball,South Korea
+787,68,0,Baseball,Australia
+788,67,76,Cross Country Skiing,East Germany
+789,67,70,Short Track Speed Skating,Italy
+790,67,48,Basketball,Japan
+791,67,14,Swimming,United States Virgin Islands
+792,67,14,Shooting,West Germany
+793,67,6,Bobsleigh,Romania
+794,67,0,Wrestling,Georgia
+795,67,0,Football,Luxembourg
+796,67,0,Baseball,Chinese Taipei
+797,66,74,Short Track Speed Skating,China
+798,66,19,Biathlon,Switzerland
+799,66,16,Canoeing,Switzerland
+800,66,11,Wrestling,Kazakhstan
+801,66,2,Wrestling,Argentina
+802,66,1,Weightlifting,Cuba
+803,66,0,Weightlifting,Czechoslovakia
+804,65,69,Basketball,South Korea
+805,65,64,Hockey,South Africa
+806,65,53,Alpine Skiing,Czechoslovakia
+807,65,46,Canoeing,China
+808,65,33,Shooting,Ukraine
+809,65,31,Athletics,Antigua and Barbuda
+810,65,27,Athletics,Slovakia
+811,65,22,Alpine Skiing,Finland
+812,65,16,Wrestling,China
+813,65,13,Swimming,Lithuania
+814,65,6,Weightlifting,Romania
+815,65,6,Shooting,East Germany
+816,65,0,Nordic Combined,Italy
+817,65,0,Football,Tunisia
+818,65,0,Football,Portugal
+819,64,106,Rowing,China
+820,64,85,Speed Skating,Poland
+821,64,69,Archery,Great Britain
+822,64,31,Shooting,Czech Republic
+823,64,1,Boxing,Netherlands
+824,63,62,Hockey,Japan
+825,63,35,Cross Country Skiing,Romania
+826,63,13,Sailing,Ireland
+827,63,11,Athletics,Tunisia
+828,63,6,Bobsleigh,Canada-1
+829,63,2,Weightlifting,Finland
+830,63,1,Weightlifting,Sweden
+831,63,0,Biathlon,Soviet Union
+832,62,75,Gymnastics,Greece
+833,62,36,Canoeing,Japan
+834,62,24,Judo,Mongolia
+835,62,6,Bobsleigh,Canada-2
+836,62,2,Shooting,Israel
+837,62,2,Sailing,West Germany
+838,62,0,Nordic Combined,Czech Republic
+839,61,50,Tennis,Great Britain
+840,61,25,Rowing,Russia
+841,61,14,Canoeing,New Zealand
+842,61,11,Biathlon,Czechoslovakia
+843,61,5,Rowing,Ireland
+844,61,2,Speed Skating,Australia
+845,61,2,Athletics,Egypt
+846,61,1,Cycling,Latvia
+847,61,1,Boxing,Kenya
+848,60,78,Biathlon,Slovakia
+849,60,36,Cross Country Skiing,Slovakia
+850,60,28,Handball,Czechoslovakia
+851,60,25,Swimming,Guatemala
+852,60,16,Cycling,Czech Republic
+853,60,16,Athletics,Guatemala
+854,60,7,Wrestling,Belarus
+855,60,1,Swimming,United Arab Emirates
+856,60,0,Volleyball,Egypt
+857,59,34,Swimming,Malaysia
+858,59,28,Shooting,Belarus
+859,59,25,Athletics,Israel
+860,59,24,Volleyball,Czechoslovakia
+861,59,12,Basketball,Angola
+862,59,8,Wrestling,Azerbaijan
+863,59,5,Boxing,Russia
+864,59,2,Shooting,Puerto Rico
+865,59,0,Handball,Switzerland
+866,59,0,Handball,Algeria
+867,58,78,Cross Country Skiing,China
+868,58,64,Short Track Speed Skating,Japan
+869,58,56,Figure Skating,Canada
+870,58,22,Athletics,Peru
+871,58,18,Judo,Hungary
+872,58,15,Athletics,Dominican Republic
+873,58,10,Fencing,Hong Kong
+874,58,4,Fencing,Colombia
+875,58,0,Water Polo,West Germany
+876,58,0,Football,Belgium
+877,57,48,Freestyle Skiing,United States
+878,57,43,Handball,Russia
+879,57,42,Handball,Soviet Union
+880,57,39,Athletics,Philippines
+881,57,36,Archery,Italy
+882,57,36,Alpine Skiing,Croatia
+883,57,30,Judo,Australia
+884,57,28,Tennis,Sweden
+885,57,15,Rowing,Greece
+886,57,13,Athletics,Zambia
+887,57,13,Athletics,Liberia
+888,57,0,Wrestling,East Germany
+889,57,0,Water Polo,Cuba
+890,57,0,Fencing,Kuwait
+891,57,0,Equestrianism,Czechoslovakia
+892,57,0,Boxing,Belgium
+893,57,0,Bobsleigh,France-2
+894,57,0,Bobsleigh,France-1
+895,56,56,Diving,China
+896,56,53,Alpine Skiing,Soviet Union
+897,56,27,Athletics,Ecuador
+898,56,11,Sailing,Hungary
+899,56,7,Shooting,Colombia
+900,56,0,Cycling,Ethiopia
+901,56,0,Boxing,Ghana
+902,55,104,Swimming,Chinese Taipei
+903,55,95,Cross Country Skiing,Ukraine
+904,55,74,Football,China
+905,55,59,Athletics,Unified Team
+906,55,48,Freestyle Skiing,Canada
+907,55,35,Gymnastics,Israel
+908,55,13,Swimming,Kazakhstan
+909,55,12,Cross Country Skiing,Turkey
+910,55,11,Athletics,Malaysia
+911,55,6,Fencing,Finland
+912,55,1,Boxing,India
+913,55,0,Boxing,Iran
+914,55,0,Biathlon,East Germany
+915,54,38,Luge,Austria
+916,54,23,Swimming,Kyrgyzstan
+917,54,21,Judo,Poland
+918,54,16,Cycling,Cuba
+919,54,15,Rowing,Mexico
+920,54,13,Rowing,South Africa
+921,54,12,Weightlifting,Turkey
+922,54,12,Handball,Japan
+923,54,10,Canoeing,Mexico
+924,54,7,Athletics,Iran
+925,54,3,Equestrianism,Romania
+926,54,0,Ski Jumping,Soviet Union
+927,54,0,Ski Jumping,South Korea
+928,54,0,Modern Pentathlon,Soviet Union
+929,54,0,Boxing,Norway
+930,54,0,Boxing,Mongolia
+931,53,63,Figure Skating,Great Britain
+932,53,35,Snowboarding,Canada
+933,53,28,Judo,Canada
+934,53,15,Canoeing,Kazakhstan
+935,53,12,Judo,Argentina
+936,53,2,Fencing,Lebanon
+937,53,0,Football,Guatemala
+938,53,0,Football,Chile
+939,53,0,Cross Country Skiing,Iceland
+940,52,31,Swimming,El Salvador
+941,52,16,Speed Skating,Hungary
+942,52,13,Athletics,Fiji
+943,52,9,Cross Country Skiing,Australia
+944,52,8,Equestrianism,Norway
+945,52,6,Fencing,Luxembourg
+946,52,4,Boxing,Kazakhstan
+947,52,0,Wrestling,Uzbekistan
+948,52,0,Nordic Combined,Czechoslovakia
+949,51,61,Biathlon,Romania
+950,51,61,Athletics,Lithuania
+951,51,51,Archery,South Korea
+952,51,46,Athletics,Slovenia
+953,51,41,Diving,Japan
+954,51,33,Judo,Netherlands
+955,51,2,Shooting,Chile
+956,51,1,Wrestling,Estonia
+957,51,0,Water Polo,Egypt
+958,51,0,Shooting,Guatemala
+959,51,0,Football,West Germany
+960,51,0,Football,Kuwait
+961,51,0,Football,India
+962,51,0,Football,Finland
+963,51,0,Football,East Germany
+964,51,0,Fencing,Bohemia
+965,51,0,Boxing,Zambia
+966,51,0,Boxing,Dominican Republic
+967,51,0,Boxing,Czechoslovakia
+968,50,62,Swimming,Ireland
+969,50,50,Diving,Soviet Union
+970,50,40,Luge,United States
+971,50,38,Snowboarding,Switzerland
+972,50,17,Football,Cameroon
+973,50,9,Weightlifting,Canada
+974,50,4,Equestrianism,South Korea
+975,50,3,Fencing,Ireland
+976,50,1,Equestrianism,Chile
+977,50,0,Ski Jumping,Kazakhstan
+978,50,0,Football,Austria
+979,49,89,Athletics,Kazakhstan
+980,49,50,Alpine Skiing,Hungary
+981,49,45,Judo,Cuba
+982,49,36,Basketball,Bulgaria
+983,49,24,Archery,Australia
+984,49,12,Basketball,Hungary
+985,49,11,Cross Country Skiing,Mongolia
+986,49,8,Shooting,Venezuela
+987,49,7,Fencing,Iran
+988,49,2,Cycling,Malaysia
+989,49,1,Boxing,Uzbekistan
+990,49,0,Biathlon,West Germany
+991,48,43,Fencing,Ukraine
+992,48,38,Figure Skating,France
+993,48,36,Volleyball,Canada
+994,48,36,Gymnastics,Unified Team
+995,48,35,Luge,Italy
+996,48,31,Swimming,Peru
+997,48,26,Water Polo,Canada
+998,48,25,Athletics,Bahrain
+999,48,22,Short Track Speed Skating,Great Britain
+1000,48,14,Shooting,North Korea
+1001,48,13,Cross Country Skiing,Latvia
+1002,48,12,Basketball,Greece
+1003,48,10,Modern Pentathlon,Poland
+1004,48,7,Shooting,San Marino
+1005,48,5,Modern Pentathlon,Australia
+1006,48,1,Athletics,Kuwait
+1007,48,0,Ice Hockey,Great Britain
+1008,48,0,Gymnastics,United Arab Republic
+1009,48,0,Gymnastics,Saar
+1010,48,0,Football,Iran
+1011,48,0,Boxing,Pakistan
+1012,48,0,Baseball,Canada
+1013,47,51,Archery,China
+1014,47,47,Biathlon,Kazakhstan
+1015,47,34,Rowing,Ukraine
+1016,47,21,Speed Skating,Kazakhstan
+1017,47,18,Weightlifting,Colombia
+1018,47,15,Athletics,Bermuda
+1019,47,13,Weightlifting,Chinese Taipei
+1020,47,12,Athletics,Haiti
+1021,47,0,Wrestling,Armenia
+1022,47,0,Handball,Slovenia
+1023,47,0,Football,Uruguay
+1024,47,0,Football,Costa Rica
+1025,47,0,Cycling,Trinidad and Tobago
+1026,46,54,Swimming,Slovenia
+1027,46,45,Tennis,Italy
+1028,46,45,Figure Skating,Japan
+1029,46,42,Judo,Germany
+1030,46,34,Diving,France
+1031,46,30,Judo,Italy
+1032,46,13,Rowing,Czech Republic
+1033,46,12,Basketball,Croatia
+1034,46,12,Athletics,Congo (Brazzaville)
+1035,46,11,Shooting,Yugoslavia
+1036,46,8,Cycling,Hong Kong
+1037,46,6,Canoeing,Cuba
+1038,46,4,Cycling,Thailand
+1039,46,4,Athletics,Iraq
+1040,46,1,Boxing,Colombia
+1041,46,0,Volleyball,France
+1042,46,0,Rowing,Croatia
+1043,45,52,Athletics,Cameroon
+1044,45,46,Swimming,Belarus
+1045,45,40,Snowboarding,United States
+1046,45,33,Tennis,Spain
+1047,45,32,Diving,Russia
+1048,45,22,Athletics,Cyprus
+1049,45,19,Ice Hockey,Kazakhstan
+1050,45,18,Freestyle Skiing,France
+1051,45,17,Tennis,Germany
+1052,45,13,Handball,West Germany
+1053,45,8,Swimming,Cuba
+1054,45,8,Athletics,Sudan
+1055,45,6,Swimming,Bermuda
+1056,45,6,Shooting,Monaco
+1057,45,5,Speed Skating,Belgium
+1058,45,5,Rowing,Egypt
+1059,45,3,Sailing,United States Virgin Islands
+1060,45,2,Sailing,East Germany
+1061,45,2,Boxing,Tunisia
+1062,45,1,Weightlifting,Belgium
+1063,45,0,Fencing,Uruguay
+1064,45,0,Boxing,Yugoslavia
+1065,45,0,Boxing,East Germany
+1066,44,34,Speed Skating,West Germany
+1067,44,23,Athletics,Sri Lanka
+1068,44,16,Athletics,Papua New Guinea
+1069,44,6,Cross Country Skiing,Greece
+1070,44,6,Boxing,China
+1071,44,5,Gymnastics,Morocco
+1072,44,5,Diving,Finland
+1073,44,5,Canoeing,Brazil
+1074,44,4,Canoeing,Ireland
+1075,44,2,Cross Country Skiing,Liechtenstein
+1076,44,0,Rowing,Uruguay
+1077,44,0,Nordic Combined,Russia
+1078,44,0,Canoeing,Yugoslavia
+1079,43,51,Athletics,Uzbekistan
+1080,43,49,Archery,Japan
+1081,43,29,Tennis,Australia
+1082,43,28,Handball,East Germany
+1083,43,24,Luge,Canada
+1084,43,21,Sailing,Russia
+1085,43,13,Swimming,Uzbekistan
+1086,43,8,Modern Pentathlon,Germany
+1087,43,3,Modern Pentathlon,Japan
+1088,43,3,Fencing,Bulgaria
+1089,43,2,Fencing,Chile
+1090,43,1,Wrestling,Netherlands
+1091,43,0,Water Polo,Czechoslovakia
+1092,43,0,Ski Jumping,East Germany
+1093,43,0,Nordic Combined,Poland
+1094,43,0,Football,Switzerland
+1095,43,0,Basketball,Chile
+1096,42,87,Biathlon,China
+1097,42,31,Tennis,Argentina
+1098,42,15,Shooting,Chinese Taipei
+1099,42,12,Archery,Netherlands
+1100,42,8,Fencing,East Germany
+1101,42,1,Boxing,Ukraine
+1102,42,0,Wrestling,Afghanistan
+1103,42,0,Rowing,Slovenia
+1104,42,0,Boxing,Cameroon
+1105,41,55,Cycling,China
+1106,41,34,Judo,Spain
+1107,41,30,Judo,Russia
+1108,41,14,Hockey,Austria
+1109,41,13,Short Track Speed Skating,Australia
+1110,41,12,Judo,Austria
+1111,41,11,Sailing,Mexico
+1112,41,10,Gymnastics,South Africa
+1113,41,2,Modern Pentathlon,Switzerland
+1114,41,2,Bobsleigh,Sweden
+1115,41,1,Art Competitions,Luxembourg
+1116,41,0,Rowing,Portugal
+1117,41,0,Bobsleigh,Romania-2
+1118,41,0,Bobsleigh,Romania-1
+1119,40,41,Cycling,Lithuania
+1120,40,34,Short Track Speed Skating,France
+1121,40,33,Snowboarding,France
+1122,40,24,Athletics,Croatia
+1123,40,21,Cross Country Skiing,Lithuania
+1124,40,16,Luge,Japan
+1125,40,8,Canoeing,South Korea
+1126,40,8,Athletics,Mauritius
+1127,40,8,Alpine Skiing,Belgium
+1128,40,7,Sailing,Bermuda
+1129,40,7,Judo,Senegal
+1130,40,4,Bobsleigh,Japan
+1131,40,1,Judo,Georgia
+1132,40,0,Wrestling,Morocco
+1133,40,0,Weightlifting,Switzerland
+1134,40,0,Water Polo,Mexico
+1135,40,0,Ice Hockey,Hungary
+1136,40,0,Ice Hockey,Belgium
+1137,40,0,Football,Romania
+1138,40,0,Cycling,Turkey
+1139,40,0,Cycling,India
+1140,39,63,Swimming,Czech Republic
+1141,39,61,Speed Skating,East Germany
+1142,39,28,Swimming,Unified Team
+1143,39,26,Swimming,Honduras
+1144,39,18,Equestrianism,Finland
+1145,39,14,Judo,Portugal
+1146,39,12,Athletics,Lesotho
+1147,39,10,Weightlifting,Indonesia
+1148,39,10,Canoeing,Argentina
+1149,39,7,Swimming,Ecuador
+1150,39,5,Sailing,Croatia
+1151,39,3,Sailing,Puerto Rico
+1152,39,3,Judo,Uzbekistan
+1153,39,0,Water Polo,Serbia
+1154,39,0,Water Polo,Montenegro
+1155,39,0,Ski Jumping,West Germany
+1156,39,0,Hockey,Afghanistan
+1157,39,0,Equestrianism,Turkey
+1158,39,0,Athletics,Bohemia
+1159,38,65,Water Polo,Russia
+1160,38,44,Swimming,Thailand
+1161,38,43,Figure Skating,Austria
+1162,38,37,Diving,Austria
+1163,38,34,Snowboarding,Austria
+1164,38,26,Snowboarding,Italy
+1165,38,18,Football,Greece
+1166,38,15,Canoeing,Portugal
+1167,38,2,Wrestling,Senegal
+1168,38,0,Wrestling,Syria
+1169,38,0,Water Polo,Serbia and Montenegro
+1170,38,0,Boxing,Switzerland
+1171,38,0,Boxing,Chile
+1172,38,0,Bobsleigh,France
+1173,37,50,Archery,Chinese Taipei
+1174,37,39,Water Polo,China
+1175,37,24,Water Polo,Kazakhstan
+1176,37,16,Tennis,Netherlands
+1177,37,16,Swimming,Luxembourg
+1178,37,14,Weightlifting,North Korea
+1179,37,13,Athletics,Gambia
+1180,37,8,Cycling,Slovakia
+1181,37,7,Alpine Skiing,Morocco
+1182,37,5,Swimming,Indonesia
+1183,37,4,Cycling,Kazakhstan
+1184,37,4,Cross Country Skiing,Argentina
+1185,37,3,Wrestling,Spain
+1186,37,1,Swimming,Algeria
+1187,37,1,Cycling,Portugal
+1188,37,0,Modern Pentathlon,Austria
+1189,37,0,Boxing,West Germany
+1190,37,0,Boxing,Austria
+1191,36,58,Basketball,Russia
+1192,36,46,Judo,China
+1193,36,31,Biathlon,Hungary
+1194,36,28,Rowing,South Korea
+1195,36,25,Athletics,United States Virgin Islands
+1196,36,24,Basketball,Senegal
+1197,36,22,Athletics,Madagascar
+1198,36,19,Sailing,Israel
+1199,36,16,Judo,Algeria
+1200,36,15,Athletics,Uruguay
+1201,36,12,Volleyball,Australia
+1202,36,11,Canoeing,Uzbekistan
+1203,36,11,Alpine Skiing,Cyprus
+1204,36,10,Athletics,Malawi
+1205,36,9,Gymnastics,Puerto Rico
+1206,36,4,Sailing,South Korea
+1207,36,0,Water Polo,Switzerland
+1208,36,0,Rowing,Estonia
+1209,36,0,Boxing,Uruguay
+1210,36,0,Boxing,Tanzania
+1211,36,0,Bobsleigh,West Germany-2
+1212,36,0,Bobsleigh,West Germany-1
+1213,36,0,Basketball,Switzerland
+1214,36,0,Basketball,Serbia and Montenegro
+1215,35,33,Archery,Sweden
+1216,35,28,Canoeing,Ukraine
+1217,35,26,Athletics,Moldova
+1218,35,25,Canoeing,Belarus
+1219,35,22,Tennis,Canada
+1220,35,11,Shooting,Slovakia
+1221,35,11,Sailing,Ukraine
+1222,35,11,Cross Country Skiing,Croatia
+1223,35,9,Swimming,Guam
+1224,35,8,Swimming,Lebanon
+1225,35,6,Sailing,Turkey
+1226,35,6,Biathlon,South Korea
+1227,35,6,Athletics,Eritrea
+1228,35,3,Athletics,Oman
+1229,35,2,Boxing,Azerbaijan
+1230,35,0,Volleyball,Serbia and Montenegro
+1231,35,0,Rugby,United States
+1232,35,0,Nordic Combined,Soviet Union
+1233,35,0,Cycling,Romania
+1234,35,0,Cycling,Jamaica
+1235,34,46,Football,New Zealand
+1236,34,32,Football,South Africa
+1237,34,22,Archery,Mexico
+1238,34,19,Athletics,Guyana
+1239,34,13,Tennis,South Africa
+1240,34,13,Athletics,Seychelles
+1241,34,8,Shooting,New Zealand
+1242,34,6,Luge,Sweden
+1243,34,4,Shooting,Turkey
+1244,34,1,Swimming,Kuwait
+1245,34,1,Cycling,Guatemala
+1246,34,0,Rugby,France
+1247,34,0,Nordic Combined,Estonia
+1248,34,0,Hockey,Mexico
+1249,34,0,Football,Paraguay
+1250,34,0,Basketball,Germany
+1251,34,0,Basketball,Belgium
+1252,33,39,Freestyle Skiing,Russia
+1253,33,39,Alpine Skiing,Slovakia
+1254,33,30,Diving,Ukraine
+1255,33,27,Sailing,China
+1256,33,23,Table Tennis,Brazil
+1257,33,18,Cross Country Skiing,Hungary
+1258,33,16,Weightlifting,Ukraine
+1259,33,16,Judo,Kazakhstan
+1260,33,15,Weightlifting,Belarus
+1261,33,13,Archery,Canada
+1262,33,11,Athletics,Indonesia
+1263,33,8,Cycling,Chinese Taipei
+1264,33,7,Weightlifting,India
+1265,33,7,Biathlon,Argentina
+1266,33,6,Swimming,Moldova
+1267,33,6,Alpine Skiing,Mexico
+1268,33,5,Judo,Egypt
+1269,33,3,Weightlifting,Argentina
+1270,33,2,Shooting,Hong Kong
+1271,33,0,Modern Pentathlon,Czechoslovakia
+1272,33,0,Hockey,Italy
+1273,33,0,Boxing,Greece
+1274,32,31,Shooting,Mongolia
+1275,32,30,Table Tennis,Germany
+1276,32,29,Freestyle Skiing,Switzerland
+1277,32,28,Swimming,Fiji
+1278,32,24,Archery,India
+1279,32,22,Volleyball,Romania
+1280,32,19,Table Tennis,Austria
+1281,32,15,Swimming,Estonia
+1282,32,13,Table Tennis,Sweden
+1283,32,13,Archery,Finland
+1284,32,12,Sailing,Belgium
+1285,32,11,Swimming,Bahamas
+1286,32,2,Wrestling,Kyrgyzstan
+1287,32,0,Wrestling,Pakistan
+1288,32,0,Shooting,Kenya
+1289,32,0,Hockey,Egypt
+1290,32,0,Football,Zambia
+1291,32,0,Football,Israel
+1292,32,0,Football,Algeria
+1293,32,0,Bobsleigh,Latvia-2
+1294,32,0,Bobsleigh,Latvia-1
+1295,32,0,Basketball,Peru
+1296,31,35,Table Tennis,Japan
+1297,31,34,Table Tennis,South Korea
+1298,31,33,Table Tennis,China
+1299,31,32,Archery,Ukraine
+1300,31,31,Figure Skating,United States-2
+1301,31,31,Figure Skating,United States-1
+1302,31,24,Judo,Belgium
+1303,31,16,Hockey,Soviet Union
+1304,31,16,Freestyle Skiing,Sweden
+1305,31,14,Weightlifting,Russia
+1306,31,14,Judo,Romania
+1307,31,14,Gymnastics,Kazakhstan
+1308,31,11,Athletics,Benin
+1309,31,8,Athletics,Nepal
+1310,31,7,Athletics,Belize
+1311,31,5,Weightlifting,Armenia
+1312,31,5,Swimming,Barbados
+1313,31,4,Fencing,Turkey
+1314,31,4,Bobsleigh,Netherlands
+1315,31,3,Speed Skating,Czechoslovakia
+1316,31,3,Sailing,South Africa
+1317,31,2,Swimming,Australasia
+1318,31,2,Cross Country Skiing,Denmark
+1319,31,0,Weightlifting,West Germany
+1320,31,0,Weightlifting,East Germany
+1321,31,0,Rowing,Royal Club Nautique de Gand
+1322,31,0,Judo,Soviet Union
+1323,31,0,Football,Qatar
+1324,31,0,Football,Peru
+1325,31,0,Cycling,South Vietnam
+1326,31,0,Cycling,Pakistan
+1327,31,0,Bobsleigh,Monaco
+1328,31,0,Alpine Skiing,Bolivia
+1329,30,36,Table Tennis,Hong Kong
+1330,30,36,Rowing,Belarus
+1331,30,33,Short Track Speed Skating,Germany
+1332,30,24,Snowboarding,Germany
+1333,30,17,Rowing,Unified Team
+1334,30,17,Luge,Poland
+1335,30,8,Athletics,Nicaragua
+1336,30,4,Freestyle Skiing,Finland
+1337,30,1,Cycling,Cayman Islands
+1338,30,0,Modern Pentathlon,West Germany
+1339,30,0,Modern Pentathlon,Spain
+1340,30,0,Football,Saudi Arabia
+1341,29,49,Short Track Speed Skating,Netherlands
+1342,29,40,Swimming,Uruguay
+1343,29,25,Shooting,Kazakhstan
+1344,29,23,Tennis,Switzerland
+1345,29,22,Curling,Sweden
+1346,29,17,Diving,Brazil
+1347,29,15,Handball,Argentina
+1348,29,13,Tennis,India
+1349,29,13,Tennis,Denmark
+1350,29,9,Luge,Czechoslovakia
+1351,29,7,Judo,Puerto Rico
+1352,29,7,Cycling,Slovenia
+1353,29,5,Speed Skating,Switzerland
+1354,29,5,Athletics,Swaziland
+1355,29,4,Weightlifting,Puerto Rico
+1356,29,4,Luge,Great Britain
+1357,29,1,Fencing,Morocco
+1358,29,0,Weightlifting,Iraq
+1359,29,0,Football,Cuba
+1360,29,0,Boxing,Luxembourg
+1361,29,0,Bobsleigh,Poland
+1362,28,54,Football,Canada
+1363,28,41,Short Track Speed Skating,Russia
+1364,28,25,Luge,Germany
+1365,28,25,Figure Skating,Czechoslovakia
+1366,28,24,Curling,Great Britain
+1367,28,16,Judo,Ukraine
+1368,28,14,Art Competitions,Ireland
+1369,28,13,Athletics,Costa Rica
+1370,28,12,Weightlifting,Kazakhstan
+1371,28,9,Athletics,Chad
+1372,28,8,Swimming,India
+1373,28,6,Weightlifting,Spain
+1374,28,6,Judo,Switzerland
+1375,28,4,Wrestling,North Korea
+1376,28,4,Bobsleigh,Russia-2
+1377,28,4,Bobsleigh,Russia-1
+1378,28,3,Modern Pentathlon,South Korea
+1379,28,1,Alpine Skiing,San Marino
+1380,28,0,Wrestling,South Africa
+1381,28,0,Water Polo,Austria
+1382,28,0,Water Polo,Argentina
+1383,28,0,Sailing,Bahamas
+1384,28,0,Modern Pentathlon,Bulgaria
+1385,28,0,Luge,Italy-2
+1386,28,0,Luge,Italy-1
+1387,28,0,Football,Thailand
+1388,28,0,Equestrianism,Saudi Arabia
+1389,28,0,Equestrianism,East Germany
+1390,28,0,Cycling,Cameroon
+1391,28,0,Alpine Skiing,Chinese Taipei
+1392,27,33,Table Tennis,Australia
+1393,27,32,Figure Skating,Germany
+1394,27,30,Tennis,Japan
+1395,27,25,Table Tennis,Nigeria
+1396,27,25,Badminton,Denmark
+1397,27,21,Tennis,Greece
+1398,27,21,Luge,Latvia
+1399,27,19,Badminton,Indonesia
+1400,27,19,Athletics,Serbia and Montenegro
+1401,27,16,Judo,Chinese Taipei
+1402,27,15,Table Tennis,Poland
+1403,27,10,Athletics,Equatorial Guinea
+1404,27,9,Sailing,Hong Kong
+1405,27,9,Canoeing,Slovenia
+1406,27,9,Athletics,Saint Vincent and the Grenadines
+1407,27,9,Archery,Spain
+1408,27,8,Wrestling,Venezuela
+1409,27,8,Wrestling,Nigeria
+1410,27,5,Athletics,Somalia
+1411,27,4,Modern Pentathlon,Brazil
+1412,27,4,Bobsleigh,Italy
+1413,27,4,Athletics,British Virgin Islands
+1414,27,0,Rowing,Toronto Argonauts
+1415,27,0,Handball,Cuba
+1416,27,0,Cycling,Philippines
+1417,27,0,Boxing,Ethiopia
+1418,26,27,Tennis,Russia
+1419,26,16,Tennis,Romania
+1420,26,15,Table Tennis,Canada
+1421,26,7,Diving,Cuba
+1422,26,7,Athletics,Maldives
+1423,26,6,Bobsleigh,Australia
+1424,26,5,Short Track Speed Skating,Belgium
+1425,26,5,Rowing,Chile
+1426,26,5,Cycling,Estonia
+1427,26,5,Athletics,Togo
+1428,26,4,Diving,Egypt
+1429,26,3,Judo,Morocco
+1430,26,2,Boxing,New Zealand
+1431,26,0,Wrestling,Philippines
+1432,26,0,Weightlifting,Denmark
+1433,26,0,Luge,United States-2
+1434,26,0,Luge,United States-1
+1435,26,0,Judo,West Germany
+1436,26,0,Handball,Kuwait
+1437,26,0,Cycling,Peru
+1438,26,0,Cycling,Ecuador
+1439,26,0,Canoeing,Lithuania
+1440,26,0,Canoeing,Croatia
+1441,26,0,Bobsleigh,Jamaica
+1442,26,0,Bobsleigh,Chinese Taipei
+1443,26,0,Biathlon,Yugoslavia
+1444,25,50,Speed Skating,North Korea
+1445,25,35,Freestyle Skiing,Australia
+1446,25,23,Tennis,Hungary
+1447,25,22,Table Tennis,Chinese Taipei
+1448,25,22,Freestyle Skiing,Japan
+1449,25,20,Shooting,Serbia
+1450,25,17,Athletics,Saint Kitts and Nevis
+1451,25,15,Judo,Venezuela
+1452,25,15,Curling,Germany
+1453,25,14,Tennis,Austria
+1454,25,12,Tennis,Croatia
+1455,25,12,Snowboarding,Sweden
+1456,25,12,Gymnastics,Colombia
+1457,25,12,Basketball,Great Britain
+1458,25,10,Snowboarding,Finland
+1459,25,8,Alpine Skiing,Brazil
+1460,25,6,Athletics,Paraguay
+1461,25,5,Modern Pentathlon,Egypt
+1462,25,5,Athletics,Honduras
+1463,25,2,Cycling,Belize
+1464,25,1,Wrestling,Puerto Rico
+1465,25,0,Nordic Combined,West Germany
+1466,25,0,Bobsleigh,Czech Republic
+1467,25,0,Basketball,Iran
+1468,24,102,Volleyball,China
+1469,24,36,Volleyball,Germany
+1470,24,36,Volleyball,East Germany
+1471,24,36,Basketball,New Zealand
+1472,24,35,Volleyball,Serbia
+1473,24,33,Archery,Turkey
+1474,24,32,Short Track Speed Skating,Hungary
+1475,24,28,Tennis,Czech Republic
+1476,24,24,Figure Skating,China
+1477,24,24,Figure Skating,Canada-2
+1478,24,24,Figure Skating,Canada-1
+1479,24,24,Curling,Canada
+1480,24,23,Curling,United States
+1481,24,19,Curling,Switzerland
+1482,24,16,Canoeing,South Africa
+1483,24,15,Athletics,Rwanda
+1484,24,14,Athletics,Grenada
+1485,24,13,Athletics,El Salvador
+1486,24,12,Volleyball,Spain
+1487,24,12,Volleyball,Mexico
+1488,24,12,Athletics,Hong Kong
+1489,24,9,Athletics,Liechtenstein
+1490,24,8,Fencing,Unified Team
+1491,24,6,Judo,Mexico
+1492,24,5,Judo,Azerbaijan
+1493,24,4,Athletics,Djibouti
+1494,24,4,Athletics,Bangladesh
+1495,24,3,Judo,Bulgaria
+1496,24,3,Canoeing,Hong Kong
+1497,24,3,Athletics,Libya
+1498,24,2,Shooting,Lebanon
+1499,24,1,Shooting,Ireland
+1500,24,1,Modern Pentathlon,Denmark
+1501,24,1,Boxing,North Korea
+1502,24,0,Wrestling,Guatemala
+1503,24,0,Tug-Of-War,Sweden
+1504,24,0,Rowing,"Phalainis ton Thorichtou ""Hydra""-2"
+1505,24,0,Rowing,"Marinai della nave da guerra ""Varese"""
+1506,24,0,Nordic Combined,East Germany
+1507,24,0,Judo,Yugoslavia
+1508,24,0,Judo,Kuwait
+1509,24,0,Gymnastics,Georgia
+1510,24,0,Cycling,Mongolia
+1511,24,0,Cycling,Barbados
+1512,24,0,Boxing,Ecuador
+1513,24,0,Bobsleigh,Japan-2
+1514,24,0,Bobsleigh,Japan-1
+1515,24,0,Bobsleigh,East Germany-2
+1516,24,0,Bobsleigh,East Germany-1
+1517,24,0,Basketball,West Germany
+1518,24,0,Baseball,South Africa
+1519,24,0,Baseball,China
+1520,24,0,Art Competitions,Latvia
+1521,23,44,Swimming,Zimbabwe
+1522,23,33,Figure Skating,Italy
+1523,23,32,Figure Skating,Switzerland
+1524,23,29,Speed Skating,Romania
+1525,23,26,Snowboarding,Japan
+1526,23,20,Weightlifting,Thailand
+1527,23,16,Athletics,Bolivia
+1528,23,14,Diving,Spain
+1529,23,14,Athletics,Mozambique
+1530,23,12,Tennis,Brazil
+1531,23,12,Basketball,Nigeria
+1532,23,10,Swimming,Panama
+1533,23,10,Judo,Turkey
+1534,23,10,Freestyle Skiing,Belarus
+1535,23,6,Wrestling,Tunisia
+1536,23,5,Gymnastics,Latvia
+1537,23,3,Sailing,Uruguay
+1538,23,3,Bobsleigh,Austria
+1539,23,2,Speed Skating,Mongolia
+1540,23,2,Shooting,Costa Rica
+1541,23,2,Sailing,Cyprus
+1542,23,1,Fencing,Belarus
+1543,23,0,Wrestling,Lebanon
+1544,23,0,Wrestling,Iraq
+1545,23,0,Weightlifting,Netherlands
+1546,23,0,Ski Jumping,Bulgaria
+1547,23,0,Shooting,United States Virgin Islands
+1548,23,0,Modern Pentathlon,Chile
+1549,23,0,Football,Ireland
+1550,23,0,Basketball,Finland
+1551,23,0,Baseball,Greece
+1552,22,44,Handball,Austria
+1553,22,35,Table Tennis,United States
+1554,22,28,Gymnastics,Czech Republic
+1555,22,27,Badminton,China
+1556,22,24,Badminton,Germany
+1557,22,21,Swimming,Angola
+1558,22,17,Swimming,Jamaica
+1559,22,17,Diving,West Germany
+1560,22,13,Curling,Norway
+1561,22,12,Athletics,Congo (Kinshasa)
+1562,22,11,Equestrianism,Russia
+1563,22,10,Judo,Israel
+1564,22,8,Athletics,Burundi
+1565,22,7,Athletics,Guinea
+1566,22,4,Bobsleigh,Great Britain
+1567,22,3,Fencing,Yugoslavia
+1568,22,2,Weightlifting,New Zealand
+1569,22,2,Shooting,Kuwait
+1570,22,2,Bobsleigh,Canada
+1571,22,1,Weightlifting,Uzbekistan
+1572,22,0,Water Polo,Bulgaria
+1573,22,0,Short Track Speed Skating,New Zealand
+1574,22,0,Nordic Combined,Canada
+1575,22,0,Luge,Austria-2
+1576,22,0,Luge,Austria-1
+1577,22,0,Ice Hockey,Unified Team
+1578,22,0,Ice Hockey,Ukraine
+1579,22,0,Ice Hockey,Slovenia
+1580,22,0,Boxing,Jamaica
+1581,22,0,Boxing,Iraq
+1582,22,0,Boxing,Belarus
+1583,22,0,Bobsleigh,Belgium-1
+1584,22,0,Basketball,Venezuela
+1585,22,0,Athletics,Australasia
+1586,21,45,Archery,Poland
+1587,21,30,Gymnastics,New Zealand
+1588,21,22,Diving,East Germany
+1589,21,21,Tennis,Slovakia
+1590,21,19,Badminton,South Korea
+1591,21,19,Athletics,North Korea
+1592,21,18,Athletics,Serbia
+1593,21,17,Cycling,Belarus
+1594,21,12,Athletics,Mali
+1595,21,11,Table Tennis,France
+1596,21,11,Athletics,Syria
+1597,21,9,Tennis,Mexico
+1598,21,8,Swimming,Latvia
+1599,21,8,Modern Pentathlon,Canada
+1600,21,8,Athletics,Lebanon
+1601,21,7,Judo,Sweden
+1602,21,6,Speed Skating,Latvia
+1603,21,6,Judo,Dominican Republic
+1604,21,5,Snowboarding,Slovenia
+1605,21,5,Sailing,Chile
+1606,21,4,Weightlifting,Brazil
+1607,21,4,Swimming,Pakistan
+1608,21,4,Gymnastics,Iceland
+1609,21,3,Judo,Belarus
+1610,21,2,Shooting,Vietnam
+1611,21,2,Luge,Norway
+1612,21,2,Athletics,United Arab Emirates
+1613,21,1,Wrestling,Peru
+1614,21,1,Shooting,Pakistan
+1615,21,1,Sailing,Fiji
+1616,21,0,Modern Pentathlon,Romania
+1617,21,0,Judo,East Germany
+1618,21,0,Gymnastics,Ecuador
+1619,21,0,Boxing,Indonesia
+1620,20,40,Swimming,Costa Rica
+1621,20,36,Tennis,Belgium
+1622,20,27,Shooting,Croatia
+1623,20,27,Archery,Russia
+1624,20,25,Badminton,Australia
+1625,20,20,Cross Country Skiing,Unified Team
+1626,20,20,Badminton,China-1
+1627,20,19,Figure Skating,Australia
+1628,20,19,Badminton,Japan
+1629,20,19,Badminton,Great Britain
+1630,20,18,Snowboarding,Russia
+1631,20,18,Luge,East Germany
+1632,20,18,Judo,Tunisia
+1633,20,17,Luge,Russia
+1634,20,16,Snowboarding,Norway
+1635,20,13,Swimming,Trinidad and Tobago
+1636,20,13,Shooting,Iran
+1637,20,12,Swimming,Serbia
+1638,20,12,Sailing,Singapore
+1639,20,11,Alpine Skiing,Kazakhstan
+1640,20,10,Rowing,Lithuania
+1641,20,9,Swimming,Mozambique
+1642,20,9,Athletics,Central African Republic
+1643,20,9,Athletics,Angola
+1644,20,8,Weightlifting,Mexico
+1645,20,8,Tennis,Great Britain-2
+1646,20,8,Tennis,Great Britain-1
+1647,20,8,Swimming,Chile
+1648,20,8,Shooting,Unified Team
+1649,20,6,Tennis,Norway
+1650,20,6,Swimming,San Marino
+1651,20,6,Equestrianism,Ukraine
+1652,20,5,Shooting,Slovenia
+1653,20,4,Gymnastics,Algeria
+1654,20,4,Diving,Colombia
+1655,20,3,Weightlifting,Philippines
+1656,20,2,Shooting,Luxembourg
+1657,20,1,Tennis,Bohemia
+1658,20,1,Shooting,Zimbabwe
+1659,20,1,Shooting,Oman
+1660,20,1,Boxing,Chinese Taipei
+1661,20,0,Wrestling,Unified Team
+1662,20,0,Wrestling,Portugal
+1663,20,0,Weightlifting,Estonia
+1664,20,0,Ice Hockey,Netherlands
+1665,20,0,Cycling,Morocco
+1666,20,0,Canoeing,Cote d'Ivoire
+1667,20,0,Boxing,Sudan
+1668,20,0,Boxing,Myanmar
+1669,20,0,Bobsleigh,Slovakia
+1670,20,0,Baseball,Spain
+1671,20,0,Baseball,Puerto Rico
+1672,20,0,Baseball,Nicaragua
+1673,20,0,Baseball,Dominican Republic
+1674,19,56,Cross Country Skiing,Slovenia
+1675,19,23,Basketball,Turkey
+1676,19,23,Badminton,Thailand
+1677,19,20,Diving,Hungary
+1678,19,18,Swimming,Vietnam
+1679,19,17,Figure Skating,Russia
+1680,19,17,Athletics,Panama
+1681,19,15,Archery,Bhutan
+1682,19,14,Sailing,Slovenia
+1683,19,13,Luge,West Germany
+1684,19,12,Badminton,Malaysia
+1685,19,11,Table Tennis,Great Britain
+1686,19,11,Swimming,Tunisia
+1687,19,11,Athletics,Myanmar
+1688,19,10,Swimming,Suriname
+1689,19,10,Alpine Skiing,Bosnia and Herzegovina
+1690,19,9,Swimming,Serbia and Montenegro
+1691,19,9,Athletics,Laos
+1692,19,9,Alpine Skiing,Latvia
+1693,19,8,Judo,Finland
+1694,19,6,Sailing,Thailand
+1695,19,5,Wrestling,Cameroon
+1696,19,4,Shooting,Cyprus
+1697,19,3,Shooting,Malaysia
+1698,19,3,Judo,Cameroon
+1699,19,2,Weightlifting,Moldova
+1700,19,2,Weightlifting,Azerbaijan
+1701,19,1,Weightlifting,Latvia
+1702,19,1,Shooting,Bolivia
+1703,19,0,Wrestling,Algeria
+1704,19,0,Water Polo,India
+1705,19,0,Rowing,Socit Nautique de Bayonne
+1706,19,0,Luge,Liechtenstein
+1707,19,0,Fencing,Thailand
+1708,19,0,Equestrianism,Egypt
+1709,19,0,Canoeing,Luxembourg
+1710,19,0,Boxing,Syria
+1711,18,23,Figure Skating,Hungary
+1712,18,20,Badminton,China-2
+1713,18,18,Speed Skating,Unified Team
+1714,18,18,Badminton,South Korea-2
+1715,18,18,Badminton,South Korea-1
+1716,18,17,Table Tennis,Russia
+1717,18,17,Judo,North Korea
+1718,18,15,Snowboarding,Australia
+1719,18,15,Fencing,South Africa
+1720,18,13,Table Tennis,Chile
+1721,18,13,Swimming,Cyprus
+1722,18,13,Fencing,Estonia
+1723,18,11,Luge,Romania
+1724,18,10,Badminton,Poland
+1725,18,9,Weightlifting,Venezuela
+1726,18,9,Weightlifting,Nigeria
+1727,18,9,Diving,South Korea
+1728,18,7,Skeleton,United States
+1729,18,7,Sailing,Estonia
+1730,18,6,Swimming,Senegal
+1731,18,4,Athletics,Afghanistan
+1732,18,3,Tennis,Chile
+1733,18,3,Table Tennis,Greece
+1734,18,2,Cycling,Costa Rica
+1735,18,2,Canoeing,Latvia
+1736,18,2,Archery,Malaysia
+1737,18,1,Equestrianism,Colombia
+1738,18,0,Wrestling,Panama
+1739,18,0,Wrestling,Luxembourg
+1740,18,0,Water Polo,Malta
+1741,18,0,Ski Jumping,Ukraine
+1742,18,0,Shooting,Kyrgyzstan
+1743,18,0,Rowing,Vesper Boat Club
+1744,18,0,Rowing,Leander Club-1
+1745,18,0,Nordic Combined,Sweden
+1746,18,0,Modern Pentathlon,Portugal
+1747,18,0,Modern Pentathlon,Netherlands
+1748,18,0,Judo,Iran
+1749,18,0,Ice Hockey,East Germany
+1750,18,0,Ice Hockey,Bulgaria
+1751,18,0,Gymnastics,Azerbaijan
+1752,18,0,Football,United Arab Emirates
+1753,18,0,Football,Slovakia
+1754,18,0,Football,El Salvador
+1755,18,0,Cycling,Malta
+1756,18,0,Cycling,Congo (Kinshasa)
+1757,18,0,Boxing,Samoa
+1758,18,0,Boxing,Lithuania
+1759,18,0,Boxing,Guyana
+1760,18,0,Boxing,Armenia
+1761,18,0,Art Competitions,Mexico
+1762,18,0,Alpine Skiing,Senegal
+1763,17,80,Hockey,China
+1764,17,23,Table Tennis,North Korea
+1765,17,18,Table Tennis,Egypt
+1766,17,16,Badminton,United States
+1767,17,15,Shooting,Serbia and Montenegro
+1768,17,13,Athletics,Namibia
+1769,17,12,Athletics,Suriname
+1770,17,11,Athletics,Singapore
+1771,17,10,Archery,Denmark
+1772,17,9,Table Tennis,India
+1773,17,9,Athletics,Burkina Faso
+1774,17,8,Swimming,Sri Lanka
+1775,17,7,Swimming,Seychelles
+1776,17,7,Alpine Skiing,Georgia
+1777,17,6,Swimming,Cambodia
+1778,17,5,Athletics,Mauritania
+1779,17,3,Athletics,San Marino
+1780,17,2,Bobsleigh,Hungary
+1781,17,1,Sailing,Angelita
+1782,17,1,Modern Pentathlon,Argentina
+1783,17,1,Judo,Lebanon
+1784,17,0,Wrestling,New Zealand
+1785,17,0,Weightlifting,Panama
+1786,17,0,Water Polo,South Africa
+1787,17,0,Sailing,Venezuela
+1788,17,0,Rugby,Union des Socits Franais de Sports Athletiques
+1789,17,0,Rowing,Minerva Amsterdam
+1790,17,0,Rowing,"Lemzos Thorichton ""Spetsai""-4"
+1791,17,0,Rowing,"Lemzos Thorichton ""Psara""-3"
+1792,17,0,Rowing,"Large boat, Central Naval Prep School ""Poros""-1"
+1793,17,0,Ice Hockey,Australia
+1794,17,0,Hockey,Uganda
+1795,17,0,Hockey,Singapore
+1796,17,0,Hockey,Malaya
+1797,17,0,Hockey,Hong Kong
+1798,17,0,Football,United Arab Republic
+1799,17,0,Football,Serbia and Montenegro
+1800,17,0,Football,Senegal
+1801,17,0,Cycling,Malawi
+1802,17,0,Cycling,Antigua and Barbuda
+1803,17,0,Bobsleigh,Belgium-2
+1804,16,100,Handball,Norway
+1805,16,23,Freestyle Skiing,China
+1806,16,20,Table Tennis,Croatia
+1807,16,20,Badminton,Hong Kong
+1808,16,20,Alpine Skiing,Ukraine
+1809,16,17,Figure Skating,Poland
+1810,16,15,Canoeing,Serbia
+1811,16,14,Figure Skating,Sweden
+1812,16,11,Tennis,Czechoslovakia
+1813,16,11,Fencing,Tunisia
+1814,16,10,Modern Pentathlon,Russia
+1815,16,10,Freestyle Skiing,Italy
+1816,16,10,Figure Skating,Soviet Union
+1817,16,9,Luge,Slovakia
+1818,16,8,Shooting,El Salvador
+1819,16,7,Wrestling,Colombia
+1820,16,7,Canoeing,Unified Team
+1821,16,6,Tennis,France-2
+1822,16,6,Tennis,France-1
+1823,16,5,Rowing,Hong Kong
+1824,16,5,Cycling,Unified Team
+1825,16,5,Athletics,Azerbaijan
+1826,16,4,Gymnastics,Armenia
+1827,16,3,Wrestling,Moldova
+1828,16,3,Shooting,Bosnia and Herzegovina
+1829,16,3,Diving,Belarus
+1830,16,2,Wrestling,Latvia
+1831,16,2,Shooting,Qatar
+1832,16,2,Shooting,Malta
+1833,16,2,Cycling,Guam
+1834,16,1,Wrestling,Israel
+1835,16,1,Judo,Czechoslovakia
+1836,16,0,Wrestling,Lithuania
+1837,16,0,Tug-Of-War,United States
+1838,16,0,Tug-Of-War,Great Britain
+1839,16,0,Shooting,United Arab Emirates
+1840,16,0,Shooting,Liechtenstein
+1841,16,0,Shooting,Jordan
+1842,16,0,Rugby,Romania
+1843,16,0,Luge,Germany-2
+1844,16,0,Luge,Germany-1
+1845,16,0,Judo,Costa Rica
+1846,16,0,Hockey,Tanzania
+1847,16,0,Hockey,Ireland
+1848,16,0,Hockey,Cuba
+1849,16,0,Hockey,Brazil
+1850,16,0,Football,Venezuela
+1851,16,0,Football,Mali
+1852,16,0,Football,Fiji
+1853,16,0,Football,Czech Republic
+1854,16,0,Football,Cote d'Ivoire
+1855,16,0,Football,Belarus
+1856,16,0,Cycling,United Arab Emirates
+1857,16,0,Cycling,San Marino
+1858,16,0,Cycling,Guyana
+1859,16,0,Boxing,Malawi
+1860,16,0,Bobsleigh,Sweden-2
+1861,16,0,Bobsleigh,Sweden-1
+1862,16,0,Bobsleigh,Norway
+1863,15,66,Handball,China
+1864,15,31,Football,North Korea
+1865,15,20,Figure Skating,West Germany
+1866,15,18,Figure Skating,Ukraine
+1867,15,16,Freestyle Skiing,Ukraine
+1868,15,15,Hockey,Zimbabwe
+1869,15,15,Handball,Greece
+1870,15,15,Handball,Australia
+1871,15,14,Triathlon,Great Britain
+1872,15,14,Tennis,South Korea
+1873,15,13,Tennis,United States-2
+1874,15,13,Tennis,United States-1
+1875,15,12,Archery,Kazakhstan
+1876,15,11,Triathlon,France
+1877,15,11,Badminton,Indonesia-2
+1878,15,11,Badminton,Indonesia-1
+1879,15,11,Alpine Skiing,Monaco
+1880,15,10,Athletics,Vanuatu
+1881,15,9,Judo,Greece
+1882,15,7,Cross Country Skiing,Armenia
+1883,15,6,Athletics,Niger
+1884,15,6,Athletics,Jordan
+1885,15,5,Swimming,Paraguay
+1886,15,5,Gymnastics,Philippines
+1887,15,4,Weightlifting,Algeria
+1888,15,3,Diving,Venezuela
+1889,15,3,Archery,Norway
+1890,15,2,Art Competitions,Norway
+1891,15,1,Weightlifting,Georgia
+1892,15,1,Judo,Ireland
+1893,15,0,Weightlifting,South Africa
+1894,15,0,Water Polo,Uruguay
+1895,15,0,Sailing,Barbados
+1896,15,0,Rugby,Moseley Wanderers
+1897,15,0,Rugby,Frankfurt Club
+1898,15,0,Rugby,Cornwall
+1899,15,0,Rugby,Australasia
+1900,15,0,Nordic Combined,Slovenia
+1901,15,0,Modern Pentathlon,Belgium
+1902,15,0,Judo,Philippines
+1903,15,0,Judo,Iceland
+1904,15,0,Hockey,Unified Team
+1905,15,0,Hockey,Hungary
+1906,15,0,Handball,Serbia and Montenegro
+1907,15,0,Handball,Serbia
+1908,15,0,Handball,Qatar
+1909,15,0,Football,Syria
+1910,15,0,Football,Serbia
+1911,15,0,Football,Russia
+1912,15,0,Football,Malaysia
+1913,15,0,Football,Guinea
+1914,15,0,Football,Gabon
+1915,15,0,Fencing,Saar
+1916,15,0,Equestrianism,France-1
+1917,15,0,Boxing,Papua New Guinea
+1918,15,0,Boxing,Nepal
+1919,15,0,Bobsleigh,Argentina
+1920,15,0,Athletics,Monaco
+1921,15,0,Art Competitions,Yugoslavia
+1922,15,0,Alpine Skiing,Costa Rica
+1923,14,35,Gymnastics,Mongolia
+1924,14,23,Badminton,Canada
+1925,14,22,Curling,Denmark
+1926,14,18,Alpine Skiing,China
+1927,14,16,Swimming,Macedonia
+1928,14,16,Badminton,Russia
+1929,14,15,Triathlon,United States
+1930,14,15,Triathlon,Australia
+1931,14,15,Figure Skating,Finland
+1932,14,15,Diving,Denmark
+1933,14,14,Handball,Great Britain
+1934,14,14,Handball,Canada
+1935,14,13,Luge,Soviet Union
+1936,14,13,Badminton,Sweden
+1937,14,13,Badminton,India
+1938,14,12,Triathlon,Spain
+1939,14,12,Tennis,Belarus
+1940,14,12,Diving,Greece
+1941,14,12,Badminton,Denmark-2
+1942,14,12,Badminton,Denmark-1
+1943,14,10,Triathlon,New Zealand
+1944,14,10,Tennis,Spain-1
+1945,14,10,Speed Skating,Yugoslavia
+1946,14,10,Diving,Norway
+1947,14,8,Diving,Switzerland
+1948,14,8,Athletics,Gabon
+1949,14,7,Weightlifting,Dominican Republic
+1950,14,7,Swimming,Nicaragua
+1951,14,7,Archery,Brazil
+1952,14,6,Modern Pentathlon,Lithuania
+1953,14,6,Luge,France
+1954,14,6,Alpine Skiing,Denmark
+1955,14,4,Tennis,Sweden-2
+1956,14,4,Luge,Czech Republic
+1957,14,4,Gymnastics,Ireland
+1958,14,3,Weightlifting,Albania
+1959,14,3,Judo,Hong Kong
+1960,14,2,Sailing,Cayman Islands
+1961,14,2,Luge,South Korea
+1962,14,0,Weightlifting,Luxembourg
+1963,14,0,Water Polo,Ireland
+1964,14,0,Shooting,Saudi Arabia
+1965,14,0,Shooting,Latvia
+1966,14,0,Sailing,Philippines
+1967,14,0,Sailing,Jamaica
+1968,14,0,Judo,Mali
+1969,14,0,Hockey,East Germany
+1970,14,0,Football,Sudan
+1971,14,0,Cycling,Saudi Arabia
+1972,14,0,Cycling,Libya
+1973,14,0,Curling,France
+1974,14,0,Boxing,Sri Lanka
+1975,14,0,Boxing,Seychelles
+1976,14,0,Boxing,Nicaragua
+1977,14,0,Boxing,Mauritius
+1978,14,0,Boxing,Congo (Kinshasa)
+1979,14,0,Bobsleigh,United States Virgin Islands
+1980,14,0,Bobsleigh,Ukraine
+1981,14,0,Bobsleigh,Norway-2
+1982,14,0,Bobsleigh,Norway-1
+1983,14,0,Bobsleigh,New Zealand
+1984,14,0,Bobsleigh,Croatia
+1985,14,0,Alpine Skiing,Luxembourg
+1986,13,22,Diving,Netherlands
+1987,13,21,Badminton,Chinese Taipei
+1988,13,20,Athletics,Kyrgyzstan
+1989,13,17,Tennis,Poland
+1990,13,13,Rugby Sevens,Fiji
+1991,13,13,Figure Skating,United States-3
+1992,13,13,Figure Skating,Great Britain-2
+1993,13,13,Figure Skating,Great Britain-1
+1994,13,12,Triathlon,Switzerland
+1995,13,12,Snowboarding,Poland
+1996,13,12,Rugby Sevens,United States
+1997,13,12,Rugby Sevens,Spain
+1998,13,12,Rugby Sevens,New Zealand
+1999,13,12,Rugby Sevens,Australia
+2000,13,12,Freestyle Skiing,Austria
+2001,13,11,Archery,West Germany
+2002,13,9,Tennis,Spain-2
+2003,13,9,Table Tennis,Czech Republic
+2004,13,9,Freestyle Skiing,Great Britain
+2005,13,9,Badminton,South Africa
+2006,13,8,Athletics,Bosnia and Herzegovina
+2007,13,7,Tennis,Israel
+2008,13,6,Tennis,Zimbabwe
+2009,13,6,Sailing,Czech Republic
+2010,13,6,Sailing,Belarus
+2011,13,6,Luge,Switzerland
+2012,13,6,Judo,New Zealand
+2013,13,6,Croquet,France
+2014,13,4,Weightlifting,Myanmar
+2015,13,4,Bobsleigh,Belgium
+2016,13,4,Biathlon,Greece
+2017,13,3,Table Tennis,Portugal
+2018,13,3,Swimming,Swaziland
+2019,13,3,Swimming,Cayman Islands
+2020,13,3,Judo,Liechtenstein
+2021,13,3,Alpine Skiing,India
+2022,13,1,Weightlifting,Norway
+2023,13,1,Table Tennis,Belgium
+2024,13,0,Wrestling,Slovakia
+2025,13,0,Weightlifting,Lebanon
+2026,13,0,Water Polo,Unified Team
+2027,13,0,Water Polo,Ukraine
+2028,13,0,Water Polo,South Korea
+2029,13,0,Water Polo,Slovakia
+2030,13,0,Tennis,Bahamas
+2031,13,0,Sailing,Yugoslavia
+2032,13,0,Sailing,Chinese Taipei
+2033,13,0,Rugby Sevens,South Africa
+2034,13,0,Rugby Sevens,Argentina
+2035,13,0,Football,USFSA
+2036,13,0,Football,Myanmar
+2037,13,0,Football,Indonesia
+2038,13,0,Football,Galt Football Club
+2039,13,0,Football,Chinese Taipei
+2040,13,0,Cycling,Lebanon
+2041,13,0,Boxing,Tonga
+2042,13,0,Boxing,Niger
+2043,13,0,Boxing,Namibia
+2044,13,0,Boxing,Benin
+2045,13,0,Basketball,Ireland
+2046,12,26,Table Tennis,Netherlands
+2047,12,26,Archery,Indonesia
+2048,12,24,Table Tennis,Singapore
+2049,12,24,Diving,Malaysia
+2050,12,23,Gymnastics,Uzbekistan
+2051,12,22,Volleyball,West Germany
+2052,12,17,Freestyle Skiing,Norway
+2053,12,17,Athletics,Vietnam
+2054,12,14,Biathlon,Lithuania
+2055,12,13,Swimming,Mauritius
+2056,12,13,Rugby Sevens,Japan
+2057,12,13,Rugby Sevens,France
+2058,12,13,Rugby Sevens,Brazil
+2059,12,13,Judo,Slovenia
+2060,12,13,Handball,Unified Team
+2061,12,13,Gymnastics,Croatia
+2062,12,13,Archery,Soviet Union
+2063,12,12,Volleyball,Greece
+2064,12,12,Volleyball,Great Britain
+2065,12,12,Rugby Sevens,Kenya
+2066,12,12,Rugby Sevens,Great Britain
+2067,12,12,Figure Skating,Soviet Union-2
+2068,12,12,Figure Skating,Soviet Union-1
+2069,12,12,Figure Skating,Russia-2
+2070,12,12,Figure Skating,Russia-1
+2071,12,12,Beach Volleyball,United States-2
+2072,12,12,Beach Volleyball,United States-1
+2073,12,12,Beach Volleyball,Brazil-2
+2074,12,12,Beach Volleyball,Brazil-1
+2075,12,12,Basketball,Unified Team
+2076,12,12,Basketball,Serbia
+2077,12,11,Figure Skating,Belgium
+2078,12,11,Biathlon,Unified Team
+2079,12,9,Diving,Poland
+2080,12,8,Volleyball,Unified Team
+2081,12,8,Tennis,Serbia
+2082,12,8,Athletics,Tonga
+2083,12,7,Shooting,Individual Olympic Athletes
+2084,12,7,Athletics,Saint Lucia
+2085,12,6,Skeleton,Great Britain
+2086,12,4,Tennis,Sweden-1
+2087,12,4,Snowboarding,Spain
+2088,12,4,Modern Pentathlon,Latvia
+2089,12,4,Luge,Chinese Taipei
+2090,12,4,Bobsleigh,Germany-3
+2091,12,3,Canoeing,Greece
+2092,12,2,Sailing,Unified Team
+2093,12,2,Judo,Haiti
+2094,12,2,Cycling,Liechtenstein
+2095,12,2,Bobsleigh,Brazil
+2096,12,2,Alpine Skiing,Puerto Rico
+2097,12,1,Weightlifting,Guatemala
+2098,12,1,Table Tennis,Serbia and Montenegro
+2099,12,1,Rowing,Serbia
+2100,12,1,Cycling,Egypt
+2101,12,1,Athletics,Malaya
+2102,12,0,Weightlifting,Pakistan
+2103,12,0,Weightlifting,Israel
+2104,12,0,Volleyball,Yugoslavia
+2105,12,0,Volleyball,Sweden
+2106,12,0,Volleyball,Iran
+2107,12,0,Volleyball,Belgium
+2108,12,0,Tennis,Portugal
+2109,12,0,Ski Jumping,Unified Team
+2110,12,0,Ski Jumping,Estonia
+2111,12,0,Ski Jumping,Belarus
+2112,12,0,Sailing,India
+2113,12,0,Sailing,Aschenbrodel
+2114,12,0,Rowing,Serbia and Montenegro
+2115,12,0,Polo,Great Britain
+2116,12,0,Modern Pentathlon,Bahrain
+2117,12,0,Luge,West Germany-2
+2118,12,0,Luge,West Germany-1
+2119,12,0,Luge,Russia-2
+2120,12,0,Luge,Russia-1
+2121,12,0,Luge,East Germany-2
+2122,12,0,Luge,East Germany-1
+2123,12,0,Luge,Canada-2
+2124,12,0,Luge,Canada-1
+2125,12,0,Lacrosse,Winnipeg Shamrocks-1
+2126,12,0,Lacrosse,St. Louis Amateur Athletic Association
+2127,12,0,Lacrosse,Mohawk Indians-2
+2128,12,0,Lacrosse,Great Britain
+2129,12,0,Lacrosse,Canada
+2130,12,0,Judo,Zambia
+2131,12,0,Judo,Cyprus
+2132,12,0,Hockey,Ireland-2
+2133,12,0,Football,St. Rose-2
+2134,12,0,Cycling,Moldova
+2135,12,0,Cycling,England-1
+2136,12,0,Cycling,England
+2137,12,0,Cricket,Union des Socits Franais de Sports Athletiques
+2138,12,0,Cricket,Devon and Somerset Wanderers
+2139,12,0,Boxing,Unified Team
+2140,12,0,Boxing,Madagascar
+2141,12,0,Boxing,Kyrgyzstan
+2142,12,0,Boxing,Gabon
+2143,12,0,Bobsleigh,United States Virgin Islands-2
+2144,12,0,Bobsleigh,United States Virgin Islands-1
+2145,12,0,Bobsleigh,Soviet Union-2
+2146,12,0,Bobsleigh,Soviet Union-1
+2147,12,0,Bobsleigh,Puerto Rico
+2148,12,0,Bobsleigh,Czechoslovakia
+2149,12,0,Bobsleigh,Czech Republic-2
+2150,12,0,Bobsleigh,Czech Republic-1
+2151,12,0,Bobsleigh,Bulgaria
+2152,12,0,Bobsleigh,Bosnia and Herzegovina
+2153,12,0,Basketball,Tunisia
+2154,12,0,Basketball,Sweden
+2155,12,0,Basketball,Romania
+2156,12,0,Basketball,Panama
+2157,12,0,Basketball,Morocco
+2158,12,0,Basketball,Israel
+2159,12,0,Basketball,India
+2160,12,0,Basketball,Central African Republic
+2161,12,0,Athletics,West Indies Federation
+2162,12,0,Alpinism,Great Britain
+2163,12,0,Alpine Skiing,South Africa
+2164,11,36,Volleyball,Hungary
+2165,11,29,Swimming,Slovakia
+2166,11,27,Archery,Germany
+2167,11,24,Tennis,China
+2168,11,18,Freestyle Skiing,Germany
+2169,11,17,Table Tennis,Belarus
+2170,11,14,Triathlon,Canada
+2171,11,13,Gymnastics,Slovenia
+2172,11,12,Triathlon,Germany
+2173,11,12,Luge,Ukraine
+2174,11,11,Volleyball,Venezuela
+2175,11,11,Taekwondo,Australia
+2176,11,11,Shooting,Sri Lanka
+2177,11,11,Freestyle Skiing,Kazakhstan
+2178,11,11,Figure Skating,Russia-3
+2179,11,11,Figure Skating,Germany-2
+2180,11,11,Figure Skating,Germany-1
+2181,11,11,Athletics,Mongolia
+2182,11,10,Taekwondo,South Korea
+2183,11,10,Figure Skating,Czech Republic
+2184,11,10,Fencing,Algeria
+2185,11,9,Triathlon,Brazil
+2186,11,9,Skeleton,Canada
+2187,11,7,Table Tennis,Cuba
+2188,11,6,Judo,Fiji
+2189,11,6,Athletics,Solomon Islands
+2190,11,6,Athletics,Cayman Islands
+2191,11,5,Judo,Czech Republic
+2192,11,4,Tennis,Ireland
+2193,11,4,Figure Skating,Romania
+2194,11,4,Canoeing,Israel
+2195,11,3,Taekwondo,Iran
+2196,11,3,Judo,Angola
+2197,11,3,Athletics,Yemen
+2198,11,3,Athletics,Netherlands Antilles
+2199,11,1,Weightlifting,Syria
+2200,11,1,Swimming,Monaco
+2201,11,1,Shooting,Syria
+2202,11,1,Shooting,Andorra
+2203,11,1,Rowing,Peru
+2204,11,1,Fencing,Saudi Arabia
+2205,11,1,Diving,Belgium
+2206,11,1,Cycling,Indonesia
+2207,11,0,Weightlifting,Netherlands Antilles
+2208,11,0,Weightlifting,Malaysia
+2209,11,0,Water Polo,Iran
+2210,11,0,Water Polo,East Germany
+2211,11,0,Ski Jumping,Hungary
+2212,11,0,Sailing,Pan
+2213,11,0,Rowing,Panhellenios Gymnastikos Syllogos-1
+2214,11,0,Rowing,Favorite Hammonia-3
+2215,11,0,Rowing,Dansk Idrts Forbund
+2216,11,0,Polo,Spain
+2217,11,0,Modern Pentathlon,Uruguay
+2218,11,0,Hockey,Wales-4
+2219,11,0,Hockey,Scotland-3
+2220,11,0,Hockey,Finland
+2221,11,0,Hockey,England-1
+2222,11,0,Football,Upton Park FC
+2223,11,0,Football,Univ. of Brussels
+2224,11,0,Football,Thessalonki-1
+2225,11,0,Football,Smyrna
+2226,11,0,Football,Netherlands Antilles
+2227,11,0,Football,Lithuania
+2228,11,0,Football,Latvia
+2229,11,0,Football,France-2
+2230,11,0,Football,France-1
+2231,11,0,Football,Estonia
+2232,11,0,Football,Christian Brothers' College-1
+2233,11,0,Football,Athens-2
+2234,11,0,Football,Afghanistan
+2235,11,0,Cycling,Bohemia
+2236,11,0,Boxing,Zimbabwe
+2237,11,0,Boxing,Georgia
+2238,11,0,Bobsleigh,Mexico
+2239,11,0,Basketball,Chinese Taipei
+2240,10,26,Table Tennis,Hungary
+2241,10,21,Volleyball,Algeria
+2242,10,18,Badminton,Bulgaria
+2243,10,15,Triathlon,Japan
+2244,10,15,Table Tennis,Spain
+2245,10,14,Speed Skating,Belarus
+2246,10,13,Swimming,Bolivia
+2247,10,12,Biathlon,Australia
+2248,10,12,Badminton,Great Britain-2
+2249,10,12,Badminton,Great Britain-1
+2250,10,10,Triathlon,Russia
+2251,10,10,Shooting,Uzbekistan
+2252,10,10,Figure Skating,Soviet Union-3
+2253,10,10,Figure Skating,France-2
+2254,10,10,Figure Skating,France-1
+2255,10,10,Athletics,Guam
+2256,10,9,Modern Pentathlon,China
+2257,10,9,Diving,Czechoslovakia
+2258,10,8,Table Tennis,South Korea-2
+2259,10,8,Table Tennis,South Korea-1
+2260,10,8,Table Tennis,China-2
+2261,10,8,Table Tennis,China-1
+2262,10,8,Athletics,Georgia
+2263,10,8,Athletics,Armenia
+2264,10,7,Taekwondo,Spain
+2265,10,7,Speed Skating,Ukraine
+2266,10,6,Table Tennis,Japan-2
+2267,10,6,Table Tennis,Japan-1
+2268,10,5,Swimming,Maldives
+2269,10,5,Swimming,Bosnia and Herzegovina
+2270,10,5,Skeleton,Switzerland
+2271,10,5,Short Track Speed Skating,Kazakhstan
+2272,10,4,Table Tennis,Argentina
+2273,10,4,Judo,Kyrgyzstan
+2274,10,4,Bobsleigh,Switzerland
+2275,10,4,Beach Volleyball,Spain
+2276,10,3,Weightlifting,Samoa
+2277,10,3,Weightlifting,Mongolia
+2278,10,3,Swimming,Syria
+2279,10,3,Judo,Madagascar
+2280,10,3,Fencing,Puerto Rico
+2281,10,3,Athletics,Samoa
+2282,10,2,Sailing,Czechoslovakia
+2283,10,2,Luge,Bulgaria
+2284,10,1,Wrestling,Czech Republic
+2285,10,1,Weightlifting,Singapore
+2286,10,1,Weightlifting,Morocco
+2287,10,1,Swimming,Netherlands Antilles
+2288,10,1,Skeleton,Austria
+2289,10,1,Sailing,Seychelles
+2290,10,1,Sailing,Llanoria
+2291,10,1,Modern Pentathlon,South Africa
+2292,10,1,Judo,Moldova
+2293,10,1,Equestrianism,China
+2294,10,1,Canoeing,Serbia and Montenegro
+2295,10,0,Wrestling,Bohemia
+2296,10,0,Weightlifting,Unified Team
+2297,10,0,Weightlifting,Portugal
+2298,10,0,Water Polo,United Arab Republic
+2299,10,0,Water Polo,Singapore
+2300,10,0,Water Polo,Brussels Swimming and Water Polo Club
+2301,10,0,Speed Skating,Estonia
+2302,10,0,Ski Jumping,Slovakia
+2303,10,0,Sailing,Pakistan
+2304,10,0,Sailing,Mouchette-2
+2305,10,0,Sailing,Magda IX
+2306,10,0,Sailing,Lalage
+2307,10,0,Sailing,Hera-1
+2308,10,0,Sailing,Gitana-2
+2309,10,0,Sailing,Erna Signe
+2310,10,0,Sailing,Djinn
+2311,10,0,Sailing,British Virgin Islands
+2312,10,0,Sailing,Antwerpia V
+2313,10,0,Rowing,Kristiania Roklub-1
+2314,10,0,Rowing,India
+2315,10,0,Rowing,Cercle de l'Aviron Roubaix-4
+2316,10,0,Luge,Soviet Union-2
+2317,10,0,Luge,Soviet Union-1
+2318,10,0,Judo,Tajikistan
+2319,10,0,Judo,Latvia
+2320,10,0,Judo,El Salvador
+2321,10,0,Golf,Western Golf Association-1
+2322,10,0,Golf,United States Golf Association-3
+2323,10,0,Golf,Trans-Mississippi Golf Association-2
+2324,10,0,Equestrianism,Venezuela
+2325,10,0,Equestrianism,India
+2326,10,0,Cycling,Tunisia
+2327,10,0,Cycling,Bolivia
+2328,10,0,Boxing,United States Virgin Islands
+2329,10,0,Boxing,Lesotho
+2330,10,0,Boxing,Botswana
+2331,10,0,Bobsleigh,Latvia
+2332,10,0,Bobsleigh,Greece
+2333,10,0,Basketball,Singapore
+2334,10,0,Basketball,Iraq
+2335,10,0,Badminton,Malaysia-2
+2336,10,0,Badminton,Malaysia-1
+2337,10,0,Athletics,Crete
+2338,10,0,Alpine Skiing,Tajikistan
+2339,9,22,Badminton,Netherlands
+2340,9,17,Biathlon,Moldova
+2341,9,14,Diving,Romania
+2342,9,14,Badminton,Mauritius
+2343,9,12,Swimming,Madagascar
+2344,9,12,Figure Skating,East Germany
+2345,9,12,Badminton,Singapore
+2346,9,12,Art Competitions,South Africa
+2347,9,11,Athletics,Malta
+2348,9,10,Skeleton,Germany
+2349,9,10,Alpine Skiing,Unified Team
+2350,9,9,Taekwondo,United States
+2351,9,9,Figure Skating,Canada-3
+2352,9,9,Figure Skating,Bulgaria
+2353,9,8,Taekwondo,Mexico
+2354,9,8,Taekwondo,Great Britain
+2355,9,8,Judo,Ecuador
+2356,9,8,Cycling,El Salvador
+2357,9,8,Curling,China
+2358,9,8,Athletics,Cambodia
+2359,9,8,Alpine Skiing,Ireland
+2360,9,7,Weightlifting,Ecuador
+2361,9,7,Trampolining,Russia
+2362,9,6,Short Track Speed Skating,Poland
+2363,9,6,Modern Pentathlon,Ukraine
+2364,9,6,Equestrianism,Unified Team
+2365,9,6,Athletics,Dominica
+2366,9,5,Swimming,Zambia
+2367,9,5,Diving,Puerto Rico
+2368,9,5,Badminton,Finland
+2369,9,4,Weightlifting,Peru
+2370,9,4,Swimming,Kenya
+2371,9,4,Swimming,Bangladesh
+2372,9,4,Athletics,Individual Olympic Athletes
+2373,9,3,Swimming,Papua New Guinea
+2374,9,3,Badminton,Portugal
+2375,9,3,Alpine Skiing,Macedonia
+2376,9,2,Wrestling,Tajikistan
+2377,9,2,Weightlifting,Nauru
+2378,9,2,Golf,Great Britain
+2379,9,1,Weightlifting,Slovakia
+2380,9,1,Table Tennis,Denmark
+2381,9,1,Shooting,Paraguay
+2382,9,1,Boxing,Tajikistan
+2383,9,0,Wrestling,Ireland
+2384,9,0,Wrestling,Individual Olympic Athletes
+2385,9,0,Water Polo,Portugal
+2386,9,0,Volleyball,Libya
+2387,9,0,Swimming,Saudi Arabia
+2388,9,0,Shooting,Haiti
+2389,9,0,Shooting,Dominican Republic
+2390,9,0,Shooting,Armenia
+2391,9,0,Sailing,Scotia
+2392,9,0,Sailing,Quand-Mme-2
+2393,9,0,Sailing,Pampero
+2394,9,0,Sailing,Olle
+2395,9,0,Sailing,Mascotte
+2396,9,0,Sailing,Indonesia
+2397,9,0,Sailing,Heira II
+2398,9,0,Sailing,Atlanta
+2399,9,0,Rowing,United Arab Republic
+2400,9,0,Rowing,Sydney Rowing Club
+2401,9,0,Rowing,Roddklubben af 1912-2
+2402,9,0,Rowing,Pannonia RC/National RC
+2403,9,0,Rowing,Norwegian Rowing Association
+2404,9,0,Rowing,"New College, Oxford-2"
+2405,9,0,Rowing,Kristiania Roklub
+2406,9,0,Rowing,Hungaria Evezos Egylet
+2407,9,0,Rowing,Gteborgs Roddklubb-1
+2408,9,0,Rowing,"Germania Ruder Club, Hamburg"
+2409,9,0,Rowing,Cambridge University Boat Club-2
+2410,9,0,Rowing,Berliner Ruderverein von 1876-2
+2411,9,0,Rowing,Berliner Ruderclub Sport-Borussia-1
+2412,9,0,Polo,Argentina
+2413,9,0,Nordic Combined,Ukraine
+2414,9,0,Judo,Syria
+2415,9,0,Judo,San Marino
+2416,9,0,Judo,Estonia
+2417,9,0,Judo,Congo (Kinshasa)
+2418,9,0,Jeu De Paume,Great Britain
+2419,9,0,Gymnastics,Roma
+2420,9,0,Gymnastics,Pistoja/Firenze
+2421,9,0,Fencing,United Arab Republic
+2422,9,0,Fencing,Paraguay
+2423,9,0,Equestrianism,Uruguay
+2424,9,0,Cycling,Zimbabwe
+2425,9,0,Curling,Finland
+2426,9,0,Boxing,Sierra Leone
+2427,9,0,Boxing,Lebanon
+2428,9,0,Boxing,Laos
+2429,9,0,Boxing,Grenada
+2430,9,0,Boxing,Barbados
+2431,9,0,Basketball,Thailand
+2432,9,0,Art Competitions,Greece
+2433,9,0,Archery,Slovenia
+2434,8,23,Diving,North Korea
+2435,8,16,Figure Skating,South Korea
+2436,8,15,Gymnastics,Lithuania
+2437,8,11,Freestyle Skiing,Czech Republic
+2438,8,10,Taekwondo,Chinese Taipei
+2439,8,10,Beach Volleyball,Germany-2
+2440,8,10,Beach Volleyball,Germany-1
+2441,8,9,Triathlon,Czech Republic
+2442,8,9,Table Tennis,New Zealand
+2443,8,8,Shooting,Singapore
+2444,8,8,Shooting,Ecuador
+2445,8,8,Figure Skating,Italy-2
+2446,8,8,Figure Skating,Italy-1
+2447,8,8,Figure Skating,Estonia
+2448,8,8,Beach Volleyball,Italy
+2449,8,7,Judo,India
+2450,8,6,Cross Country Skiing,North Korea
+2451,8,6,Athletics,Cook Islands
+2452,8,6,Athletics,Comoros
+2453,8,5,Biathlon,Spain
+2454,8,5,Athletics,Andorra
+2455,8,4,Weightlifting,Tunisia
+2456,8,4,Shooting,Estonia
+2457,8,4,Modern Pentathlon,Czech Republic
+2458,8,4,Bobsleigh,United States-3
+2459,8,4,Bobsleigh,Russia
+2460,8,3,Weightlifting,Nicaragua
+2461,8,3,Weightlifting,Cameroon
+2462,8,3,Triathlon,Ukraine
+2463,8,3,Judo,Nigeria
+2464,8,3,Judo,Guinea
+2465,8,3,Figure Skating,Kazakhstan
+2466,8,3,Alpine Skiing,Guatemala
+2467,8,2,Tennis,Great Britain-3
+2468,8,2,Skeleton,Japan
+2469,8,2,Modern Pentathlon,Ireland
+2470,8,2,Judo,Thailand
+2471,8,2,Cycling,Nicaragua
+2472,8,2,Cycling,Namibia
+2473,8,2,Cross Country Skiing,Macedonia
+2474,8,2,Alpine Skiing,Lithuania
+2475,8,1,Weightlifting,Turkmenistan
+2476,8,1,Weightlifting,Kenya
+2477,8,1,Shooting,Morocco
+2478,8,1,Shooting,Bahrain
+2479,8,1,Sailing,Guatemala
+2480,8,1,Fencing,Chinese Taipei
+2481,8,1,Art Competitions,Finland
+2482,8,1,Archery,Zimbabwe
+2483,8,0,Wrestling,Macedonia
+2484,8,0,Weightlifting,Trinidad and Tobago
+2485,8,0,Weightlifting,Guyana
+2486,8,0,Water Polo,Pupilles de Neptune de Lille #2-1
+2487,8,0,Water Polo,Iceland
+2488,8,0,Water Polo,Chile
+2489,8,0,Tug-Of-War,Omas Helliniki P. S.
+2490,8,0,Tug-Of-War,Netherlands
+2491,8,0,Tug-Of-War,London City Police-1
+2492,8,0,Tug-Of-War,Liverpool Police Team-2
+2493,8,0,Tug-Of-War,K Division Metropolitan Police Team-3
+2494,8,0,Tug-Of-War,Italy
+2495,8,0,Tug-Of-War,Germany
+2496,8,0,Tug-Of-War,Belgium
+2497,8,0,Tug-Of-War,Austria
+2498,8,0,Tennis,Argentina-2
+2499,8,0,Tennis,Argentina-1
+2500,8,0,Table Tennis,Sweden-2
+2501,8,0,Table Tennis,Sweden-1
+2502,8,0,Ski Jumping,China
+2503,8,0,Short Track Speed Skating,Norway
+2504,8,0,Shooting,Trinidad and Tobago
+2505,8,0,Shooting,Barbados
+2506,8,0,Sailing,Sidi-Fekkar-14
+2507,8,0,Sailing,Nina Claire-2
+2508,8,0,Sailing,Monaco
+2509,8,0,Sailing,Martha-1
+2510,8,0,Sailing,Malta
+2511,8,0,Sailing,Kitty-1
+2512,8,0,Sailing,Favorite-1
+2513,8,0,Sailing,DeRuyter
+2514,8,0,Rowing,Socit Nautique de la Basse Seine-1
+2515,8,0,Rowing,Socit Nautique de Bayonne-2
+2516,8,0,Rowing,Societ Nautique de la Marne
+2517,8,0,Rowing,Peiraikos Syndesmos-2
+2518,8,0,Rowing,Club Nautique de Lyon-2
+2519,8,0,Rowing,Bucintoro Venezia
+2520,8,0,Polo,United States
+2521,8,0,Luge,Poland-2
+2522,8,0,Luge,Poland-1
+2523,8,0,Luge,Latvia-2
+2524,8,0,Luge,Latvia-1
+2525,8,0,Judo,Yemen
+2526,8,0,Judo,Monaco
+2527,8,0,Judo,Kenya
+2528,8,0,Judo,Armenia
+2529,8,0,Gymnastics,Tunisia
+2530,8,0,Gymnastics,Monaco
+2531,8,0,Fencing,South Vietnam
+2532,8,0,Equestrianism,Qatar
+2533,8,0,Diving,Kuwait
+2534,8,0,Cycling,Scotland-2
+2535,8,0,Cycling,Scotland
+2536,8,0,Cycling,Individual Olympic Athletes
+2537,8,0,Cycling,Croatia
+2538,8,0,Cycling,Cambodia
+2539,8,0,Canoeing,Moldova
+2540,8,0,Canoeing,Czech Republic-2
+2541,8,0,Canoeing,Czech Republic-1
+2542,8,0,Boxing,Togo
+2543,8,0,Boxing,Swaziland
+2544,8,0,Boxing,Peru
+2545,8,0,Boxing,Moldova
+2546,8,0,Boxing,Croatia
+2547,8,0,Boxing,Cote d'Ivoire
+2548,8,0,Bobsleigh,Yugoslavia-2
+2549,8,0,Bobsleigh,Yugoslavia-1
+2550,8,0,Bobsleigh,Russia-3
+2551,8,0,Bobsleigh,Czechoslovakia-2
+2552,8,0,Bobsleigh,Czechoslovakia-1
+2553,8,0,Bobsleigh,Canada-3
+2554,8,0,Basketball,Estonia
+2555,8,0,Art Competitions,Monaco
+2556,7,28,Table Tennis,Romania
+2557,7,24,Short Track Speed Skating,Bulgaria
+2558,7,15,Archery,Mongolia
+2559,7,14,Fencing,Israel
+2560,7,13,Badminton,France
+2561,7,12,Basketball,Latvia
+2562,7,11,Badminton,Ukraine
+2563,7,10,Triathlon,Italy
+2564,7,10,Diving,Zimbabwe
+2565,7,9,Snowboarding,Great Britain
+2566,7,9,Archery,Switzerland
+2567,7,8,Taekwondo,Egypt
+2568,7,8,Table Tennis,Dominican Republic
+2569,7,8,Swimming,Malta
+2570,7,8,Snowboarding,Czech Republic
+2571,7,8,Badminton,New Zealand
+2572,7,7,Trampolining,China
+2573,7,7,Skeleton,Russia
+2574,7,7,Figure Skating,Ukraine-2
+2575,7,7,Figure Skating,Ukraine-1
+2576,7,6,Wrestling,Brazil
+2577,7,6,Taekwondo,Cuba
+2578,7,6,Judo,Unified Team
+2579,7,6,Figure Skating,North Korea
+2580,7,5,Trampolining,Japan
+2581,7,5,Swimming,Congo (Brazzaville)
+2582,7,5,Swimming,Bahrain
+2583,7,5,Gymnastics,Iran
+2584,7,5,Badminton,Canada-2
+2585,7,5,Badminton,Canada-1
+2586,7,5,Athletics,Guinea Bissau
+2587,7,5,Alpine Skiing,Uzbekistan
+2588,7,4,Triathlon,Mexico
+2589,7,4,Taekwondo,Italy
+2590,7,4,Swimming,Albania
+2591,7,4,Sailing,Bulgaria
+2592,7,4,Fencing,Indonesia
+2593,7,4,Badminton,Spain
+2594,7,4,Athletics,Cape Verde
+2595,7,4,Athletics,American Samoa
+2596,7,4,Archery,Ireland
+2597,7,4,Archery,Hong Kong
+2598,7,4,Alpine Skiing,Armenia
+2599,7,3,Skeleton,Italy
+2600,7,3,Short Track Speed Skating,Ukraine
+2601,7,3,Sailing,Lithuania
+2602,7,3,Fencing,Kazakhstan
+2603,7,2,Wrestling,Ecuador
+2604,7,2,Triathlon,Portugal
+2605,7,2,Table Tennis,Iran
+2606,7,2,Swimming,South Vietnam
+2607,7,2,Speed Skating,Denmark
+2608,7,2,Sailing,Antigua and Barbuda
+2609,7,2,Gymnastics,Malaysia
+2610,7,2,Badminton,Austria
+2611,7,2,Alpine Skiing,Portugal
+2612,7,1,Tennis,Great Britain-4
+2613,7,1,Sailing,Cuba
+2614,7,1,Judo,Lithuania
+2615,7,1,Fencing,Peru
+2616,7,1,Fencing,New Zealand
+2617,7,1,Art Competitions,Uruguay
+2618,7,0,Wrestling,Mauritania
+2619,7,0,Wrestling,Kenya
+2620,7,0,Wrestling,Dominican Republic
+2621,7,0,Weightlifting,United Arab Republic
+2622,7,0,Weightlifting,Saudi Arabia
+2623,7,0,Weightlifting,Nepal
+2624,7,0,Weightlifting,Libya
+2625,7,0,Weightlifting,Iceland
+2626,7,0,Weightlifting,Czech Republic
+2627,7,0,Weightlifting,American Samoa
+2628,7,0,Water Polo,Tritons Lillois-2
+2629,7,0,Water Polo,Pupilles de Neptune de Lille #1-3
+2630,7,0,Water Polo,"Osborne Swimming Club, Manchester"
+2631,7,0,Water Polo,New York Athletic Club-1
+2632,7,0,Water Polo,Missouri Athletic Club-3
+2633,7,0,Water Polo,Luxembourg
+2634,7,0,Water Polo,Libellule de Paris
+2635,7,0,Water Polo,Chicago Athletic Association-2
+2636,7,0,Tennis,Finland
+2637,7,0,Snowboarding,South Korea
+2638,7,0,Ski Jumping,Spain
+2639,7,0,Short Track Speed Skating,Sweden
+2640,7,0,Sailing,Taifun
+2641,7,0,Sailing,Slovakia
+2642,7,0,Sailing,Nina
+2643,7,0,Sailing,Mosk II
+2644,7,0,Sailing,Heatherbell
+2645,7,0,Sailing,Gallia II
+2646,7,0,Sailing,Eleda
+2647,7,0,Sailing,Ciocca II
+2648,7,0,Sailing,Ali-Baba II
+2649,7,0,Rowing,Saar
+2650,7,0,Rowing,"Phalainis ton Thorichtou ""Psara""-3"
+2651,7,0,Rowing,Monaco
+2652,7,0,Rowing,"Life boat naval ship ""Spetsai""-1"
+2653,7,0,Nordic Combined,Yugoslavia
+2654,7,0,Nordic Combined,Unified Team
+2655,7,0,Judo,Slovakia
+2656,7,0,Judo,Libya
+2657,7,0,Gymnastics,San Marino
+2658,7,0,Gymnastics,Liechtenstein
+2659,7,0,Gymnastics,Bohemia
+2660,7,0,Gymnastics,Barbados
+2661,7,0,Fencing,Monaco
+2662,7,0,Fencing,Bahrain
+2663,7,0,Equestrianism,Yugoslavia
+2664,7,0,Equestrianism,Belgium-1
+2665,7,0,Diving,Hong Kong
+2666,7,0,Cycling,Central African Republic
+2667,7,0,Cycling,Bahrain
+2668,7,0,Cross Country Skiing,Mexico
+2669,7,0,Cross Country Skiing,Costa Rica
+2670,7,0,Cross Country Skiing,Chinese Taipei
+2671,7,0,Cross Country Skiing,Andorra
+2672,7,0,Canoeing,Individual Olympic Athletes
+2673,7,0,Boxing,Turkmenistan
+2674,7,0,Boxing,Guinea
+2675,7,0,Boxing,Guatemala
+2676,7,0,Boxing,Czech Republic
+2677,7,0,Boxing,Bahamas
+2678,7,0,Boxing,Angola
+2679,7,0,Bobsleigh,Trinidad and Tobago
+2680,7,0,Bobsleigh,Poland-2
+2681,7,0,Bobsleigh,Argentina-2
+2682,7,0,Bobsleigh,Argentina-1
+2683,7,0,Athletics,North Yemen
+2684,7,0,Alpinism,India
+2685,6,19,Figure Skating,Norway
+2686,6,17,Gymnastics,Venezuela
+2687,6,13,Table Tennis,Italy
+2688,6,11,Tennis,Chinese Taipei
+2689,6,11,Table Tennis,Tunisia
+2690,6,11,Archery,Greece
+2691,6,10,Taekwondo,China
+2692,6,10,Shooting,Albania
+2693,6,9,Tennis,Colombia
+2694,6,8,Swimming,Libya
+2695,6,8,Modern Pentathlon,Belarus
+2696,6,8,Alpine Skiing,Belarus
+2697,6,7,Taekwondo,Brazil
+2698,6,7,Alpine Skiing,Estonia
+2699,6,6,Trampolining,Belarus
+2700,6,6,Taekwondo,Turkey
+2701,6,6,Swimming,Nigeria
+2702,6,6,Swimming,Nepal
+2703,6,6,Swimming,Jordan
+2704,6,6,Judo,Colombia
+2705,6,6,Figure Skating,Lithuania
+2706,6,6,Athletics,Sao Tome and Principe
+2707,6,6,Archery,Unified Team
+2708,6,5,Tennis,Venezuela
+2709,6,5,Taekwondo,Uzbekistan
+2710,6,5,Taekwondo,Russia
+2711,6,5,Taekwondo,Greece
+2712,6,5,Table Tennis,Indonesia
+2713,6,5,Swimming,Azerbaijan
+2714,6,5,Judo,Cote d'Ivoire
+2715,6,5,Gymnastics,Turkey
+2716,6,5,Figure Skating,Azerbaijan
+2717,6,5,Athletics,Turkmenistan
+2718,6,5,Archery,Egypt
+2719,6,4,Weightlifting,Papua New Guinea
+2720,6,4,Table Tennis,Nigeria-2
+2721,6,4,Table Tennis,Nigeria-1
+2722,6,4,Table Tennis,Algeria
+2723,6,4,Swimming,Uganda
+2724,6,4,Swimming,Andorra
+2725,6,4,Rowing,Algeria
+2726,6,4,Freestyle Skiing,New Zealand
+2727,6,4,Figure Skating,Belarus
+2728,6,4,Beach Volleyball,Russia
+2729,6,4,Beach Volleyball,Japan
+2730,6,4,Beach Volleyball,France
+2731,6,4,Beach Volleyball,Czech Republic
+2732,6,4,Beach Volleyball,Cuba
+2733,6,4,Beach Volleyball,Argentina
+2734,6,4,Athletics,Palestine
+2735,6,4,Archery,Philippines
+2736,6,4,Archery,New Zealand
+2737,6,4,Archery,Luxembourg
+2738,6,4,Alpine Skiing,Algeria
+2739,6,3,Tennis,New Zealand
+2740,6,3,Taekwondo,Azerbaijan
+2741,6,3,Sailing,Lerina
+2742,6,3,Judo,Indonesia
+2743,6,3,Freestyle Skiing,Slovenia
+2744,6,3,Figure Skating,Israel
+2745,6,3,Cross Country Skiing,Bosnia and Herzegovina
+2746,6,3,Biathlon,Croatia
+2747,6,2,Wrestling,Vietnam
+2748,6,2,Wrestling,Guinea Bissau
+2749,6,2,Weightlifting,Cook Islands
+2750,6,2,Tennis,Sweden-3
+2751,6,2,Tennis,Belgium-2
+2752,6,2,Tennis,Belgium-1
+2753,6,2,Shooting,Nicaragua
+2754,6,2,Sailing,Guam
+2755,6,2,Judo,South Africa
+2756,6,2,Cross Country Skiing,Serbia
+2757,6,2,Bobsleigh,Ireland
+2758,6,2,Beach Volleyball,Switzerland-2
+2759,6,2,Beach Volleyball,Switzerland-1
+2760,6,2,Beach Volleyball,Portugal
+2761,6,2,Beach Volleyball,Norway
+2762,6,2,Beach Volleyball,Canada-2
+2763,6,2,Beach Volleyball,Canada-1
+2764,6,2,Archery,Portugal
+2765,6,2,Alpine Skiing,Netherlands
+2766,6,1,Wrestling,Chinese Taipei
+2767,6,1,Weightlifting,Uganda
+2768,6,1,Weightlifting,Kyrgyzstan
+2769,6,1,Taekwondo,Nigeria
+2770,6,1,Skeleton,Latvia
+2771,6,1,Short Track Speed Skating,Slovakia
+2772,6,1,Shooting,Uruguay
+2773,6,1,Shooting,Netherlands Antilles
+2774,6,1,Sailing,Romania
+2775,6,1,Sailing,Malaysia
+2776,6,1,Luge,Argentina
+2777,6,1,Judo,Zimbabwe
+2778,6,1,Judo,Guam
+2779,6,1,Judo,Congo (Brazzaville)
+2780,6,1,Figure Skating,Denmark
+2781,6,1,Fencing,Guatemala
+2782,6,1,Canoeing,Indonesia
+2783,6,1,Archery,Thailand
+2784,6,1,Archery,Bulgaria
+2785,6,0,Wrestling,Serbia
+2786,6,0,Weightlifting,Lithuania
+2787,6,0,Tug-Of-War,Racing Club de France
+2788,6,0,Tug-Of-War,Denmark/Sweden
+2789,6,0,Tennis,Nigeria
+2790,6,0,Tennis,Morocco
+2791,6,0,Tennis,Ecuador
+2792,6,0,Table Tennis,Jamaica
+2793,6,0,Table Tennis,France-2
+2794,6,0,Table Tennis,France-1
+2795,6,0,Swimming,Iran
+2796,6,0,Ski Jumping,Romania
+2797,6,0,Ski Jumping,Georgia
+2798,6,0,Short Track Speed Skating,Mongolia
+2799,6,0,Shooting,Sudan
+2800,6,0,Shooting,Myanmar
+2801,6,0,Shooting,Laos
+2802,6,0,Shooting,Great Britain-2
+2803,6,0,Shooting,Great Britain-1
+2804,6,0,Shooting,Belize
+2805,6,0,Sailing,Zimbabwe
+2806,6,0,Sailing,Ylliam VII
+2807,6,0,Sailing,Vinha
+2808,6,0,Sailing,Tango
+2809,6,0,Sailing,Sylvia
+2810,6,0,Sailing,Silja
+2811,6,0,Sailing,Sheerio
+2812,6,0,Sailing,Sarcelle-3
+2813,6,0,Sailing,Santa Maria
+2814,6,0,Sailing,Raili
+2815,6,0,Sailing,Matrero II
+2816,6,0,Sailing,Marga-2
+2817,6,0,Sailing,K.S.S.S. 1912-2
+2818,6,0,Sailing,John B
+2819,6,0,Sailing,Italia
+2820,6,0,Sailing,Ilderim
+2821,6,0,Sailing,Iceland
+2822,6,0,Sailing,Hollandia
+2823,6,0,Sailing,Gwendoline-2
+2824,6,0,Sailing,Germania II
+2825,6,0,Sailing,EA II
+2826,6,0,Sailing,Druzhba
+2827,6,0,Sailing,Dolfijn
+2828,6,0,Sailing,Canopus
+2829,6,0,Sailing,Buraddoo
+2830,6,0,Sailing,Bamba
+2831,6,0,Sailing,Anitra
+2832,6,0,Sailing,Angola
+2833,6,0,Rowing,Western Rowing Club-3
+2834,6,0,Rowing,North Korea
+2835,6,0,Rowing,Club Nautique de Dieppe-5
+2836,6,0,Rowing,Argonaut Rowing Club
+2837,6,0,Racquets,Great Britain
+2838,6,0,Nordic Combined,Hungary
+2839,6,0,Motorboating,Gyrinus-1
+2840,6,0,Modern Pentathlon,Unified Team
+2841,6,0,Modern Pentathlon,Tunisia
+2842,6,0,Modern Pentathlon,Norway
+2843,6,0,Modern Pentathlon,East Germany
+2844,6,0,Luge,Ukraine-2
+2845,6,0,Luge,Ukraine-1
+2846,6,0,Luge,Spain
+2847,6,0,Luge,Romania-2
+2848,6,0,Luge,Romania-1
+2849,6,0,Luge,Great Britain-2
+2850,6,0,Luge,Great Britain-1
+2851,6,0,Judo,Uruguay
+2852,6,0,Judo,Chile
+2853,6,0,Judo,Bolivia
+2854,6,0,Gymnastics,"Turnverein Vorwrts, Cleveland"
+2855,6,0,Gymnastics,"Turnverein Vorwrts, Chicago"
+2856,6,0,Gymnastics,"South St Louis Turnverein, St Louis"
+2857,6,0,Gymnastics,"Socialer Turnverein, Detroit"
+2858,6,0,Gymnastics,"Philadelphia Turngemeinde, Philadelphia"
+2859,6,0,Gymnastics,"Passaic Turnverein, Passaic"
+2860,6,0,Gymnastics,"Norwegier Turnverein, Brooklyn"
+2861,6,0,Gymnastics,"New York Turnverein, New York"
+2862,6,0,Gymnastics,"Milwaukee Turnverein, Milwaukee"
+2863,6,0,Gymnastics,"La Salle Turnverein, Chicago"
+2864,6,0,Gymnastics,"Davenport Turngemeinde, Davenport"
+2865,6,0,Gymnastics,Cyprus
+2866,6,0,Gymnastics,"Concordia Turnverein, St Louis"
+2867,6,0,Gymnastics,"Central Turnverein, Chicago"
+2868,6,0,Equestrianism,United Arab Republic
+2869,6,0,Cycling,Rwanda
+2870,6,0,Cycling,Ireland-3
+2871,6,0,Cycling,Algeria
+2872,6,0,Cross Country Skiing,San Marino
+2873,6,0,Cross Country Skiing,Morocco
+2874,6,0,Canoeing,Poland-2
+2875,6,0,Canoeing,Poland-1
+2876,6,0,Canoeing,Great Britain-2
+2877,6,0,Canoeing,Great Britain-1
+2878,6,0,Canoeing,Germany-2
+2879,6,0,Canoeing,Germany-1
+2880,6,0,Canoeing,Estonia
+2881,6,0,Canoeing,Angola
+2882,6,0,Boxing,Senegal
+2883,6,0,Boxing,Honduras
+2884,6,0,Boxing,Haiti
+2885,6,0,Bobsleigh,Yugoslavia
+2886,6,0,Bobsleigh,Unified Team-2
+2887,6,0,Bobsleigh,Unified Team-1
+2888,6,0,Bobsleigh,Spain-2
+2889,6,0,Bobsleigh,Spain-1
+2890,6,0,Bobsleigh,Spain
+2891,6,0,Bobsleigh,South Korea-2
+2892,6,0,Bobsleigh,South Korea-1
+2893,6,0,Bobsleigh,Serbia
+2894,6,0,Bobsleigh,Poland-1
+2895,6,0,Bobsleigh,Liechtenstein
+2896,6,0,Biathlon,Mongolia
+2897,6,0,Beach Volleyball,Sweden
+2898,6,0,Beach Volleyball,Austria-2
+2899,6,0,Beach Volleyball,Austria-1
+2900,6,0,Alpine Skiing,Philippines
+2901,6,0,Alpine Skiing,Kyrgyzstan
+2902,5,24,Curling,Japan
+2903,5,18,Curling,Russia
+2904,5,15,Short Track Speed Skating,North Korea
+2905,5,13,Tennis,Indonesia
+2906,5,10,Taekwondo,Morocco
+2907,5,9,Taekwondo,France
+2908,5,8,Triathlon,South Africa
+2909,5,8,Triathlon,Austria
+2910,5,8,Trampolining,Canada
+2911,5,8,Taekwondo,Thailand
+2912,5,8,Diving,Kazakhstan
+2913,5,7,Triathlon,Belgium
+2914,5,7,Athletics,Albania
+2915,5,6,Taekwondo,Germany
+2916,5,6,Figure Skating,Uzbekistan
+2917,5,6,Figure Skating,Spain
+2918,5,6,Athletics,Tajikistan
+2919,5,5,Tennis,Soviet Union
+2920,5,5,Tennis,Germany-2
+2921,5,5,Tennis,Germany-1
+2922,5,5,Taekwondo,Venezuela
+2923,5,5,Taekwondo,Philippines
+2924,5,5,Swimming,Rwanda
+2925,5,5,Swimming,Mali
+2926,5,5,Swimming,Individual Olympic Athletes
+2927,5,5,Swimming,Federated States of Micronesia
+2928,5,5,Modern Pentathlon,Kazakhstan
+2929,5,5,Figure Skating,Hungary-2
+2930,5,5,Figure Skating,Hungary-1
+2931,5,5,Figure Skating,East Germany-2
+2932,5,5,Figure Skating,East Germany-1
+2933,5,5,Figure Skating,Austria-2
+2934,5,5,Figure Skating,Austria-1
+2935,5,5,Athletics,Macedonia
+2936,5,5,Athletics,Federated States of Micronesia
+2937,5,4,Weightlifting,Vietnam
+2938,5,4,Table Tennis,Yugoslavia
+2939,5,4,Swimming,Mongolia
+2940,5,4,Swimming,Aruba
+2941,5,4,Figure Skating,Latvia
+2942,5,4,Athletics,Palau
+2943,5,3,Weightlifting,El Salvador
+2944,5,3,Table Tennis,Congo (Brazzaville)
+2945,5,3,Swimming,Laos
+2946,5,3,Swimming,Cote d'Ivoire
+2947,5,3,Shooting,Namibia
+2948,5,3,Canoeing,Tunisia
+2949,5,3,Archery,Cuba
+2950,5,2,Weightlifting,Mauritius
+2951,5,2,Swimming,Qatar
+2952,5,2,Swimming,Myanmar
+2953,5,2,Swimming,Georgia
+2954,5,2,Sailing,Tunisia
+2955,5,2,Judo,Honduras
+2956,5,2,Judo,Bosnia and Herzegovina
+2957,5,2,Golf,Canada
+2958,5,2,Equestrianism,Puerto Rico
+2959,5,2,Canoeing,Azerbaijan
+2960,5,2,Alpine Skiing,Azerbaijan
+2961,5,2,Alpine Skiing,Albania
+2962,5,1,Triathlon,Kazakhstan
+2963,5,1,Triathlon,Argentina
+2964,5,1,Trampolining,France
+2965,5,1,Tennis,Yugoslavia
+2966,5,1,Tennis,Greece-3
+2967,5,1,Tennis,Greece-2
+2968,5,1,Tennis,Greece-1
+2969,5,1,Tennis,France-3
+2970,5,1,Taekwondo,Dominican Republic
+2971,5,1,Shooting,Moldova
+2972,5,1,Sailing,Saskia
+2973,5,1,Sailing,Netherlands Antilles
+2974,5,1,Sailing,L'Aile VI
+2975,5,1,Sailing,Feo
+2976,5,1,Sailing,Colombia
+2977,5,1,Rowing,Uzbekistan
+2978,5,1,Judo,Andorra
+2979,5,1,Diving,Thailand
+2980,5,1,Cycling,Serbia
+2981,5,1,Canoeing,Senegal
+2982,5,1,Canoeing,Macedonia
+2983,5,1,Boxing,Central African Republic
+2984,5,0,Wrestling,Croatia
+2985,5,0,Weightlifting,Qatar
+2986,5,0,Weightlifting,Malaya
+2987,5,0,Weightlifting,Jamaica
+2988,5,0,Tug-Of-War,St. Louis Southwest Turnverein #2-3
+2989,5,0,Tug-Of-War,St. Louis Southwest Turnverein #1-2
+2990,5,0,Tug-Of-War,Pan-Hellenic Athletic Club
+2991,5,0,Tug-Of-War,New York Athletic Club-4
+2992,5,0,Tug-Of-War,Milwaukee Athletic Club-1
+2993,5,0,Tug-Of-War,Boer Team
+2994,5,0,Table Tennis,Mauritius
+2995,5,0,Swimming,Tritons Lillois-2
+2996,5,0,Swimming,Malaya
+2997,5,0,Swimming,Libellule de Paris-3
+2998,5,0,Speed Skating,New Zealand
+2999,5,0,Skeleton,South Korea
+3000,5,0,Skeleton,France
+3001,5,0,Shooting,South Vietnam
+3002,5,0,Shooting,Malaya
+3003,5,0,Shooting,Bohemia
+3004,5,0,Sailing,rn-2
+3005,5,0,Sailing,Ylliam VIII
+3006,5,0,Sailing,Ylliam II
+3007,5,0,Sailing,Wiking
+3008,5,0,Sailing,Vinga-1
+3009,5,0,Sailing,Ubu
+3010,5,0,Sailing,Twins II
+3011,5,0,Sailing,Tutti V
+3012,5,0,Sailing,Trinidad and Tobago
+3013,5,0,Sailing,Trickson VI
+3014,5,0,Sailing,Tornado
+3015,5,0,Sailing,Titia
+3016,5,0,Sailing,Sorais-2
+3017,5,0,Sailing,Sans Atout-1
+3018,5,0,Sailing,Saga-2
+3019,5,0,Sailing,Ralia
+3020,5,0,Sailing,Qu'Importe
+3021,5,0,Sailing,Norman-1
+3022,5,0,Sailing,Nirwana
+3023,5,0,Sailing,Namoussa
+3024,5,0,Sailing,Mystery
+3025,5,0,Sailing,Morena
+3026,5,0,Sailing,May Be VII
+3027,5,0,Sailing,Lynn
+3028,5,0,Sailing,Lyn-2
+3029,5,0,Sailing,Lully II
+3030,5,0,Sailing,Lucky Girl-1
+3031,5,0,Sailing,LaBandera
+3032,5,0,Sailing,Kemphaan
+3033,5,0,Sailing,Joy
+3034,5,0,Sailing,Johan
+3035,5,0,Sailing,Irene
+3036,5,0,Sailing,Hungaria
+3037,5,0,Sailing,Gustel V
+3038,5,0,Sailing,Gitana-21
+3039,5,0,Sailing,Gallant
+3040,5,0,Sailing,Fruits
+3041,5,0,Sailing,Frieda
+3042,5,0,Sailing,Fram
+3043,5,0,Sailing,Esperia
+3044,5,0,Sailing,Emily
+3045,5,0,Sailing,Elisabeth X
+3046,5,0,Sailing,Danuta
+3047,5,0,Sailing,Daisy
+3048,5,0,Sailing,Cupidon Viking
+3049,5,0,Sailing,Cupidon III
+3050,5,0,Sailing,Crabe II-4
+3051,5,0,Sailing,Crabe II-12
+3052,5,0,Sailing,Crabe II-1
+3053,5,0,Sailing,Cobweb-1
+3054,5,0,Sailing,Ciocca
+3055,5,0,Sailing,Bylina-2
+3056,5,0,Sailing,Blue Red
+3057,5,0,Sailing,Bera
+3058,5,0,Sailing,Bahrain
+3059,5,0,Sailing,Babe
+3060,5,0,Sailing,Apache
+3061,5,0,Sailing,Aloha II
+3062,5,0,Rowing,Vaxholm Roddklubb
+3063,5,0,Rowing,Thames Rowing Club
+3064,5,0,Rowing,Studenternes Roklub-2
+3065,5,0,Rowing,Slovakia
+3066,5,0,Rowing,Roklubb Kbnhavn-2
+3067,5,0,Rowing,Roddklubben af 1912-1
+3068,5,0,Rowing,Ral-Club Barcelona
+3069,5,0,Rowing,"R.-V. Germania, Leitmeritz"
+3070,5,0,Rowing,Polyteknisk Roklub-1
+3071,5,0,Rowing,Ormsund Roklub-2
+3072,5,0,Rowing,Omilos Ereton Smyrnis
+3073,5,0,Rowing,Nykjbings paa Falster
+3074,5,0,Rowing,Nautikos Omilos-3
+3075,5,0,Rowing,Ludwigshafener Ruderverein
+3076,5,0,Rowing,Ludwigshafener Ruder Verein-1
+3077,5,0,Rowing,Helsingfors R. K.
+3078,5,0,Rowing,Gteborgs Roddfrening-2
+3079,5,0,Rowing,"Germania Ruder Club, Hamburg-2"
+3080,5,0,Polo,Hungary
+3081,5,0,Polo,France
+3082,5,0,Polo,Foxhunters Hurlingham
+3083,5,0,Nordic Combined,Slovakia
+3084,5,0,Nordic Combined,Belarus
+3085,5,0,Judo,United Arab Emirates
+3086,5,0,Judo,Suriname
+3087,5,0,Judo,Peru
+3088,5,0,Judo,Paraguay
+3089,5,0,Judo,Nicaragua
+3090,5,0,Judo,Guatemala
+3091,5,0,Judo,Barbados
+3092,5,0,Judo,Aruba
+3093,5,0,Diving,Dominican Republic
+3094,5,0,Cycling,Uzbekistan
+3095,5,0,Cycling,Togo
+3096,5,0,Cycling,Puerto Rico
+3097,5,0,Cycling,Kyrgyzstan
+3098,5,0,Cycling,Andorra
+3099,5,0,Curling,New Zealand
+3100,5,0,Cross Country Skiing,Nepal
+3101,5,0,Boxing,Trinidad and Tobago
+3102,5,0,Boxing,Mozambique
+3103,5,0,Boxing,Jordan
+3104,5,0,Boxing,Israel
+3105,5,0,Boxing,Fiji
+3106,5,0,Boxing,Congo (Brazzaville)
+3107,5,0,Boxing,Cambodia
+3108,5,0,Boxing,American Samoa
+3109,5,0,Boxing,Afghanistan
+3110,5,0,Bobsleigh,Luxembourg
+3111,5,0,Bobsleigh,Australia-1
+3112,5,0,Badminton,Guatemala
+3113,5,0,Athletics,South Vietnam
+3114,5,0,Athletics,Racing Club de France
+3115,5,0,Athletics,New York Athletic Club
+3116,5,0,Athletics,Chicago Athletic Association
+3117,5,0,Athletics,Amateur Athletic Association
+3118,5,0,Art Competitions,Bulgaria
+3119,5,0,Archery,Saudi Arabia
+3120,4,12,Badminton,Japan-2
+3121,4,12,Badminton,Japan-1
+3122,4,11,Tennis,Ukraine
+3123,4,10,Snowboarding,Netherlands
+3124,4,10,Beach Volleyball,Australia-2
+3125,4,10,Beach Volleyball,Australia-1
+3126,4,9,Triathlon,Netherlands
+3127,4,9,Tennis,Thailand
+3128,4,9,Snowboarding,China
+3129,4,8,Triathlon,Hungary
+3130,4,8,Tennis,Russia-2
+3131,4,8,Tennis,Russia-1
+3132,4,8,Table Tennis,Czechoslovakia
+3133,4,8,Gymnastics,Chile
+3134,4,8,Beach Volleyball,Netherlands
+3135,4,8,Beach Volleyball,Mexico
+3136,4,8,Alpine Skiing,Serbia and Montenegro
+3137,4,7,Golf,France
+3138,4,6,Tennis,Czech Republic-2
+3139,4,6,Tennis,Czech Republic-1
+3140,4,6,Table Tennis,Ukraine
+3141,4,6,Beach Volleyball,Canada
+3142,4,5,Trampolining,Ukraine
+3143,4,5,Trampolining,Germany
+3144,4,5,Tennis,West Germany
+3145,4,5,Tennis,Paraguay
+3146,4,5,Taekwondo,Vietnam
+3147,4,5,Taekwondo,Kazakhstan
+3148,4,5,Taekwondo,Colombia
+3149,4,5,Swimming,Namibia
+3150,4,5,Gymnastics,Hong Kong
+3151,4,5,Figure Skating,Armenia
+3152,4,5,Curling,Italy
+3153,4,5,Cross Country Skiing,Moldova
+3154,4,5,Athletics,Aruba
+3155,4,4,Weightlifting,Fiji
+3156,4,4,Taekwondo,Tunisia
+3157,4,4,Taekwondo,New Zealand
+3158,4,4,Taekwondo,Jordan
+3159,4,4,Swimming,Turkmenistan
+3160,4,4,Swimming,Palestine
+3161,4,4,Swimming,Niger
+3162,4,4,Swimming,Guinea
+3163,4,4,Swimming,Armenia
+3164,4,4,Skeleton,New Zealand
+3165,4,4,Shooting,Bangladesh
+3166,4,4,Rowing,Latvia
+3167,4,4,Freestyle Skiing,Unified Team
+3168,4,4,Figure Skating,China-2
+3169,4,4,Figure Skating,China-1
+3170,4,4,Diving,Unified Team
+3171,4,4,Cross Country Skiing,Brazil
+3172,4,4,Biathlon,Chile
+3173,4,4,Beach Volleyball,South Africa
+3174,4,4,Beach Volleyball,Norway-2
+3175,4,4,Beach Volleyball,Norway-1
+3176,4,4,Beach Volleyball,Netherlands-2
+3177,4,4,Beach Volleyball,Netherlands-1
+3178,4,4,Beach Volleyball,China
+3179,4,4,Beach Volleyball,Austria
+3180,4,4,Badminton,Iceland
+3181,4,4,Archery,Cincinnati Archers
+3182,4,4,Alpine Skiing,Peru
+3183,4,3,Weightlifting,Solomon Islands
+3184,4,3,Triathlon,Denmark
+3185,4,3,Trampolining,Portugal
+3186,4,3,Taekwondo,Argentina
+3187,4,3,Table Tennis,Unified Team
+3188,4,3,Table Tennis,Individual Olympic Athletes
+3189,4,3,Swimming,Burkina Faso
+3190,4,3,Swimming,Benin
+3191,4,3,Athletics,Kiribati
+3192,4,3,Archery,Puerto Rico
+3193,4,2,Wrestling,Guam
+3194,4,2,Trampolining,Australia
+3195,4,2,Tennis,Uzbekistan
+3196,4,2,Tennis,Hungary-2
+3197,4,2,Table Tennis,Hong Kong-2
+3198,4,2,Table Tennis,Hong Kong-1
+3199,4,2,Table Tennis,Australia-2
+3200,4,2,Table Tennis,Australia-1
+3201,4,2,Swimming,Sudan
+3202,4,2,Swimming,Saint Vincent and the Grenadines
+3203,4,2,Swimming,Guyana
+3204,4,2,Swimming,Grenada
+3205,4,2,Swimming,Dominican Republic
+3206,4,2,Short Track Speed Skating,Latvia
+3207,4,2,Luge,Venezuela
+3208,4,2,Fencing,Senegal
+3209,4,2,Equestrianism,Hong Kong
+3210,4,2,Equestrianism,Guatemala
+3211,4,2,Canoeing,Samoa
+3212,4,2,Canoeing,Iran
+3213,4,2,Canoeing,Costa Rica
+3214,4,2,Bobsleigh,South Korea
+3215,4,2,Biathlon,Kyrgyzstan
+3216,4,2,Beach Volleyball,Germany
+3217,4,2,Beach Volleyball,Australia
+3218,4,2,Badminton,Belgium
+3219,4,2,Athletics,Refugee Olympic Athletes
+3220,4,2,Athletics,Brunei
+3221,4,1,Wrestling,El Salvador
+3222,4,1,Weightlifting,Seychelles
+3223,4,1,Shooting,Turkmenistan
+3224,4,1,Sailing,May Be
+3225,4,1,Sailing,Andorra
+3226,4,1,Luge,Yugoslavia
+3227,4,1,Judo,Individual Olympic Athletes
+3228,4,1,Fencing,United States Virgin Islands
+3229,4,1,Diving,Bulgaria
+3230,4,1,Cross Country Skiing,Iran
+3231,4,1,Canoeing,Venezuela
+3232,4,1,Canoeing,Saar
+3233,4,1,Boxing,Panama
+3234,4,1,Art Competitions,China
+3235,4,1,Archery,Costa Rica
+3236,4,1,Alpine Skiing,Montenegro
+3237,4,0,Wrestling,United States Virgin Islands
+3238,4,0,Wrestling,United Arab Republic
+3239,4,0,Wrestling,Palau
+3240,4,0,Wrestling,Malta
+3241,4,0,Wrestling,Jordan
+3242,4,0,Wrestling,Albania
+3243,4,0,Weightlifting,Yugoslavia
+3244,4,0,Weightlifting,Tonga
+3245,4,0,Weightlifting,Sudan
+3246,4,0,Weightlifting,Sri Lanka
+3247,4,0,Weightlifting,Kiribati
+3248,4,0,Weightlifting,Federated States of Micronesia
+3249,4,0,Weightlifting,Costa Rica
+3250,4,0,Tennis,India-2
+3251,4,0,Tennis,India-1
+3252,4,0,Tennis,Denmark-2
+3253,4,0,Tennis,Denmark-1
+3254,4,0,Tennis,Czechoslovakia-1
+3255,4,0,Tennis,Brazil-2
+3256,4,0,Tennis,Brazil-1
+3257,4,0,Taekwondo,Afghanistan
+3258,4,0,Table Tennis,Serbia
+3259,4,0,Table Tennis,Congo (Kinshasa)
+3260,4,0,Swimming,Pupilles de Neptune de Lille-1
+3261,4,0,Swimming,New York Athletic Club #2-4
+3262,4,0,Swimming,New York Athletic Club #1-1
+3263,4,0,Swimming,Missouri Athletic Club-3
+3264,4,0,Swimming,Deutscher Schwimm Verband Berlin
+3265,4,0,Swimming,Chicago Athletic Association-2
+3266,4,0,Speed Skating,Lithuania
+3267,4,0,Ski Jumping,Great Britain
+3268,4,0,Skeleton,Ireland
+3269,4,0,Shooting,Tajikistan
+3270,4,0,Shooting,Montenegro
+3271,4,0,Shooting,Iceland
+3272,4,0,Shooting,Fiji
+3273,4,0,Sailing,Yeoman
+3274,4,0,Sailing,Vision
+3275,4,0,Sailing,Twins VIII
+3276,4,0,Sailing,Subbnboana
+3277,4,0,Sailing,Sri Lanka
+3278,4,0,Sailing,Spirit III
+3279,4,0,Sailing,Sildra-1
+3280,4,0,Sailing,Sif
+3281,4,0,Sailing,Sidi Fekkar-36
+3282,4,0,Sailing,Rush IV
+3283,4,0,Sailing,Rika II
+3284,4,0,Sailing,Quand-Mme-33
+3285,4,0,Sailing,Norna
+3286,4,0,Sailing,Noreg
+3287,4,0,Sailing,Nina Claire-30
+3288,4,0,Sailing,Nephos I
+3289,4,0,Sailing,Merope III
+3290,4,0,Sailing,Merope
+3291,4,0,Sailing,Martha-27
+3292,4,0,Sailing,Mamie-6
+3293,4,0,Sailing,Lucky Star
+3294,4,0,Sailing,Lotta IV
+3295,4,0,Sailing,Kurush IV
+3296,4,0,Sailing,Kenya
+3297,4,0,Sailing,Ingegerd
+3298,4,0,Sailing,Hi-Hi
+3299,4,0,Sailing,Galopin-9
+3300,4,0,Sailing,Fornebo
+3301,4,0,Sailing,Favorite-17
+3302,4,0,Sailing,Faneca
+3303,4,0,Sailing,Espuma del Mar
+3304,4,0,Sailing,Elsie
+3305,4,0,Sailing,El Salvador
+3306,4,0,Sailing,Djibouti
+3307,4,0,Sailing,Complex II
+3308,4,0,Sailing,Caprice
+3309,4,0,Sailing,Camelia
+3310,4,0,Sailing,C.V.A.-7
+3311,4,0,Sailing,Bissbi
+3312,4,0,Sailing,Bem II
+3313,4,0,Sailing,Beaver
+3314,4,0,Sailing,Barco Deloro
+3315,4,0,Sailing,Argus
+3316,4,0,Sailing,Amulet-3
+3317,4,0,Rowing,Societ Nautique de la Marne-3
+3318,4,0,Rowing,Mound City Rowing Club-2
+3319,4,0,Rowing,Magdalen College Boat Club-1
+3320,4,0,Rowing,Leander Club-2
+3321,4,0,Rowing,Club Nautique de Franais-1
+3322,4,0,Rowing,Century Boat Club-1
+3323,4,0,Rowing,Amstel Amsterdam
+3324,4,0,Roque,United States
+3325,4,0,Polo,Roehampton-1
+3326,4,0,Polo,Mexico
+3327,4,0,Polo,Ireland-3
+3328,4,0,Polo,Hurlingham-2
+3329,4,0,Polo,Germany
+3330,4,0,Polo,Compigne Polo Club
+3331,4,0,Polo,Belgium
+3332,4,0,Polo,"Bagatelle Polo Club, Paris"
+3333,4,0,Polo,"BLO Polo Club, Rugby"
+3334,4,0,Polo,A North American Team
+3335,4,0,Motorboating,Wolseley-Siddeley-1
+3336,4,0,Military Ski Patrol,Switzerland
+3337,4,0,Military Ski Patrol,Poland
+3338,4,0,Military Ski Patrol,Italy
+3339,4,0,Military Ski Patrol,France
+3340,4,0,Military Ski Patrol,Finland
+3341,4,0,Military Ski Patrol,Czechoslovakia
+3342,4,0,Luge,Norway-1
+3343,4,0,Luge,Moldova
+3344,4,0,Luge,India
+3345,4,0,Luge,Czechoslovakia-2
+3346,4,0,Luge,Czechoslovakia-1
+3347,4,0,Luge,Bermuda
+3348,4,0,Judo,Seychelles
+3349,4,0,Judo,Norway
+3350,4,0,Gymnastics,Yemen
+3351,4,0,Fencing,Singapore
+3352,4,0,Fencing,Malaysia
+3353,4,0,Fencing,Bolivia
+3354,4,0,Diving,United Arab Republic
+3355,4,0,Cycling,Bermuda
+3356,4,0,Cross Country Skiing,South Africa
+3357,4,0,Cross Country Skiing,Kenya
+3358,4,0,Cross Country Skiing,Ireland
+3359,4,0,Cross Country Skiing,Guatemala
+3360,4,0,Canoeing,Uruguay
+3361,4,0,Canoeing,United States-2
+3362,4,0,Canoeing,United States-1
+3363,4,0,Canoeing,Seychelles
+3364,4,0,Canoeing,Mozambique
+3365,4,0,Canoeing,Kyrgyzstan
+3366,4,0,Canoeing,France-2
+3367,4,0,Canoeing,France-1
+3368,4,0,Canoeing,Czechoslovakia-3
+3369,4,0,Canoeing,Czechoslovakia-2
+3370,4,0,Canoeing,Czechoslovakia-1
+3371,4,0,Boxing,United Arab Republic
+3372,4,0,Boxing,Rhodesia
+3373,4,0,Boxing,Paraguay
+3374,4,0,Boxing,Mali
+3375,4,0,Boxing,Liberia
+3376,4,0,Boxing,Estonia
+3377,4,0,Boxing,Burkina Faso
+3378,4,0,Boxing,Bermuda
+3379,4,0,Bobsleigh,Serbia and Montenegro
+3380,4,0,Bobsleigh,Portugal
+3381,4,0,Bobsleigh,Netherlands Antilles
+3382,4,0,Bobsleigh,Mexico-2
+3383,4,0,Bobsleigh,Mexico-1
+3384,4,0,Bobsleigh,Ireland-2
+3385,4,0,Bobsleigh,Ireland-1
+3386,4,0,Bobsleigh,Germany
+3387,4,0,Bobsleigh,Chinese Taipei-2
+3388,4,0,Bobsleigh,Chinese Taipei-1
+3389,4,0,Bobsleigh,Bulgaria-2
+3390,4,0,Bobsleigh,Bulgaria-1
+3391,4,0,Bobsleigh,Australia-2
+3392,4,0,Bobsleigh,Armenia
+3393,4,0,Biathlon,Serbia
+3394,4,0,Biathlon,Chinese Taipei
+3395,4,0,Beach Volleyball,Latvia
+3396,4,0,Beach Volleyball,Estonia
+3397,4,0,Badminton,Thailand-2
+3398,4,0,Badminton,Thailand-1
+3399,4,0,Athletics,Rhodesia
+3400,4,0,Art Competitions,El Salvador
+3401,4,0,Archery,Potomac Archers
+3402,4,0,Archery,Chicago Archers
+3403,4,0,Archery,Boston Archers
+3404,4,0,Alpine Skiing,Moldova
+3405,4,0,Alpine Skiing,Israel
+3406,3,16,Shooting,Georgia
+3407,3,14,Archery,Colombia
+3408,3,13,Tennis,Slovenia
+3409,3,12,Snowboarding,New Zealand
+3410,3,11,Shooting,Azerbaijan
+3411,3,11,Gymnastics,Vietnam
+3412,3,11,Archery,Hungary
+3413,3,9,Badminton,Switzerland
+3414,3,9,Alpine Skiing,Serbia
+3415,3,8,Triathlon,China
+3416,3,8,Table Tennis,Peru
+3417,3,8,Equestrianism,Bermuda
+3418,3,7,Taekwondo,Canada
+3419,3,7,Judo,Gabon
+3420,3,7,Archery,Belarus
+3421,3,6,Trampolining,Great Britain
+3422,3,6,Tennis,Luxembourg
+3423,3,6,Swimming,Morocco
+3424,3,6,Sailing,Latvia
+3425,3,6,Alpine Skiing,United States Virgin Islands
+3426,3,5,Trampolining,United States
+3427,3,5,Taekwondo,Sweden
+3428,3,5,Taekwondo,Cote d'Ivoire
+3429,3,5,Table Tennis,Soviet Union
+3430,3,5,Table Tennis,Ghana
+3431,3,5,Snowboarding,Bulgaria
+3432,3,5,Skeleton,Australia
+3433,3,5,Rowing,Tunisia
+3434,3,5,Rowing,Kazakhstan
+3435,3,5,Judo,Malta
+3436,3,4,Taekwondo,Netherlands
+3437,3,4,Swimming,Tajikistan
+3438,3,4,Swimming,Malawi
+3439,3,4,Swimming,Burundi
+3440,3,4,Freestyle Skiing,Spain
+3441,3,4,Figure Skating,Slovenia
+3442,3,4,Figure Skating,Georgia
+3443,3,4,Diving,South Africa
+3444,3,4,Badminton,Ireland
+3445,3,4,Athletics,Timor Leste
+3446,3,3,Weightlifting,Chile
+3447,3,3,Table Tennis,Turkey
+3448,3,3,Swimming,Tanzania
+3449,3,3,Swimming,Marshall Islands
+3450,3,3,Swimming,Antigua and Barbuda
+3451,3,3,Snowboarding,Ukraine
+3452,3,3,Short Track Speed Skating,Israel
+3453,3,3,Sailing,Peru
+3454,3,3,Modern Pentathlon,Guatemala
+3455,3,3,Luge,Unified Team
+3456,3,3,Judo,Burkina Faso
+3457,3,3,Figure Skating,Great Britain-3
+3458,3,3,Figure Skating,Germany-3
+3459,3,3,Figure Skating,China-3
+3460,3,3,Diving,Chinese Taipei
+3461,3,3,Badminton,Czech Republic
+3462,3,3,Athletics,Montenegro
+3463,3,3,Athletics,Marshall Islands
+3464,3,2,Tennis,Puerto Rico
+3465,3,2,Swimming,Cook Islands
+3466,3,2,Swimming,Cameroon
+3467,3,2,Rowing,Chinese Taipei
+3468,3,2,Modern Pentathlon,Greece
+3469,3,2,Figure Skating,Unified Team
+3470,3,2,Fencing,Haiti
+3471,3,2,Equestrianism,South Africa
+3472,3,2,Canoeing,Cook Islands
+3473,3,2,Badminton,Vietnam
+3474,3,2,Badminton,Sri Lanka
+3475,3,2,Badminton,Estonia
+3476,3,2,Athletics,Tuvalu
+3477,3,2,Archery,Romania
+3478,3,1,Weightlifting,Uruguay
+3479,3,1,Weightlifting,Guam
+3480,3,1,Tennis,United States/Great Britain
+3481,3,1,Tennis,Norway-2
+3482,3,1,Tennis,Belgium-4
+3483,3,1,Tennis,Belgium-3
+3484,3,1,Taekwondo,Poland
+3485,3,1,Taekwondo,Denmark
+3486,3,1,Taekwondo,Central African Republic
+3487,3,1,Table Tennis,Slovenia
+3488,3,1,Table Tennis,Qatar
+3489,3,1,Swimming,Iraq
+3490,3,1,Shooting,Panama
+3491,3,1,Sailing,Heroine
+3492,3,1,Sailing,Ancora
+3493,3,1,Rowing,Azerbaijan
+3494,3,1,Judo,Serbia and Montenegro
+3495,3,1,Judo,Panama
+3496,3,1,Figure Skating,Chinese Taipei
+3497,3,1,Equestrianism,United States Virgin Islands
+3498,3,1,Equestrianism,Jordan
+3499,3,1,Diving,Chile
+3500,3,1,Diving,Bermuda
+3501,3,1,Cycling,Israel
+3502,3,1,Canoeing,Egypt
+3503,3,1,Badminton,Sweden-2
+3504,3,1,Badminton,Sweden-1
+3505,3,1,Art Competitions,Russia
+3506,3,0,Wrestling,Serbia and Montenegro
+3507,3,0,Wrestling,Samoa
+3508,3,0,Wrestling,Saar
+3509,3,0,Wrestling,Gambia
+3510,3,0,Weightlifting,Swaziland
+3511,3,0,Weightlifting,Ireland
+3512,3,0,Weightlifting,Honduras
+3513,3,0,Weightlifting,Croatia
+3514,3,0,Weightlifting,Aruba
+3515,3,0,Triathlon,Zimbabwe
+3516,3,0,Triathlon,Slovakia
+3517,3,0,Trampolining,Italy
+3518,3,0,Trampolining,Denmark
+3519,3,0,Tennis,Peru
+3520,3,0,Tennis,Cote d'Ivoire
+3521,3,0,Tennis,Armenia
+3522,3,0,Taekwondo,Mali
+3523,3,0,Taekwondo,Libya
+3524,3,0,Taekwondo,Gabon
+3525,3,0,Taekwondo,Costa Rica
+3526,3,0,Table Tennis,Paraguay
+3527,3,0,Table Tennis,Kuwait
+3528,3,0,Swimming,Oman
+3529,3,0,Ski Jumping,Iceland
+3530,3,0,Shooting,United Arab Republic
+3531,3,0,Shooting,Saar
+3532,3,0,Shooting,Papua New Guinea
+3533,3,0,Shooting,Australasia
+3534,3,0,Shooting,Angola
+3535,3,0,Sailing,Zut
+3536,3,0,Sailing,Yeoman XII
+3537,3,0,Sailing,Yeoman VII
+3538,3,0,Sailing,Yeoman V
+3539,3,0,Sailing,Xolotl
+3540,3,0,Sailing,Xantippa
+3541,3,0,Sailing,Willem-Six
+3542,3,0,Sailing,White Lady
+3543,3,0,Sailing,Web III
+3544,3,0,Sailing,Web II
+3545,3,0,Sailing,Voloira II
+3546,3,0,Sailing,Virginie
+3547,3,0,Sailing,Viktoriya
+3548,3,0,Sailing,Viking
+3549,3,0,Sailing,Venilia
+3550,3,0,Sailing,Unique
+3551,3,0,Sailing,Tu-Fri
+3552,3,0,Sailing,Trintel II
+3553,3,0,Sailing,Tomahawk II
+3554,3,0,Sailing,Tom Kyle
+3555,3,0,Sailing,Tip
+3556,3,0,Sailing,Tim-Tam III
+3557,3,0,Sailing,Tilly
+3558,3,0,Sailing,Thalatta
+3559,3,0,Sailing,Teresita
+3560,3,0,Sailing,Tan-Fe-Pah
+3561,3,0,Sailing,Suzy-2
+3562,3,0,Sailing,Surprise
+3563,3,0,Sailing,Struten
+3564,3,0,Sailing,Stella-2
+3565,3,0,Sailing,State VI
+3566,3,0,Sailing,Spirit VI
+3567,3,0,Sailing,Sonja II
+3568,3,0,Sailing,Snude
+3569,3,0,Sailing,Snowten III
+3570,3,0,Sailing,Snap
+3571,3,0,Sailing,Slaghoken II
+3572,3,0,Sailing,Slaghoken
+3573,3,0,Sailing,Sjhxa
+3574,3,0,Sailing,Sibindi-2
+3575,3,0,Sailing,Shoveller
+3576,3,0,Sailing,Serendipity
+3577,3,0,Sailing,Sass-2
+3578,3,0,Sailing,Sarcelle-35
+3579,3,0,Sailing,Sandra
+3580,3,0,Sailing,San Marino
+3581,3,0,Sailing,Salamander
+3582,3,0,Sailing,SagaII
+3583,3,0,Sailing,Sabre
+3584,3,0,Sailing,Rush VII
+3585,3,0,Sailing,Rush V
+3586,3,0,Sailing,Roy
+3587,3,0,Sailing,Rose Pompon
+3588,3,0,Sailing,Rififi
+3589,3,0,Sailing,Rhythm
+3590,3,0,Sailing,Red Dragon
+3591,3,0,Sailing,Proteus II
+3592,3,0,Sailing,Posillipo III
+3593,3,0,Sailing,Phoenix
+3594,3,0,Sailing,Persey
+3595,3,0,Sailing,Paula
+3596,3,0,Sailing,Patricia
+3597,3,0,Sailing,Partenope
+3598,3,0,Sailing,Pan II
+3599,3,0,Sailing,Pam
+3600,3,0,Sailing,Oranje
+3601,3,0,Sailing,Olen
+3602,3,0,Sailing,Oleander XII
+3603,3,0,Sailing,Oleander II
+3604,3,0,Sailing,Nurdug II
+3605,3,0,Sailing,Nirefs
+3606,3,0,Sailing,Neptun II
+3607,3,0,Sailing,Mutafo
+3608,3,0,Sailing,Monica
+3609,3,0,Sailing,Miss Nippon V
+3610,3,0,Sailing,Miss Nippon IV
+3611,3,0,Sailing,Mirtala
+3612,3,0,Sailing,Minotaur
+3613,3,0,Sailing,Mebi
+3614,3,0,Sailing,Marmi II-1
+3615,3,0,Sailing,Macky VI
+3616,3,0,Sailing,Mac Miche
+3617,3,0,Sailing,Lett
+3618,3,0,Sailing,Lasha
+3619,3,0,Sailing,Kullan
+3620,3,0,Sailing,Kuling
+3621,3,0,Sailing,Korshun
+3622,3,0,Sailing,Kerstin-1
+3623,3,0,Sailing,Kalayaan
+3624,3,0,Sailing,June Climene
+3625,3,0,Sailing,Jo
+3626,3,0,Sailing,Jill
+3627,3,0,Sailing,Jet
+3628,3,0,Sailing,Inga-Lill XXXXIII
+3629,3,0,Sailing,Hojwa
+3630,3,0,Sailing,Hatuey
+3631,3,0,Sailing,Gwendoline-22
+3632,3,0,Sailing,Guyoni
+3633,3,0,Sailing,Gustl XI
+3634,3,0,Sailing,Gustel X
+3635,3,0,Sailing,Gullvinge
+3636,3,0,Sailing,Guanahani
+3637,3,0,Sailing,Grifone
+3638,3,0,Sailing,Grifo IV
+3639,3,0,Sailing,Grifo III
+3640,3,0,Sailing,Girl Pat
+3641,3,0,Sailing,Gilliatt V
+3642,3,0,Sailing,Galerna
+3643,3,0,Sailing,Galejan
+3644,3,0,Sailing,Galatea II
+3645,3,0,Sailing,Gabbiano
+3646,3,0,Sailing,Frimousse
+3647,3,0,Sailing,Freja
+3648,3,0,Sailing,Fram III
+3649,3,0,Sailing,Finn II
+3650,3,0,Sailing,Escapade
+3651,3,0,Sailing,Elisabeth V
+3652,3,0,Sailing,Egypt
+3653,3,0,Sailing,Edelweiss II-1
+3654,3,0,Sailing,Dormy-1
+3655,3,0,Sailing,Donar III
+3656,3,0,Sailing,Dinah V
+3657,3,0,Sailing,Damoiselle IV
+3658,3,0,Sailing,Damoiselle
+3659,3,0,Sailing,Ciss
+3660,3,0,Sailing,Ciocca III
+3661,3,0,Sailing,Chok
+3662,3,0,Sailing,Chaje II
+3663,3,0,Sailing,Ceres II
+3664,3,0,Sailing,Cambria
+3665,3,0,Sailing,Burevestnik
+3666,3,0,Sailing,Bronia
+3667,3,0,Sailing,Boreas
+3668,3,0,Sailing,Bonzo
+3669,3,0,Sailing,Bona Fide
+3670,3,0,Sailing,Bluebottle
+3671,3,0,Sailing,Bingo
+3672,3,0,Sailing,Bim
+3673,3,0,Sailing,Bermudes
+3674,3,0,Sailing,Bellatrix IX
+3675,3,0,Sailing,Beatrijs III-1
+3676,3,0,Sailing,Barrenjoey
+3677,3,0,Sailing,Ballerina IV
+3678,3,0,Sailing,Bajazzo
+3679,3,0,Sailing,Baccara
+3680,3,0,Sailing,Ausonia
+3681,3,0,Sailing,Astrid III
+3682,3,0,Sailing,Argo II
+3683,3,0,Sailing,Argeste
+3684,3,0,Sailing,Aretusa
+3685,3,0,Sailing,Ardilla
+3686,3,0,Sailing,Aphrodite
+3687,3,0,Sailing,Andromeda
+3688,3,0,Sailing,Amolgavar
+3689,3,0,Sailing,Allegro
+3690,3,0,Sailing,Aletta
+3691,3,0,Sailing,Alcaid
+3692,3,0,Sailing,Alain IV
+3693,3,0,Sailing,Akatonbo
+3694,3,0,Sailing,Acipactli
+3695,3,0,Rowing,Turkey
+3696,3,0,Rowing,Socit Nautique de la Basse Seine-2
+3697,3,0,Rowing,Socit Nautique de Bayonne-1
+3698,3,0,Rowing,Rowing Club Castillon-3
+3699,3,0,Rowing,Pakistan
+3700,3,0,Rowing,Omilos Ereton Peiraios-2
+3701,3,0,Rowing,Iraq
+3702,3,0,Rowing,Guatemala
+3703,3,0,Rowing,Bucintoro Venezia-1
+3704,3,0,Rowing,Barion/Bari-2
+3705,3,0,Modern Pentathlon,Estonia
+3706,3,0,Modern Pentathlon,Chinese Taipei
+3707,3,0,Luge,Puerto Rico
+3708,3,0,Judo,Togo
+3709,3,0,Judo,Sudan
+3710,3,0,Judo,South Vietnam
+3711,3,0,Judo,Samoa
+3712,3,0,Judo,Niger
+3713,3,0,Judo,Netherlands Antilles
+3714,3,0,Judo,Mozambique
+3715,3,0,Judo,Montenegro
+3716,3,0,Judo,Djibouti
+3717,3,0,Judo,Benin
+3718,3,0,Gymnastics,Bangladesh
+3719,3,0,Freestyle Skiing,Argentina
+3720,3,0,Fencing,Czech Republic
+3721,3,0,Equestrianism,Bolivia
+3722,3,0,Diving,Peru
+3723,3,0,Diving,Israel
+3724,3,0,Cycling,West Indies Federation
+3725,3,0,Cycling,Suriname
+3726,3,0,Cycling,Iraq
+3727,3,0,Cycling,Aruba
+3728,3,0,Cross Country Skiing,Thailand
+3729,3,0,Cross Country Skiing,India
+3730,3,0,Canoeing,Togo
+3731,3,0,Canoeing,Sao Tome and Principe
+3732,3,0,Canoeing,Bosnia and Herzegovina
+3733,3,0,Boxing,Saar
+3734,3,0,Boxing,Malaysia
+3735,3,0,Boxing,Latvia
+3736,3,0,Boxing,Kuwait
+3737,3,0,Boxing,Costa Rica
+3738,3,0,Boxing,Cook Islands
+3739,3,0,Badminton,Suriname
+3740,3,0,Athletics,South Yemen
+3741,3,0,Art Competitions,Turkey
+3742,3,0,Art Competitions,Spain
+3743,3,0,Art Competitions,Romania
+3744,3,0,Art Competitions,Peru
+3745,3,0,Art Competitions,Egypt
+3746,3,0,Art Competitions,Cuba
+3747,3,0,Archery,San Marino
+3748,3,0,Archery,Fiji
+3749,3,0,Alpine Skiing,Swaziland
+3750,3,0,Alpine Skiing,Egypt
+3751,3,0,Alpine Skiing,East Germany
+3752,3,0,Alpine Skiing,Cayman Islands
+3753,2,26,Gymnastics,Slovakia
+3754,2,14,Tennis,Bulgaria
+3755,2,11,Archery,South Africa
+3756,2,10,Equestrianism,Greece
+3757,2,8,Tennis,Australia-2
+3758,2,8,Tennis,Australia-1
+3759,2,7,Shooting,Indonesia
+3760,2,6,Luge,United States Virgin Islands
+3761,2,6,Biathlon,Bosnia and Herzegovina
+3762,2,6,Beach Volleyball,Switzerland
+3763,2,6,Athletics,Saar
+3764,2,5,Triathlon,Poland
+3765,2,5,Tennis,Unified Team
+3766,2,5,Swimming,Palau
+3767,2,5,Shooting,Macedonia
+3768,2,5,Rowing,Zimbabwe
+3769,2,5,Freestyle Skiing,South Korea
+3770,2,4,Tennis,Tunisia
+3771,2,4,Table Tennis,West Germany
+3772,2,4,Table Tennis,United States-2
+3773,2,4,Table Tennis,United States-1
+3774,2,4,Table Tennis,North Korea-2
+3775,2,4,Table Tennis,North Korea-1
+3776,2,4,Table Tennis,Germany-2
+3777,2,4,Table Tennis,Germany-1
+3778,2,4,Table Tennis,Chinese Taipei-2
+3779,2,4,Table Tennis,Chinese Taipei-1
+3780,2,4,Swimming,Saint Lucia
+3781,2,4,Judo,Mauritius
+3782,2,4,Golf,South Korea
+3783,2,4,Figure Skating,South Africa
+3784,2,4,Figure Skating,Slovakia
+3785,2,4,Equestrianism,Belarus
+3786,2,4,Diving,New Zealand
+3787,2,4,Beach Volleyball,Greece
+3788,2,4,Beach Volleyball,Great Britain
+3789,2,4,Badminton,Belarus
+3790,2,4,Badminton,Australia-2
+3791,2,4,Badminton,Australia-1
+3792,2,3,Triathlon,Ireland
+3793,2,3,Triathlon,Chile
+3794,2,3,Triathlon,Bermuda
+3795,2,3,Taekwondo,Guatemala
+3796,2,3,Table Tennis,Mexico
+3797,2,3,Shooting,Tunisia
+3798,2,3,Rowing,Paraguay
+3799,2,3,Rowing,Iran
+3800,2,3,Luge,Australia
+3801,2,3,Fencing,Vietnam
+3802,2,3,Cross Country Skiing,New Zealand
+3803,2,3,Badminton,Peru
+3804,2,3,Badminton,Nigeria
+3805,2,3,Archery,Venezuela
+3806,2,3,Archery,Myanmar
+3807,2,3,Archery,Iran
+3808,2,2,Trampolining,Netherlands
+3809,2,2,Tennis,Japan-2
+3810,2,2,Tennis,Japan-1
+3811,2,2,Tennis,Hungary-1
+3812,2,2,Taekwondo,Slovenia
+3813,2,2,Taekwondo,Belgium
+3814,2,2,Table Tennis,Vanuatu
+3815,2,2,Swimming,Refugee Olympic Athletes
+3816,2,2,Swimming,Ethiopia
+3817,2,2,Swimming,Comoros
+3818,2,2,Swimming,Botswana
+3819,2,2,Swimming,American Samoa
+3820,2,2,Snowboarding,Slovakia
+3821,2,2,Sailing,Aruba
+3822,2,2,Judo,Nepal
+3823,2,2,Judo,Luxembourg
+3824,2,2,Judo,Central African Republic
+3825,2,2,Golf,Thailand
+3826,2,2,Golf,Sweden
+3827,2,2,Golf,Spain
+3828,2,2,Golf,South Africa
+3829,2,2,Golf,Malaysia
+3830,2,2,Golf,Japan
+3831,2,2,Golf,Italy
+3832,2,2,Golf,Ireland
+3833,2,2,Golf,Germany
+3834,2,2,Golf,Finland
+3835,2,2,Golf,Denmark
+3836,2,2,Golf,Chinese Taipei
+3837,2,2,Golf,China
+3838,2,2,Golf,Australia
+3839,2,2,Figure Skating,West Germany-2
+3840,2,2,Figure Skating,West Germany-1
+3841,2,2,Figure Skating,Unified Team-3
+3842,2,2,Figure Skating,Unified Team-2
+3843,2,2,Figure Skating,Unified Team-1
+3844,2,2,Figure Skating,Mexico
+3845,2,2,Figure Skating,Israel-2
+3846,2,2,Figure Skating,Israel-1
+3847,2,2,Figure Skating,France-3
+3848,2,2,Figure Skating,East Germany-3
+3849,2,2,Figure Skating,Czechoslovakia-2
+3850,2,2,Figure Skating,Czechoslovakia-1
+3851,2,2,Fencing,Netherlands Antilles
+3852,2,2,Diving,Philippines
+3853,2,2,Cycling,Cyprus
+3854,2,2,Beach Volleyball,Venezuela
+3855,2,2,Beach Volleyball,United States-3
+3856,2,2,Beach Volleyball,Russia-2
+3857,2,2,Beach Volleyball,Russia-1
+3858,2,2,Beach Volleyball,Poland
+3859,2,2,Beach Volleyball,Italy-2
+3860,2,2,Beach Volleyball,Italy-1
+3861,2,2,Beach Volleyball,Indonesia
+3862,2,2,Beach Volleyball,Georgia
+3863,2,2,Archery,Kenya
+3864,2,2,Archery,Estonia
+3865,2,2,Archery,Czechoslovakia
+3866,2,2,Archery,Austria
+3867,2,1,Weightlifting,Bolivia
+3868,2,1,Triathlon,Hong Kong
+3869,2,1,Triathlon,Greece
+3870,2,1,Triathlon,Estonia
+3871,2,1,Triathlon,Costa Rica
+3872,2,1,Tennis,Serbia and Montenegro
+3873,2,1,Tennis,Haiti
+3874,2,1,Tennis,Bosnia and Herzegovina
+3875,2,1,Taekwondo,Ukraine
+3876,2,1,Taekwondo,Peru
+3877,2,1,Taekwondo,Chile
+3878,2,1,Taekwondo,Austria
+3879,2,1,Swimming,Yemen
+3880,2,1,Swimming,Tonga
+3881,2,1,Swimming,Sierra Leone
+3882,2,1,Swimming,Haiti
+3883,2,1,Swimming,Dominica
+3884,2,1,Swimming,Central African Republic
+3885,2,1,Snowboarding,Greece
+3886,2,1,Skeleton,Greece
+3887,2,1,Shooting,Iraq
+3888,2,1,Sailing,Skidoo
+3889,2,1,Sailing,Linglom
+3890,2,1,Sailing,Encore
+3891,2,1,Modern Pentathlon,Kyrgyzstan
+3892,2,1,Modern Pentathlon,Cuba
+3893,2,1,Luge,Greece
+3894,2,1,Luge,Bosnia and Herzegovina
+3895,2,1,Judo,Saudi Arabia
+3896,2,1,Judo,Chad
+3897,2,1,Judo,American Samoa
+3898,2,1,Judo,Afghanistan
+3899,2,1,Golf,New Zealand
+3900,2,1,Golf,India
+3901,2,1,Golf,Belgium
+3902,2,1,Fencing,Uzbekistan
+3903,2,1,Equestrianism,Ecuador
+3904,2,1,Diving,Armenia
+3905,2,1,Canoeing,Antigua and Barbuda
+3906,2,1,Badminton,Norway
+3907,2,1,Athletics,South Sudan
+3908,2,1,Art Competitions,Australia
+3909,2,1,Archery,Tonga
+3910,2,1,Archery,Mauritius
+3911,2,1,Alpine Skiing,Thailand
+3912,2,0,Wrestling,Zambia
+3913,2,0,Wrestling,Turkmenistan
+3914,2,0,Wrestling,North Yemen
+3915,2,0,Wrestling,Namibia
+3916,2,0,Wrestling,Mauritius
+3917,2,0,Wrestling,Malaysia
+3918,2,0,Wrestling,Indonesia
+3919,2,0,Wrestling,Iceland
+3920,2,0,Wrestling,Guinea
+3921,2,0,Wrestling,Cyprus
+3922,2,0,Wrestling,Bahamas
+3923,2,0,Wrestling,American Samoa
+3924,2,0,Weightlifting,Tuvalu
+3925,2,0,Weightlifting,Sierra Leone
+3926,2,0,Weightlifting,San Marino
+3927,2,0,Weightlifting,Monaco
+3928,2,0,Weightlifting,Kuwait
+3929,2,0,Weightlifting,Haiti
+3930,2,0,Weightlifting,Barbados
+3931,2,0,Triathlon,Venezuela
+3932,2,0,Trampolining,Switzerland
+3933,2,0,Tennis,Uruguay
+3934,2,0,Tennis,United States/France
+3935,2,0,Tennis,United States-9
+3936,2,0,Tennis,United States-8
+3937,2,0,Tennis,United States-7
+3938,2,0,Tennis,United States-6
+3939,2,0,Tennis,United States-5
+3940,2,0,Tennis,United States-4
+3941,2,0,Tennis,United States-3
+3942,2,0,Tennis,United States-14
+3943,2,0,Tennis,United States-13
+3944,2,0,Tennis,United States-12
+3945,2,0,Tennis,United States-11
+3946,2,0,Tennis,United States-10
+3947,2,0,Tennis,Switzerland-2
+3948,2,0,Tennis,Switzerland-1
+3949,2,0,Tennis,South Africa-2
+3950,2,0,Tennis,South Africa-1
+3951,2,0,Tennis,Serbia-2
+3952,2,0,Tennis,Serbia-1
+3953,2,0,Tennis,San Marino
+3954,2,0,Tennis,Norway-3
+3955,2,0,Tennis,Norway-1
+3956,2,0,Tennis,Hungary-3
+3957,2,0,Tennis,Great Britain/Germany
+3958,2,0,Tennis,Germany/United States
+3959,2,0,Tennis,France-4
+3960,2,0,Tennis,Finland-2
+3961,2,0,Tennis,Finland-1
+3962,2,0,Tennis,Denmark-4
+3963,2,0,Tennis,Denmark-3
+3964,2,0,Tennis,Czechoslovakia-3
+3965,2,0,Tennis,Czechoslovakia-2
+3966,2,0,Tennis,Cyprus
+3967,2,0,Tennis,Bohemia-3
+3968,2,0,Tennis,Bohemia-2
+3969,2,0,Tennis,Bohemia-1
+3970,2,0,Tennis,Australia/Great Britain
+3971,2,0,Taekwondo,Yemen
+3972,2,0,Taekwondo,Tajikistan
+3973,2,0,Taekwondo,Portugal
+3974,2,0,Taekwondo,Kyrgyzstan
+3975,2,0,Taekwondo,Honduras
+3976,2,0,Taekwondo,Benin
+3977,2,0,Table Tennis,West Germany-2
+3978,2,0,Table Tennis,West Germany-1
+3979,2,0,Table Tennis,Vietnam
+3980,2,0,Table Tennis,Trinidad and Tobago
+3981,2,0,Table Tennis,Saudi Arabia
+3982,2,0,Table Tennis,Great Britain-2
+3983,2,0,Table Tennis,Great Britain-1
+3984,2,0,Table Tennis,Bosnia and Herzegovina
+3985,2,0,Table Tennis,Austria-2
+3986,2,0,Table Tennis,Austria-1
+3987,2,0,Swimming,Djibouti
+3988,2,0,Speed Skating,Chinese Taipei
+3989,2,0,Speed Skating,British Virgin Islands
+3990,2,0,Snowboarding,Ireland
+3991,2,0,Snowboarding,Andorra
+3992,2,0,Ski Jumping,Kyrgyzstan
+3993,2,0,Ski Jumping,Greece
+3994,2,0,Skeleton,Spain
+3995,2,0,Short Track Speed Skating,Chinese Taipei
+3996,2,0,Shooting,West Indies Federation
+3997,2,0,Shooting,Swaziland
+3998,2,0,Shooting,Senegal
+3999,2,0,Shooting,Brunei
+4000,2,0,Shooting,Algeria
+4001,2,0,Sailing,Zefyros
+4002,2,0,Sailing,Yangon
+4003,2,0,Sailing,Windor
+4004,2,0,Sailing,Widgeon
+4005,2,0,Sailing,Whirlaway
+4006,2,0,Sailing,Wendehals
+4007,2,0,Sailing,Wannsee
+4008,2,0,Sailing,Vim III
+4009,2,0,Sailing,Vicking
+4010,2,0,Sailing,Vesania
+4011,2,0,Sailing,Vento Sul
+4012,2,0,Sailing,Uragan
+4013,2,0,Sailing,Umberta V
+4014,2,0,Sailing,Turquoise-3
+4015,2,0,Sailing,Tulilind
+4016,2,0,Sailing,Tramontane
+4017,2,0,Sailing,Tlaloc
+4018,2,0,Sailing,Tineke
+4019,2,0,Sailing,Tichiboo
+4020,2,0,Sailing,Three Star Too
+4021,2,0,Sailing,Three Leaves
+4022,2,0,Sailing,The Cloud
+4023,2,0,Sailing,Terrible
+4024,2,0,Sailing,Tengiri
+4025,2,0,Sailing,Tantalus
+4026,2,0,Sailing,Tajamar
+4027,2,0,Sailing,Syndi
+4028,2,0,Sailing,Symphony
+4029,2,0,Sailing,Swift
+4030,2,0,Sailing,Swedish Star
+4031,2,0,Sailing,Suzon IV-5
+4032,2,0,Sailing,Sunshine
+4033,2,0,Sailing,Starlight III
+4034,2,0,Sailing,Starita
+4035,2,0,Sailing,St. Margrite
+4036,2,0,Sailing,Squid III
+4037,2,0,Sailing,Springbok
+4038,2,0,Sailing,Souriceau-4
+4039,2,0,Sailing,Skum
+4040,2,0,Sailing,Sjovinge
+4041,2,0,Sailing,Sirene
+4042,2,0,Sailing,Singy-7
+4043,2,0,Sailing,Singy-37
+4044,2,0,Sailing,Siames-Cat
+4045,2,0,Sailing,Shrew II
+4046,2,0,Sailing,Scram
+4047,2,0,Sailing,Scaup
+4048,2,0,Sailing,Scamasaxe-34
+4049,2,0,Sailing,Scamasaxe-3
+4050,2,0,Sailing,Scamasaxe-2
+4051,2,0,Sailing,Romolo
+4052,2,0,Sailing,Riccar
+4053,2,0,Sailing,Red Indian
+4054,2,0,Sailing,Rampage
+4055,2,0,Sailing,Qatar
+4056,2,0,Sailing,Primorka
+4057,2,0,Sailing,Pousse-Moi Pas VII
+4058,2,0,Sailing,Plume-Patte-5
+4059,2,0,Sailing,Pirouette-5
+4060,2,0,Sailing,Pimm
+4061,2,0,Sailing,Pigoule
+4062,2,0,Sailing,Pierre et Jean-4
+4063,2,0,Sailing,Peri II
+4064,2,0,Sailing,Peri
+4065,2,0,Sailing,Pegaso
+4066,2,0,Sailing,Pasodoble
+4067,2,0,Sailing,Papua New Guinea
+4068,2,0,Sailing,Pandora
+4069,2,0,Sailing,Pakaria
+4070,2,0,Sailing,Paka V
+4071,2,0,Sailing,Paka
+4072,2,0,Sailing,Olympion
+4073,2,0,Sailing,Olimpia
+4074,2,0,Sailing,Nortazo
+4075,2,0,Sailing,Nora
+4076,2,0,Sailing,Nokaut II
+4077,2,0,Sailing,Nikh
+4078,2,0,Sailing,Nausikaa 4
+4079,2,0,Sailing,Naiad
+4080,2,0,Sailing,Myojo
+4081,2,0,Sailing,Myanmar
+4082,2,0,Sailing,Morocco
+4083,2,0,Sailing,Moorina
+4084,2,0,Sailing,Montenegro
+4085,2,0,Sailing,Mizar
+4086,2,0,Sailing,MitaII
+4087,2,0,Sailing,Miss Denmark 1964
+4088,2,0,Sailing,Mignon-3
+4089,2,0,Sailing,Meteor
+4090,2,0,Sailing,May-Be 1960
+4091,2,0,Sailing,Mascaret-4
+4092,2,0,Sailing,Maryke
+4093,2,0,Sailing,Marmara
+4094,2,0,Sailing,Marie-Tim
+4095,2,0,Sailing,Mari
+4096,2,0,Sailing,Margaret
+4097,2,0,Sailing,Manana
+4098,2,0,Sailing,Mamie-4
+4099,2,0,Sailing,Maid of Lebanon
+4100,2,0,Sailing,Mad Dog
+4101,2,0,Sailing,Ma'Lindo
+4102,2,0,Sailing,Lucky
+4103,2,0,Sailing,Legionario
+4104,2,0,Sailing,Lady C
+4105,2,0,Sailing,Kurush II
+4106,2,0,Sailing,Kon-Tiki
+4107,2,0,Sailing,Kingfisher
+4108,2,0,Sailing,Kathleen
+4109,2,0,Sailing,Kannibaltje
+4110,2,0,Sailing,KNS
+4111,2,0,Sailing,Jupiter
+4112,2,0,Sailing,Jest
+4113,2,0,Sailing,Inca
+4114,2,0,Sailing,Impala
+4115,2,0,Sailing,Humbug V
+4116,2,0,Sailing,Hornet
+4117,2,0,Sailing,Holland
+4118,2,0,Sailing,Hirondelle
+4119,2,0,Sailing,Hilarius
+4120,2,0,Sailing,Hayama
+4121,2,0,Sailing,Harmony
+4122,2,0,Sailing,Hakahana
+4123,2,0,Sailing,GyoshuII
+4124,2,0,Sailing,Glisten
+4125,2,0,Sailing,Glider
+4126,2,0,Sailing,Giselle-6
+4127,2,0,Sailing,Georgia
+4128,2,0,Sailing,Gem VII
+4129,2,0,Sailing,Gem IV
+4130,2,0,Sailing,Gem III
+4131,2,0,Sailing,Gem II
+4132,2,0,Sailing,Gem
+4133,2,0,Sailing,Gam II
+4134,2,0,Sailing,Galopin-20
+4135,2,0,Sailing,Frip IV
+4136,2,0,Sailing,Freia-5
+4137,2,0,Sailing,Freddy
+4138,2,0,Sailing,Fortuna
+4139,2,0,Sailing,Firebird II
+4140,2,0,Sailing,Fantlet-7
+4141,2,0,Sailing,Fantasio III
+4142,2,0,Sailing,Falcon VI
+4143,2,0,Sailing,Falcon IV
+4144,2,0,Sailing,Fada
+4145,2,0,Sailing,Evita VI
+4146,2,0,Sailing,Esterel-1
+4147,2,0,Sailing,Espardate
+4148,2,0,Sailing,Espadarte
+4149,2,0,Sailing,Enotria
+4150,2,0,Sailing,Eissero VI
+4151,2,0,Sailing,Ducky-4
+4152,2,0,Sailing,Dominican Republic
+4153,2,0,Sailing,Diablo
+4154,2,0,Sailing,Danaldo
+4155,2,0,Sailing,Crocodile-11
+4156,2,0,Sailing,Covunco III
+4157,2,0,Sailing,Combine
+4158,2,0,Sailing,Comanche
+4159,2,0,Sailing,Colette-12
+4160,2,0,Sailing,Clementine V
+4161,2,0,Sailing,Circus
+4162,2,0,Sailing,Chuckles
+4163,2,0,Sailing,Chance
+4164,2,0,Sailing,Chamukina
+4165,2,0,Sailing,Cha-Cha III
+4166,2,0,Sailing,Calypse II
+4167,2,0,Sailing,Calcinhas
+4168,2,0,Sailing,C.V.A.-14
+4169,2,0,Sailing,Buscape II
+4170,2,0,Sailing,Bu III
+4171,2,0,Sailing,Brigantia
+4172,2,0,Sailing,Brat
+4173,2,0,Sailing,Boreas-2
+4174,2,0,Sailing,Bermudian
+4175,2,0,Sailing,Bellatrix XIII
+4176,2,0,Sailing,Bella
+4177,2,0,Sailing,Balaton
+4178,2,0,Sailing,Baby-1
+4179,2,0,Sailing,Ariette-10
+4180,2,0,Sailing,Ariel
+4181,2,0,Sailing,Arcturus
+4182,2,0,Sailing,Antares
+4183,2,0,Sailing,Andorinha
+4184,2,0,Sailing,Amulet-7
+4185,2,0,Sailing,American Samoa
+4186,2,0,Sailing,Almaz
+4187,2,0,Sailing,Ali-Baba VI
+4188,2,0,Sailing,Ali-Baba IX
+4189,2,0,Sailing,Ali-Baba IV
+4190,2,0,Sailing,Aldebaran II
+4191,2,0,Sailing,Aldebaran
+4192,2,0,Sailing,Alcyon-7
+4193,2,0,Sailing,Acturus
+4194,2,0,Sailing,30. Februar
+4195,2,0,Rowing,Venezuela
+4196,2,0,Rowing,Stade Franais AC-2
+4197,2,0,Rowing,Societ Nautique de la Marne-1
+4198,2,0,Rowing,Seawanhaka Boat Club-1
+4199,2,0,Rowing,Ravenswood Boat Club-2
+4200,2,0,Rowing,Puerto Rico
+4201,2,0,Rowing,Philippines
+4202,2,0,Rowing,Leander Club #2-2
+4203,2,0,Rowing,Leander Club #1-1
+4204,2,0,Rowing,Kenya
+4205,2,0,Rowing,Individual Olympic Athletes
+4206,2,0,Rowing,Independent Rowing Club-3
+4207,2,0,Rowing,Cercle Nautique de Reims-4
+4208,2,0,Rowing,Cameroon
+4209,2,0,Rowing,Berliner Ruderclub
+4210,2,0,Rowing,Atalanta Boat Club-2
+4211,2,0,Rowing,Atalanta Boat Club-1
+4212,2,0,Rowing,Angola
+4213,2,0,Racquets,Great Britain-3
+4214,2,0,Racquets,Great Britain-2
+4215,2,0,Racquets,Great Britain-1
+4216,2,0,Motorboating,Sea Dog-2
+4217,2,0,Motorboating,Dylan-2
+4218,2,0,Modern Pentathlon,Peru
+4219,2,0,Modern Pentathlon,Morocco
+4220,2,0,Luge,Unified Team-2
+4221,2,0,Luge,Unified Team-1
+4222,2,0,Luge,Switzerland-2
+4223,2,0,Luge,Switzerland-1
+4224,2,0,Luge,Slovenia
+4225,2,0,Luge,Slovakia-2
+4226,2,0,Luge,Slovakia-1
+4227,2,0,Luge,Norway-2
+4228,2,0,Luge,Japan-2
+4229,2,0,Luge,Japan-1
+4230,2,0,Luge,Georgia
+4231,2,0,Luge,Brazil
+4232,2,0,Judo,Vanuatu
+4233,2,0,Judo,Singapore
+4234,2,0,Judo,Serbia
+4235,2,0,Judo,Papua New Guinea
+4236,2,0,Judo,Palestine
+4237,2,0,Judo,North Yemen
+4238,2,0,Judo,Nauru
+4239,2,0,Judo,Iraq
+4240,2,0,Judo,Denmark
+4241,2,0,Judo,Belize
+4242,2,0,Jeu De Paume,United States
+4243,2,0,Gymnastics,Ethnikos Gymnastikos Syllogos
+4244,2,0,Golf,Portugal
+4245,2,0,Golf,Argentina
+4246,2,0,Freestyle Skiing,Puerto Rico
+4247,2,0,Freestyle Skiing,Latvia
+4248,2,0,Fencing,Philippines
+4249,2,0,Fencing,Kyrgyzstan
+4250,2,0,Fencing,Jordan
+4251,2,0,Fencing,Georgia
+4252,2,0,Fencing,Costa Rica
+4253,2,0,Fencing,Aruba
+4254,2,0,Equestrianism,Russia-1
+4255,2,0,Equestrianism,Netherlands Antilles
+4256,2,0,Equestrianism,Morocco
+4257,2,0,Equestrianism,Czech Republic
+4258,2,0,Equestrianism,Croatia
+4259,2,0,Equestrianism,Cambodia
+4260,2,0,Equestrianism,Belgium-2
+4261,2,0,Equestrianism,Azerbaijan
+4262,2,0,Equestrianism,Austria-1
+4263,2,0,Diving,Yugoslavia
+4264,2,0,Diving,Syria
+4265,2,0,Diving,Sri Lanka
+4266,2,0,Diving,Serbia and Montenegro
+4267,2,0,Diving,Ireland
+4268,2,0,Diving,India
+4269,2,0,Diving,Ecuador
+4270,2,0,Diving,Bolivia
+4271,2,0,Diving,Azerbaijan
+4272,2,0,Cycling,Uganda
+4273,2,0,Cycling,Eritrea
+4274,2,0,Cycling,Benin
+4275,2,0,Cycling,Bahamas
+4276,2,0,Cross Country Skiing,Portugal
+4277,2,0,Cross Country Skiing,Peru
+4278,2,0,Cross Country Skiing,Fiji
+4279,2,0,Cross Country Skiing,Ethiopia
+4280,2,0,Cross Country Skiing,Cameroon
+4281,2,0,Cross Country Skiing,Bermuda
+4282,2,0,Cross Country Skiing,Algeria
+4283,2,0,Canoeing,Yugoslavia-2
+4284,2,0,Canoeing,Yugoslavia-1
+4285,2,0,Canoeing,West Germany-3
+4286,2,0,Canoeing,West Germany-2
+4287,2,0,Canoeing,West Germany-1
+4288,2,0,Canoeing,United States-3
+4289,2,0,Canoeing,Slovakia-2
+4290,2,0,Canoeing,Slovakia-1
+4291,2,0,Canoeing,Poland-3
+4292,2,0,Canoeing,Nigeria
+4293,2,0,Canoeing,Myanmar
+4294,2,0,Canoeing,Guam
+4295,2,0,Canoeing,Germany-3
+4296,2,0,Canoeing,France-3
+4297,2,0,Canoeing,Ecuador
+4298,2,0,Canoeing,East Germany-3
+4299,2,0,Canoeing,East Germany-2
+4300,2,0,Canoeing,East Germany-1
+4301,2,0,Canoeing,Chile
+4302,2,0,Canoeing,Bolivia
+4303,2,0,Canoeing,Armenia
+4304,2,0,Boxing,Vietnam
+4305,2,0,Boxing,Vanuatu
+4306,2,0,Boxing,South Yemen
+4307,2,0,Boxing,Slovakia
+4308,2,0,Boxing,Qatar
+4309,2,0,Boxing,Oman
+4310,2,0,Boxing,Montenegro
+4311,2,0,Boxing,Hong Kong
+4312,2,0,Boxing,El Salvador
+4313,2,0,Boxing,Cape Verde
+4314,2,0,Boxing,Aruba
+4315,2,0,Boxing,Antigua and Barbuda
+4316,2,0,Bobsleigh,Slovakia-1
+4317,2,0,Bobsleigh,San Marino
+4318,2,0,Bobsleigh,Puerto Rico-2
+4319,2,0,Bobsleigh,Puerto Rico-1
+4320,2,0,Bobsleigh,Portugal-2
+4321,2,0,Bobsleigh,Portugal-1
+4322,2,0,Bobsleigh,New Zealand-2
+4323,2,0,Bobsleigh,New Zealand-1
+4324,2,0,Bobsleigh,Monaco-2
+4325,2,0,Bobsleigh,Monaco-1
+4326,2,0,Bobsleigh,Luxembourg-2
+4327,2,0,Bobsleigh,Luxembourg-1
+4328,2,0,Bobsleigh,Jamaica-2
+4329,2,0,Bobsleigh,Jamaica-1
+4330,2,0,Bobsleigh,American Samoa
+4331,2,0,Biathlon,Serbia and Montenegro
+4332,2,0,Biathlon,Puerto Rico
+4333,2,0,Biathlon,Denmark
+4334,2,0,Biathlon,Costa Rica
+4335,2,0,Beach Volleyball,Tunisia
+4336,2,0,Beach Volleyball,Spain-2
+4337,2,0,Beach Volleyball,Spain-1
+4338,2,0,Beach Volleyball,Qatar
+4339,2,0,Beach Volleyball,Puerto Rico
+4340,2,0,Beach Volleyball,Poland-2
+4341,2,0,Beach Volleyball,Poland-1
+4342,2,0,Beach Volleyball,New Zealand
+4343,2,0,Beach Volleyball,Latvia-2
+4344,2,0,Beach Volleyball,Latvia-1
+4345,2,0,Beach Volleyball,Chile
+4346,2,0,Beach Volleyball,Argentina-2
+4347,2,0,Beach Volleyball,Argentina-1
+4348,2,0,Beach Volleyball,Angola
+4349,2,0,Basque Pelota,Spain
+4350,2,0,Badminton,Uganda
+4351,2,0,Badminton,Israel
+4352,2,0,Badminton,Greece
+4353,2,0,Athletics,United Arab Republic
+4354,2,0,Athletics,North Borneo
+4355,2,0,Art Competitions,Unknown
+4356,2,0,Art Competitions,Philippines
+4357,2,0,Art Competitions,India
+4358,2,0,Art Competitions,Argentina
+4359,2,0,Archery,Yugoslavia
+4360,2,0,Archery,Monaco
+4361,2,0,Archery,El Salvador
+4362,2,0,Archery,Cote d'Ivoire
+4363,2,0,Archery,Argentina
+4364,2,0,Alpinism,Germany
+4365,2,0,Alpine Skiing,Zimbabwe
+4366,2,0,Alpine Skiing,Pakistan
+4367,2,0,Alpine Skiing,Madagascar
+4368,2,0,Alpine Skiing,Fiji
+4369,1,18,Archery,North Korea
+4370,1,13,Speed Skating,Czech Republic
+4371,1,11,Table Tennis,Venezuela
+4372,1,11,Short Track Speed Skating,Hong Kong
+4373,1,11,Short Track Speed Skating,Czech Republic
+4374,1,9,Taekwondo,Croatia
+4375,1,9,Judo,Turkmenistan
+4376,1,7,Tennis,Kazakhstan
+4377,1,7,Tennis,Italy-2
+4378,1,7,Tennis,Italy-1
+4379,1,7,Short Track Speed Skating,Unified Team
+4380,1,6,Taekwondo,Japan
+4381,1,6,Table Tennis,Uganda
+4382,1,6,Table Tennis,Thailand
+4383,1,6,Short Track Speed Skating,Belarus
+4384,1,6,Shooting,Nepal
+4385,1,5,Tennis,Latvia
+4386,1,5,Shooting,Lithuania
+4387,1,5,Cycling,Azerbaijan
+4388,1,4,Taekwondo,Serbia
+4389,1,4,Taekwondo,Finland
+4390,1,4,Table Tennis,Slovakia
+4391,1,4,Sailing,Cook Islands
+4392,1,4,Rowing,Thailand
+4393,1,4,Figure Skating,Croatia
+4394,1,3,Triathlon,Sweden
+4395,1,3,Triathlon,Luxembourg
+4396,1,3,Tennis,Georgia
+4397,1,3,Taekwondo,Puerto Rico
+4398,1,3,Taekwondo,Papua New Guinea
+4399,1,3,Swimming,Liechtenstein
+4400,1,3,Freestyle Skiing,Uzbekistan
+4401,1,3,Figure Skating,Yugoslavia
+4402,1,3,Figure Skating,Turkey
+4403,1,3,Fencing,Azerbaijan
+4404,1,3,Diving,Indonesia
+4405,1,3,Archery,Moldova
+4406,1,3,Archery,Malta
+4407,1,2,Weightlifting,Madagascar
+4408,1,2,Triathlon,Colombia
+4409,1,2,Taekwondo,Senegal
+4410,1,2,Taekwondo,Nepal
+4411,1,2,Taekwondo,Lesotho
+4412,1,2,Taekwondo,Israel
+4413,1,2,Taekwondo,Indonesia
+4414,1,2,Table Tennis,Bulgaria
+4415,1,2,Swimming,Togo
+4416,1,2,Swimming,Montenegro
+4417,1,2,Skeleton,Romania
+4418,1,2,Skeleton,Norway
+4419,1,2,Sailing,Saint Lucia
+4420,1,2,Sailing,Algeria
+4421,1,2,Rowing,Indonesia
+4422,1,2,Rowing,El Salvador
+4423,1,2,Luge,Estonia
+4424,1,2,Judo,Myanmar
+4425,1,2,Judo,Croatia
+4426,1,2,Golf,Norway
+4427,1,2,Golf,Mexico
+4428,1,2,Golf,Brazil
+4429,1,2,Diving,Georgia
+4430,1,2,Canoeing,Morocco
+4431,1,2,Badminton,Mexico
+4432,1,2,Badminton,Lithuania
+4433,1,2,Archery,Chile
+4434,1,2,Alpine Skiing,North Korea
+4435,1,1,Wrestling,Cote d'Ivoire
+4436,1,1,Wrestling,Cambodia
+4437,1,1,Weightlifting,Palau
+4438,1,1,Weightlifting,Ghana
+4439,1,1,Tennis,Sweden-4
+4440,1,1,Tennis,Ireland-2
+4441,1,1,Tennis,Ireland-1
+4442,1,1,Tennis,Greece-4
+4443,1,1,Tennis,France/Great Britain
+4444,1,1,Tennis,Dominican Republic
+4445,1,1,Tennis,Bohemia/Great Britain
+4446,1,1,Tennis,Algeria
+4447,1,1,Taekwondo,Trinidad and Tobago
+4448,1,1,Taekwondo,Samoa
+4449,1,1,Taekwondo,Kenya
+4450,1,1,Taekwondo,Haiti
+4451,1,1,Table Tennis,Uzbekistan
+4452,1,1,Table Tennis,South Africa
+4453,1,1,Table Tennis,Puerto Rico
+4454,1,1,Table Tennis,Kazakhstan
+4455,1,1,Swimming,Samoa
+4456,1,1,Swimming,Kosovo
+4457,1,1,Swimming,Ghana
+4458,1,1,Swimming,Equatorial Guinea
+4459,1,1,Snowboarding,Denmark
+4460,1,1,Shooting,Jamaica
+4461,1,1,Sailing,Twinkle
+4462,1,1,Sailing,Paraguay
+4463,1,1,Rowing,Bermuda
+4464,1,1,Motorboating,Quicksilver-2
+4465,1,1,Judo,Refugee Olympic Athletes
+4466,1,1,Judo,Ghana
+4467,1,1,Judo,Albania
+4468,1,1,Golf,Paraguay
+4469,1,1,Golf,Austria
+4470,1,1,Figure Skating,West Germany-3
+4471,1,1,Figure Skating,Uzbekistan-2
+4472,1,1,Figure Skating,Uzbekistan-1
+4473,1,1,Figure Skating,Switzerland-2
+4474,1,1,Figure Skating,Switzerland-1
+4475,1,1,Figure Skating,Luxembourg
+4476,1,1,Figure Skating,Italy-3
+4477,1,1,Figure Skating,Czech Republic-2
+4478,1,1,Figure Skating,Czech Republic-1
+4479,1,1,Fencing,Individual Olympic Athletes
+4480,1,1,Equestrianism,Thailand
+4481,1,1,Equestrianism,Peru
+4482,1,1,Diving,Turkey
+4483,1,1,Diving,Tajikistan
+4484,1,1,Diving,Jamaica
+4485,1,1,Cycling,United States Virgin Islands
+4486,1,1,Cross Country Skiing,Serbia and Montenegro
+4487,1,1,Badminton,Unified Team
+4488,1,1,Badminton,Seychelles
+4489,1,1,Badminton,Mauritius-2
+4490,1,1,Badminton,Mauritius-1
+4491,1,1,Badminton,Germany-2
+4492,1,1,Badminton,Germany-1
+4493,1,1,Badminton,Czechoslovakia
+4494,1,1,Badminton,Brazil
+4495,1,1,Athletics,Kosovo
+4496,1,1,Archery,Slovakia
+4497,1,1,Archery,Samoa
+4498,1,1,Archery,Czech Republic
+4499,1,1,Archery,Cyprus
+4500,1,1,Archery,Bangladesh
+4501,1,1,Alpinism,Switzerland
+4502,1,0,Wrestling,Yemen
+4503,1,0,Wrestling,Sri Lanka
+4504,1,0,Wrestling,San Marino
+4505,1,0,Wrestling,Nicaragua
+4506,1,0,Wrestling,Honduras
+4507,1,0,Wrestling,Haiti
+4508,1,0,Wrestling,Federated States of Micronesia
+4509,1,0,Wrestling,Chile
+4510,1,0,Wrestling,Bosnia and Herzegovina
+4511,1,0,Wrestling,Bolivia
+4512,1,0,Wrestling,Bahrain
+4513,1,0,Weightlifting,Zimbabwe
+4514,1,0,Weightlifting,West Indies Federation
+4515,1,0,Weightlifting,United States Virgin Islands
+4516,1,0,Weightlifting,Tajikistan
+4517,1,0,Weightlifting,Serbia and Montenegro
+4518,1,0,Weightlifting,Malta
+4519,1,0,Weightlifting,Individual Olympic Athletes
+4520,1,0,Weightlifting,Cyprus
+4521,1,0,Weightlifting,Comoros
+4522,1,0,Weightlifting,Bosnia and Herzegovina
+4523,1,0,Weightlifting,Belize
+4524,1,0,Triathlon,Syria
+4525,1,0,Triathlon,South Korea
+4526,1,0,Triathlon,Puerto Rico
+4527,1,0,Triathlon,Norway
+4528,1,0,Triathlon,Netherlands Antilles
+4529,1,0,Triathlon,Monaco
+4530,1,0,Triathlon,Jordan
+4531,1,0,Triathlon,Israel
+4532,1,0,Triathlon,Barbados
+4533,1,0,Triathlon,Azerbaijan
+4534,1,0,Trampolining,New Zealand
+4535,1,0,Trampolining,Kazakhstan
+4536,1,0,Trampolining,Greece
+4537,1,0,Trampolining,Brazil
+4538,1,0,Trampolining,Algeria
+4539,1,0,Tennis,Togo
+4540,1,0,Tennis,Moldova
+4541,1,0,Tennis,Lithuania
+4542,1,0,Tennis,Individual Olympic Athletes
+4543,1,0,Tennis,El Salvador
+4544,1,0,Tennis,Costa Rica
+4545,1,0,Tennis,Bolivia
+4546,1,0,Tennis,Bermuda
+4547,1,0,Tennis,Benin
+4548,1,0,Tennis,Barbados
+4549,1,0,Tennis,Australasia
+4550,1,0,Taekwondo,Tonga
+4551,1,0,Taekwondo,Swaziland
+4552,1,0,Taekwondo,South Africa
+4553,1,0,Taekwondo,Saudi Arabia
+4554,1,0,Taekwondo,Qatar
+4555,1,0,Taekwondo,Niger
+4556,1,0,Taekwondo,Nicaragua
+4557,1,0,Taekwondo,Mongolia
+4558,1,0,Taekwondo,Monaco
+4559,1,0,Taekwondo,Moldova
+4560,1,0,Taekwondo,Marshall Islands
+4561,1,0,Taekwondo,Kuwait
+4562,1,0,Taekwondo,Jamaica
+4563,1,0,Taekwondo,Iraq
+4564,1,0,Taekwondo,Hungary
+4565,1,0,Taekwondo,Bosnia and Herzegovina
+4566,1,0,Taekwondo,Belize
+4567,1,0,Taekwondo,Armenia
+4568,1,0,Taekwondo,Algeria
+4569,1,0,Table Tennis,Togo
+4570,1,0,Table Tennis,Sudan
+4571,1,0,Table Tennis,Senegal
+4572,1,0,Table Tennis,Pakistan
+4573,1,0,Table Tennis,Morocco
+4574,1,0,Table Tennis,Libya
+4575,1,0,Table Tennis,Latvia
+4576,1,0,Table Tennis,Iraq
+4577,1,0,Table Tennis,Finland
+4578,1,0,Table Tennis,Estonia
+4579,1,0,Swimming,Saar
+4580,1,0,Swimming,Gambia
+4581,1,0,Swimming,Gabon
+4582,1,0,Swimming,Congo (Kinshasa)
+4583,1,0,Swimming,Brunei
+4584,1,0,Speed Skating,Portugal
+4585,1,0,Snowboarding,Belgium
+4586,1,0,Snowboarding,Argentina
+4587,1,0,Skeleton,South Africa
+4588,1,0,Skeleton,Slovenia
+4589,1,0,Skeleton,Mexico
+4590,1,0,Skeleton,Lebanon
+4591,1,0,Skeleton,Czech Republic
+4592,1,0,Skeleton,Croatia
+4593,1,0,Skeleton,Bermuda
+4594,1,0,Skeleton,Argentina
+4595,1,0,Shooting,Rhodesia
+4596,1,0,Shooting,Crete
+4597,1,0,Sailing,Verveine-41
+4598,1,0,Sailing,Verveine-19
+4599,1,0,Sailing,United Arab Emirates
+4600,1,0,Sailing,Turquoise-1
+4601,1,0,Sailing,Tournade-40
+4602,1,0,Sailing,Tornade-16
+4603,1,0,Sailing,Suzon IV-39
+4604,1,0,Sailing,Souvenance
+4605,1,0,Sailing,Souriceau-38
+4606,1,0,Sailing,Senegal
+4607,1,0,Sailing,Rozenn-3
+4608,1,0,Sailing,Rostock
+4609,1,0,Sailing,Potsdam
+4610,1,0,Sailing,Plume-patte-32
+4611,1,0,Sailing,Pirouette-31
+4612,1,0,Sailing,Pierre et Jean-3
+4613,1,0,Sailing,Pettit-Poucet-6
+4614,1,0,Sailing,Oman
+4615,1,0,Sailing,Nrnberg
+4616,1,0,Sailing,Nan-2
+4617,1,0,Sailing,Mignon-29
+4618,1,0,Sailing,Mascaret-28
+4619,1,0,Sailing,Marsouin-8
+4620,1,0,Sailing,Marsouin-26
+4621,1,0,Sailing,Mainz
+4622,1,0,Sailing,Luxembourg
+4623,1,0,Sailing,Leipzig
+4624,1,0,Sailing,Lebanon
+4625,1,0,Sailing,Lbeck
+4626,1,0,Sailing,Laurea-1
+4627,1,0,Sailing,Kyrgyzstan
+4628,1,0,Sailing,Konstanz
+4629,1,0,Sailing,Knigsberg
+4630,1,0,Sailing,Kln
+4631,1,0,Sailing,Kiel
+4632,1,0,Sailing,Jeannette-18
+4633,1,0,Sailing,Jeanette-25
+4634,1,0,Sailing,Heidelberg
+4635,1,0,Sailing,Hb-24
+4636,1,0,Sailing,Hb-20
+4637,1,0,Sailing,Hannover
+4638,1,0,Sailing,Hamburg
+4639,1,0,Sailing,Gyp-6
+4640,1,0,Sailing,Gyp-23
+4641,1,0,Sailing,Freia-19
+4642,1,0,Sailing,Formosa
+4643,1,0,Sailing,Femur-18
+4644,1,0,Sailing,Femur-1
+4645,1,0,Sailing,Fantlet-2
+4646,1,0,Sailing,Essen
+4647,1,0,Sailing,Ecuador
+4648,1,0,Sailing,Ducky-16
+4649,1,0,Sailing,Dresden
+4650,1,0,Sailing,Dick-8
+4651,1,0,Sailing,Demi-Mondaine-17
+4652,1,0,Sailing,Demi-Mondaine-15
+4653,1,0,Sailing,Danzig
+4654,1,0,Sailing,Cuxhaven
+4655,1,0,Sailing,Crocodile-13
+4656,1,0,Sailing,Crabe I-3
+4657,1,0,Sailing,Crabe I-2
+4658,1,0,Sailing,Crabe I-11
+4659,1,0,Sailing,Colette-10
+4660,1,0,Sailing,Cinara-13
+4661,1,0,Sailing,Cicely-1
+4662,1,0,Sailing,Carabinier-5
+4663,1,0,Sailing,Carabinier-15
+4664,1,0,Sailing,Cambodia
+4665,1,0,Sailing,Brynhild-2
+4666,1,0,Sailing,Breslau
+4667,1,0,Sailing,Bremen
+4668,1,0,Sailing,Brandenburg
+4669,1,0,Sailing,Botswana
+4670,1,0,Sailing,Baby-9
+4671,1,0,Sailing,Augsburg
+4672,1,0,Sailing,Ariette-8
+4673,1,0,Sailing,Angerburg
+4674,1,0,Sailing,Alcyon-6
+4675,1,0,Rowing,Vanuatu
+4676,1,0,Rowing,Niger
+4677,1,0,Rowing,Libya
+4678,1,0,Rowing,Lebanon
+4679,1,0,Rowing,Kuwait
+4680,1,0,Rowing,Honduras
+4681,1,0,Rowing,Ecuador
+4682,1,0,Rowing,Colombia
+4683,1,0,Rowing,Bohemia
+4684,1,0,Rowing,Australasia
+4685,1,0,Nordic Combined,Romania
+4686,1,0,Nordic Combined,Latvia
+4687,1,0,Nordic Combined,Great Britain
+4688,1,0,Nordic Combined,Bulgaria
+4689,1,0,Nordic Combined,Australia
+4690,1,0,Motorboating,Camille
+4691,1,0,Modern Pentathlon,New Zealand
+4692,1,0,Modern Pentathlon,Georgia
+4693,1,0,Luge,Tonga
+4694,1,0,Luge,Philippines
+4695,1,0,Luge,Netherlands Antilles
+4696,1,0,Luge,Individual Olympic Athletes
+4697,1,0,Judo,Trinidad and Tobago
+4698,1,0,Judo,Tonga
+4699,1,0,Judo,Tanzania
+4700,1,0,Judo,Sri Lanka
+4701,1,0,Judo,Solomon Islands
+4702,1,0,Judo,Rwanda
+4703,1,0,Judo,Qatar
+4704,1,0,Judo,Pakistan
+4705,1,0,Judo,Malaysia
+4706,1,0,Judo,Laos
+4707,1,0,Judo,Jordan
+4708,1,0,Judo,Guyana
+4709,1,0,Judo,Gambia
+4710,1,0,Judo,Equatorial Guinea
+4711,1,0,Judo,Cambodia
+4712,1,0,Judo,Botswana
+4713,1,0,Golf,Venezuela
+4714,1,0,Golf,Philippines
+4715,1,0,Golf,Netherlands
+4716,1,0,Golf,Greece
+4717,1,0,Golf,Chile
+4718,1,0,Golf,Bangladesh
+4719,1,0,Freestyle Skiing,Netherlands
+4720,1,0,Freestyle Skiing,Jamaica
+4721,1,0,Freestyle Skiing,British Virgin Islands
+4722,1,0,Freestyle Skiing,Armenia
+4723,1,0,Figure Skating,Serbia and Montenegro
+4724,1,0,Figure Skating,Philippines
+4725,1,0,Figure Skating,Argentina
+4726,1,0,Fencing,Qatar
+4727,1,0,Fencing,Croatia
+4728,1,0,Fencing,Congo (Brazzaville)
+4729,1,0,Fencing,Burkina Faso
+4730,1,0,Fencing,Benin
+4731,1,0,Equestrianism,Whitini Star
+4732,1,0,Equestrianism,Whisper
+4733,1,0,Equestrianism,Syria
+4734,1,0,Equestrianism,Spain-1
+4735,1,0,Equestrianism,Ravel
+4736,1,0,Equestrianism,Palestine
+4737,1,0,Equestrianism,Oxalis
+4738,1,0,Equestrianism,Notavel
+4739,1,0,Equestrianism,Nadine
+4740,1,0,Equestrianism,Liechtenstein
+4741,1,0,Equestrianism,Iran
+4742,1,0,Equestrianism,Greenoaks Dundee
+4743,1,0,Equestrianism,Germany-1
+4744,1,0,Equestrianism,Galopin De La Font
+4745,1,0,Equestrianism,France-2
+4746,1,0,Equestrianism,Floresco
+4747,1,0,Equestrianism,Don Schufro
+4748,1,0,Equestrianism,Diabolo St Maurice
+4749,1,0,Equestrianism,Briar
+4750,1,0,Diving,Iran
+4751,1,0,Diving,Czech Republic
+4752,1,0,Diving,Barbados
+4753,1,0,Diving,Australasia
+4754,1,0,Cycling,Vietnam
+4755,1,0,Cycling,Syria
+4756,1,0,Cycling,Sri Lanka
+4757,1,0,Cycling,Sierra Leone
+4758,1,0,Cycling,Serbia and Montenegro
+4759,1,0,Cycling,Oman
+4760,1,0,Cycling,Monaco
+4761,1,0,Cycling,Madagascar
+4762,1,0,Cycling,Lesotho
+4763,1,0,Cycling,Laos
+4764,1,0,Cycling,Kosovo
+4765,1,0,Cycling,Kenya
+4766,1,0,Cycling,Georgia
+4767,1,0,Cycling,Dominican Republic
+4768,1,0,Cycling,Armenia
+4769,1,0,Cycling,Albania
+4770,1,0,Cross Country Skiing,Luxembourg
+4771,1,0,Cross Country Skiing,Lebanon
+4772,1,0,Cross Country Skiing,Dominica
+4773,1,0,Cross Country Skiing,Chile
+4774,1,0,Canoeing,Thailand
+4775,1,0,Canoeing,Peru
+4776,1,0,Canoeing,Panama
+4777,1,0,Canoeing,Malaysia
+4778,1,0,Canoeing,Lebanon
+4779,1,0,Canoeing,Guatemala
+4780,1,0,Canoeing,Georgia
+4781,1,0,Boxing,South Vietnam
+4782,1,0,Boxing,Solomon Islands
+4783,1,0,Boxing,Singapore
+4784,1,0,Boxing,Serbia and Montenegro
+4785,1,0,Boxing,Serbia
+4786,1,0,Boxing,Portugal
+4787,1,0,Boxing,Individual Olympic Athletes
+4788,1,0,Boxing,Guam
+4789,1,0,Boxing,Gambia
+4790,1,0,Boxing,Chad
+4791,1,0,Boxing,Bolivia
+4792,1,0,Boxing,Belize
+4793,1,0,Boxing,Australasia
+4794,1,0,Boxing,Andorra
+4795,1,0,Biathlon,Guam
+4796,1,0,Badminton,Zambia
+4797,1,0,Badminton,Romania
+4798,1,0,Badminton,Maldives
+4799,1,0,Badminton,Iran
+4800,1,0,Badminton,Cuba
+4801,1,0,Badminton,Brunei
+4802,1,0,Badminton,Algeria
+4803,1,0,Athletics,Newfoundland
+4804,1,0,Art Competitions,Venezuela
+4805,1,0,Art Competitions,Portugal
+4806,1,0,Art Competitions,Iceland
+4807,1,0,Art Competitions,Haiti
+4808,1,0,Art Competitions,Colombia
+4809,1,0,Art Competitions,Brazil
+4810,1,0,Art Competitions,Bolivia
+4811,1,0,Art Competitions,Bohemia
+4812,1,0,Archery,Vanuatu
+4813,1,0,Archery,Solomon Islands
+4814,1,0,Archery,Qatar
+4815,1,0,Archery,Nepal
+4816,1,0,Archery,Malawi
+4817,1,0,Archery,Libya
+4818,1,0,Archery,Laos
+4819,1,0,Archery,Guam
+4820,1,0,Archery,American Samoa
+4821,1,0,Alpinism,Nepal
+4822,1,0,Alpinism,Australia
+4823,1,0,Alpine Skiing,Venezuela
+4824,1,0,Alpine Skiing,Uruguay
+4825,1,0,Alpine Skiing,Timor Leste
+4826,1,0,Alpine Skiing,Ghana
+4827,1,0,Aeronautics,Switzerland
+4828,0,84,Handball,Angola
+4829,0,78,Synchronized Swimming,Japan
+4830,0,75,Volleyball,Peru
+4831,0,72,Synchronized Swimming,China
+4832,0,67,Synchronized Swimming,Canada
+4833,0,63,Synchronized Swimming,Russia
+4834,0,62,Synchronized Swimming,United States
+4835,0,60,Softball,United States
+4836,0,60,Softball,China
+4837,0,60,Softball,Canada
+4838,0,60,Softball,Australia
+4839,0,59,Softball,Japan
+4840,0,58,Ice Hockey,China
+4841,0,57,Synchronized Swimming,Australia
+4842,0,52,Synchronized Swimming,Italy
+4843,0,49,Synchronized Swimming,Spain
+4844,0,49,Rhythmic Gymnastics,Spain
+4845,0,48,Rhythmic Gymnastics,Bulgaria
+4846,0,47,Rhythmic Gymnastics,Russia
+4847,0,47,Rhythmic Gymnastics,Italy
+4848,0,47,Rhythmic Gymnastics,Belarus
+4849,0,45,Softball,Chinese Taipei
+4850,0,41,Synchronized Swimming,France
+4851,0,40,Synchronized Swimming,Egypt
+4852,0,40,Rhythmic Gymnastics,Greece
+4853,0,36,Basketball,Czech Republic
+4854,0,35,Rhythmic Gymnastics,China
+4855,0,34,Synchronized Swimming,Mexico
+4856,0,34,Rhythmic Gymnastics,Ukraine
+4857,0,33,Synchronized Swimming,Brazil
+4858,0,33,Rhythmic Gymnastics,Japan
+4859,0,31,Rhythmic Gymnastics,Germany
+4860,0,30,Synchronized Swimming,Great Britain
+4861,0,30,Softball,Netherlands
+4862,0,30,Softball,Italy
+4863,0,29,Handball,Montenegro
+4864,0,26,Rhythmic Gymnastics,Brazil
+4865,0,25,Synchronized Swimming,Switzerland
+4866,0,25,Rhythmic Gymnastics,Israel
+4867,0,24,Volleyball,Kenya
+4868,0,24,Volleyball,Dominican Republic
+4869,0,22,Basketball,Belarus
+4870,0,21,Rhythmic Gymnastics,United States
+4871,0,20,Synchronized Swimming,Greece
+4872,0,20,Rhythmic Gymnastics,France
+4873,0,18,Synchronized Swimming,Ukraine
+4874,0,18,Gymnastics,Guatemala
+4875,0,18,Archery,Georgia
+4876,0,17,Football,Zimbabwe
+4877,0,16,Hockey,Czechoslovakia
+4878,0,16,Handball,Nigeria
+4879,0,15,Softball,Venezuela
+4880,0,15,Softball,Puerto Rico
+4881,0,15,Softball,New Zealand
+4882,0,15,Softball,Cuba
+4883,0,15,Rhythmic Gymnastics,Poland
+4884,0,15,Rhythmic Gymnastics,Canada
+4885,0,15,Handball,Ukraine
+4886,0,14,Synchronized Swimming,Netherlands
+4887,0,14,Synchronized Swimming,Austria
+4888,0,14,Softball,Greece
+4889,0,14,Handball,Netherlands
+4890,0,14,Handball,Kazakhstan
+4891,0,14,Handball,Cote d'Ivoire
+4892,0,14,Handball,Congo (Brazzaville)
+4893,0,13,Rhythmic Gymnastics,Great Britain
+4894,0,12,Volleyball,Ukraine
+4895,0,12,Volleyball,Turkey
+4896,0,12,Volleyball,Puerto Rico
+4897,0,12,Volleyball,Kazakhstan
+4898,0,12,Rugby Sevens,Colombia
+4899,0,12,Rugby Sevens,Canada
+4900,0,12,Basketball,Ukraine
+4901,0,12,Basketball,Slovakia
+4902,0,12,Basketball,Mali
+4903,0,12,Basketball,Congo (Kinshasa)
+4904,0,11,Volleyball,North Korea
+4905,0,11,Volleyball,Croatia
+4906,0,11,Synchronized Swimming,South Korea
+4907,0,11,Rhythmic Gymnastics,Azerbaijan
+4908,0,10,Volleyball,Cameroon
+4909,0,10,Synchronized Swimming,West Germany
+4910,0,10,Synchronized Swimming,Kazakhstan
+4911,0,10,Synchronized Swimming,Czech Republic
+4912,0,9,Diving,Argentina
+4913,0,8,Tennis,Madagascar
+4914,0,8,Tennis,China-2
+4915,0,8,Tennis,China-1
+4916,0,8,Synchronized Swimming,Israel
+4917,0,8,Synchronized Swimming,Belarus
+4918,0,8,Figure Skating,Netherlands
+4919,0,7,Tennis,Estonia
+4920,0,7,Short Track Speed Skating,Romania
+4921,0,7,Rhythmic Gymnastics,Uzbekistan
+4922,0,7,Rhythmic Gymnastics,South Korea
+4923,0,7,Rhythmic Gymnastics,Romania
+4924,0,7,Rhythmic Gymnastics,Hungary
+4925,0,7,Rhythmic Gymnastics,Australia
+4926,0,7,Badminton,Hungary
+4927,0,6,Table Tennis,Luxembourg
+4928,0,6,Synchronized Swimming,Slovakia
+4929,0,6,Synchronized Swimming,North Korea
+4930,0,6,Synchronized Swimming,New Zealand
+4931,0,6,Rowing,Vietnam
+4932,0,6,Rhythmic Gymnastics,Austria
+4933,0,6,Beach Volleyball,China-2
+4934,0,6,Beach Volleyball,China-1
+4935,0,5,Trampolining,Uzbekistan
+4936,0,5,Trampolining,Georgia
+4937,0,5,Table Tennis,Lithuania
+4938,0,5,Table Tennis,Jordan
+4939,0,5,Synchronized Swimming,Venezuela
+4940,0,5,Synchronized Swimming,Unified Team
+4941,0,5,Synchronized Swimming,Soviet Union
+4942,0,5,Synchronized Swimming,Individual Olympic Athletes
+4943,0,5,Synchronized Swimming,Belgium
+4944,0,5,Short Track Speed Skating,Austria
+4945,0,5,Gymnastics,Namibia
+4946,0,5,Gymnastics,Bolivia
+4947,0,5,Curling,South Korea
+4948,0,4,Tennis,Ukraine-2
+4949,0,4,Tennis,Ukraine-1
+4950,0,4,Tennis,Poland-2
+4951,0,4,Tennis,Poland-1
+4952,0,4,Taekwondo,Norway
+4953,0,4,Taekwondo,Malaysia
+4954,0,4,Table Tennis,Malaysia
+4955,0,4,Synchronized Swimming,South Africa
+4956,0,4,Synchronized Swimming,Netherlands Antilles
+4957,0,4,Synchronized Swimming,Hungary
+4958,0,4,Synchronized Swimming,Germany
+4959,0,4,Synchronized Swimming,Dominican Republic
+4960,0,4,Synchronized Swimming,Aruba
+4961,0,4,Synchronized Swimming,Argentina
+4962,0,4,Rhythmic Gymnastics,Yugoslavia
+4963,0,4,Rhythmic Gymnastics,West Germany
+4964,0,4,Rhythmic Gymnastics,Kazakhstan
+4965,0,4,Rhythmic Gymnastics,Finland
+4966,0,4,Rhythmic Gymnastics,Czechoslovakia
+4967,0,4,Rhythmic Gymnastics,Belgium
+4968,0,4,Gymnastics,Trinidad and Tobago
+4969,0,4,Gymnastics,Singapore
+4970,0,4,Gymnastics,Peru
+4971,0,4,Gymnastics,Panama
+4972,0,4,Gymnastics,Jamaica
+4973,0,4,Bobsleigh,Netherlands-2
+4974,0,4,Bobsleigh,Netherlands-1
+4975,0,4,Beach Volleyball,Japan-2
+4976,0,4,Beach Volleyball,Japan-1
+4977,0,4,Beach Volleyball,Greece-2
+4978,0,4,Beach Volleyball,Greece-1
+4979,0,4,Beach Volleyball,Czech Republic-2
+4980,0,4,Beach Volleyball,Czech Republic-1
+4981,0,4,Beach Volleyball,Bulgaria
+4982,0,3,Trampolining,Czech Republic
+4983,0,3,Table Tennis,Lebanon
+4984,0,3,Table Tennis,Colombia
+4985,0,3,Snowboarding,Brazil
+4986,0,3,Short Track Speed Skating,Lithuania
+4987,0,3,Rhythmic Gymnastics,Portugal
+4988,0,3,Rhythmic Gymnastics,Georgia
+4989,0,3,Rhythmic Gymnastics,Czech Republic
+4990,0,3,Rhythmic Gymnastics,Cyprus
+4991,0,3,Rhythmic Gymnastics,Cape Verde
+4992,0,3,Judo,Vietnam
+4993,0,3,Freestyle Skiing,Denmark
+4994,0,3,Fencing,Panama
+4995,0,3,Equestrianism,Philippines
+4996,0,3,Cycling,North Korea
+4997,0,3,Cross Country Skiing,Honduras
+4998,0,3,Badminton,Slovenia
+4999,0,3,Badminton,Italy
+5000,0,2,Weightlifting,United Arab Emirates
+5001,0,2,Triathlon,Slovenia
+5002,0,2,Triathlon,Mauritius
+5003,0,2,Triathlon,Ecuador
+5004,0,2,Tennis,Slovenia-2
+5005,0,2,Tennis,Slovenia-1
+5006,0,2,Tennis,Slovakia-2
+5007,0,2,Tennis,Slovakia-1
+5008,0,2,Tennis,Romania-2
+5009,0,2,Tennis,Romania-1
+5010,0,2,Tennis,Liechtenstein
+5011,0,2,Tennis,Belarus-2
+5012,0,2,Tennis,Belarus-1
+5013,0,2,Taekwondo,Panama
+5014,0,2,Taekwondo,Cambodia
+5015,0,2,Table Tennis,Unified Team-2
+5016,0,2,Table Tennis,Unified Team-1
+5017,0,2,Table Tennis,Turkmenistan
+5018,0,2,Table Tennis,Singapore-2
+5019,0,2,Table Tennis,Singapore-1
+5020,0,2,Table Tennis,Russia-2
+5021,0,2,Table Tennis,Russia-1
+5022,0,2,Table Tennis,Romania-2
+5023,0,2,Table Tennis,Romania-1
+5024,0,2,Table Tennis,Netherlands-2
+5025,0,2,Table Tennis,Netherlands-1
+5026,0,2,Table Tennis,Canada-2
+5027,0,2,Table Tennis,Canada-1
+5028,0,2,Table Tennis,Cameroon
+5029,0,2,Synchronized Swimming,Puerto Rico
+5030,0,2,Synchronized Swimming,Cuba
+5031,0,2,Synchronized Swimming,Colombia
+5032,0,2,Synchronized Swimming,Bulgaria
+5033,0,2,Snowboarding,Serbia
+5034,0,2,Snowboarding,Kazakhstan
+5035,0,2,Short Track Speed Skating,South Africa
+5036,0,2,Shooting,Bhutan
+5037,0,2,Rowing,Myanmar
+5038,0,2,Rhythmic Gymnastics,Unified Team
+5039,0,2,Rhythmic Gymnastics,Switzerland
+5040,0,2,Rhythmic Gymnastics,Soviet Union
+5041,0,2,Rhythmic Gymnastics,South Africa
+5042,0,2,Rhythmic Gymnastics,North Korea
+5043,0,2,Rhythmic Gymnastics,New Zealand
+5044,0,2,Rhythmic Gymnastics,Individual Olympic Athletes
+5045,0,2,Rhythmic Gymnastics,Egypt
+5046,0,2,Luge,New Zealand
+5047,0,2,Judo,Kosovo
+5048,0,2,Judo,Burundi
+5049,0,2,Gymnastics,Dominican Republic
+5050,0,2,Golf,Switzerland
+5051,0,2,Freestyle Skiing,Slovakia
+5052,0,2,Freestyle Skiing,Poland
+5053,0,2,Freestyle Skiing,Chile
+5054,0,2,Fencing,Serbia and Montenegro
+5055,0,2,Equestrianism,Jamaica
+5056,0,2,Diving,Costa Rica
+5057,0,2,Cycling,Mauritius
+5058,0,2,Canoeing,Turkey
+5059,0,2,Canoeing,Singapore
+5060,0,2,Canoeing,Palau
+5061,0,2,Biathlon,New Zealand
+5062,0,2,Biathlon,Brazil
+5063,0,2,Biathlon,Andorra
+5064,0,2,Beach Volleyball,Mauritius
+5065,0,2,Beach Volleyball,Egypt
+5066,0,2,Beach Volleyball,Cuba-2
+5067,0,2,Beach Volleyball,Cuba-1
+5068,0,2,Beach Volleyball,Costa Rica
+5069,0,2,Beach Volleyball,Belgium
+5070,0,2,Beach Volleyball,Australia-3
+5071,0,2,Badminton,Turkey
+5072,0,2,Badminton,Slovakia
+5073,0,2,Badminton,Poland-2
+5074,0,2,Badminton,Poland-1
+5075,0,2,Badminton,Japan-3
+5076,0,2,Badminton,Egypt
+5077,0,2,Badminton,China-3
+5078,0,2,Badminton,Bulgaria-2
+5079,0,2,Badminton,Bulgaria-1
+5080,0,2,Archery,Tajikistan
+5081,0,2,Alpine Skiing,Togo
+5082,0,2,Alpine Skiing,Malta
+5083,0,2,Alpine Skiing,Colombia
+5084,0,1,Wrestling,Madagascar
+5085,0,1,Wrestling,Central African Republic
+5086,0,1,Weightlifting,Marshall Islands
+5087,0,1,Weightlifting,Hong Kong
+5088,0,1,Triathlon,Jamaica
+5089,0,1,Trampolining,Slovakia
+5090,0,1,Tennis,Turkey
+5091,0,1,Tennis,Montenegro
+5092,0,1,Taekwondo,United Arab Emirates
+5093,0,1,Taekwondo,Switzerland
+5094,0,1,Taekwondo,Lebanon
+5095,0,1,Taekwondo,Guinea
+5096,0,1,Taekwondo,Grenada
+5097,0,1,Taekwondo,Ecuador
+5098,0,1,Taekwondo,Congo (Kinshasa)
+5099,0,1,Taekwondo,Cape Verde
+5100,0,1,Taekwondo,Aruba
+5101,0,1,Table Tennis,Syria
+5102,0,1,Table Tennis,Switzerland
+5103,0,1,Table Tennis,Philippines
+5104,0,1,Table Tennis,Israel
+5105,0,1,Table Tennis,Honduras
+5106,0,1,Table Tennis,Fiji
+5107,0,1,Table Tennis,Ecuador
+5108,0,1,Table Tennis,Djibouti
+5109,0,1,Synchronized Swimming,Sweden
+5110,0,1,Synchronized Swimming,Finland
+5111,0,1,Synchronized Swimming,Czechoslovakia
+5112,0,1,Synchronized Swimming,Barbados
+5113,0,1,Swimming,Lesotho
+5114,0,1,Swimming,British Virgin Islands
+5115,0,1,Snowboarding,Croatia
+5116,0,1,Skeleton,Poland
+5117,0,1,Shooting,Kosovo
+5118,0,1,Shooting,Honduras
+5119,0,1,Sailing,Mauritius
+5120,0,1,Sailing,Individual Olympic Athletes
+5121,0,1,Rowing,Trinidad and Tobago
+5122,0,1,Rowing,Togo
+5123,0,1,Rowing,Singapore
+5124,0,1,Rowing,Nigeria
+5125,0,1,Rowing,Bahamas
+5126,0,1,Rhythmic Gymnastics,Sweden
+5127,0,1,Rhythmic Gymnastics,Norway
+5128,0,1,Rhythmic Gymnastics,Lithuania
+5129,0,1,Rhythmic Gymnastics,Estonia
+5130,0,1,Rhythmic Gymnastics,Denmark
+5131,0,1,Modern Pentathlon,Turkey
+5132,0,1,Luge,Kazakhstan
+5133,0,1,Judo,Palau
+5134,0,1,Judo,Macedonia
+5135,0,1,Judo,Guinea Bissau
+5136,0,1,Judo,Cape Verde
+5137,0,1,Golf,Russia
+5138,0,1,Golf,Morocco
+5139,0,1,Golf,Israel
+5140,0,1,Golf,Hong Kong
+5141,0,1,Golf,Czech Republic
+5142,0,1,Golf,Colombia
+5143,0,1,Freestyle Skiing,Romania
+5144,0,1,Freestyle Skiing,Portugal
+5145,0,1,Freestyle Skiing,Paraguay
+5146,0,1,Freestyle Skiing,Brazil
+5147,0,1,Freestyle Skiing,Belgium
+5148,0,1,Figure Skating,Brazil
+5149,0,1,Fencing,Zambia
+5150,0,1,Fencing,Latvia
+5151,0,1,Fencing,Honduras
+5152,0,1,Fencing,Cote d'Ivoire
+5153,0,1,Equestrianism,Zimbabwe
+5154,0,1,Equestrianism,United Arab Emirates
+5155,0,1,Equestrianism,Sunrise
+5156,0,1,Equestrianism,Solos Carex
+5157,0,1,Equestrianism,Satchmo
+5158,0,1,Equestrianism,Salinero
+5159,0,1,Equestrianism,Relampago
+5160,0,1,Equestrianism,Rambo
+5161,0,1,Equestrianism,Quando Quando
+5162,0,1,Equestrianism,Pop Art
+5163,0,1,Equestrianism,Orion
+5164,0,1,Equestrianism,Mythilus
+5165,0,1,Equestrianism,Mistral Hojris
+5166,0,1,Equestrianism,Lucky Star
+5167,0,1,Equestrianism,Lancet
+5168,0,1,Equestrianism,Gran Gesto
+5169,0,1,Equestrianism,Elvis Va
+5170,0,1,Equestrianism,Dow Jones
+5171,0,1,Equestrianism,Dominican Republic
+5172,0,1,Equestrianism,Digby
+5173,0,1,Equestrianism,Clearwater
+5174,0,1,Equestrianism,Chinese Taipei
+5175,0,1,Equestrianism,Calimucho
+5176,0,1,Equestrianism,Brentina
+5177,0,1,Equestrianism,Bonaparte
+5178,0,1,Diving,Uruguay
+5179,0,1,Diving,Rhodesia
+5180,0,1,Diving,Portugal
+5181,0,1,Diving,Croatia
+5182,0,1,Diving,Bahamas
+5183,0,1,Cycling,Timor Leste
+5184,0,1,Cycling,Samoa
+5185,0,1,Cycling,Fiji
+5186,0,1,Cross Country Skiing,Togo
+5187,0,1,Cross Country Skiing,Kyrgyzstan
+5188,0,1,Canoeing,Vietnam
+5189,0,1,Canoeing,Andorra
+5190,0,1,Boxing,Federated States of Micronesia
+5191,0,1,Badminton,Trinidad and Tobago
+5192,0,1,Badminton,Philippines
+5193,0,1,Badminton,Jamaica
+5194,0,1,Art Competitions,Guatemala
+5195,0,1,Archery,Uganda
+5196,0,1,Archery,Morocco
+5197,0,1,Archery,Jordan
+5198,0,1,Archery,Iraq
+5199,0,1,Archery,Dominican Republic
+5200,0,1,Archery,Central African Republic
+5201,0,1,Archery,Azerbaijan
