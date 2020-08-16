@@ -1,0 +1,1934 @@
+,Percentage,Attendees,Medal,Gold,Team,Sport,Year
+0,0.3150684931506849,146,46,27,United States,Athletics,2016
+1,0.7171717171717171,99,71,48,United States,Swimming,2016
+2,0.03225806451612903,93,3,2,Germany,Athletics,2016
+3,0.16279069767441862,86,14,2,Great Britain,Athletics,2016
+4,0.3855421686746988,83,32,7,Australia,Swimming,2016
+5,0.1282051282051282,78,10,1,Canada,Athletics,2016
+6,0.08,75,6,1,China,Swimming,2016
+7,0.05405405405405406,74,4,0,Russia,Swimming,2016
+8,0.0410958904109589,73,3,1,Poland,Athletics,2016
+9,0.013888888888888888,72,1,1,Brazil,Athletics,2016
+10,0.013888888888888888,72,1,0,Ukraine,Athletics,2016
+11,0.42857142857142855,70,30,11,Jamaica,Athletics,2016
+12,0.14705882352941177,68,10,2,Japan,Swimming,2016
+13,0.03076923076923077,65,2,0,Australia,Athletics,2016
+14,0.016129032258064516,62,1,0,Brazil,Swimming,2016
+15,0.2459016393442623,61,15,1,Canada,Swimming,2016
+16,0.11666666666666667,60,7,3,Hungary,Swimming,2016
+17,0.06666666666666667,60,4,1,Italy,Swimming,2016
+18,0.08620689655172414,58,5,0,Japan,Athletics,2016
+19,0.10526315789473684,57,6,2,China,Athletics,2016
+20,0.24074074074074073,54,13,1,Great Britain,Swimming,2016
+21,0.14814814814814814,54,8,0,France,Swimming,2016
+22,0.3076923076923077,52,16,1,Russia,Gymnastics,2016
+23,0.0,52,0,0,Germany,Swimming,2016
+24,0.11764705882352941,51,6,0,France,Athletics,2016
+25,0.32653061224489793,49,16,8,United States,Gymnastics,2016
+26,0.14285714285714285,49,7,6,Japan,Gymnastics,2016
+27,0.04081632653061224,49,2,1,Spain,Athletics,2016
+28,0.2708333333333333,48,13,6,Kenya,Athletics,2016
+29,0.1276595744680851,47,6,2,Great Britain,Gymnastics,2016
+30,0.06521739130434782,46,3,0,Brazil,Gymnastics,2016
+31,0.2222222222222222,45,10,0,China,Gymnastics,2016
+32,0.044444444444444446,45,2,1,Germany,Gymnastics,2016
+33,0.022222222222222223,45,1,1,Netherlands,Gymnastics,2016
+34,0.0,45,0,0,France,Gymnastics,2016
+35,0.6046511627906976,43,26,15,Great Britain,Rowing,2016
+36,0.13953488372093023,43,6,0,Australia,Cycling,2016
+37,0.046511627906976744,43,2,1,Spain,Swimming,2016
+38,0.07142857142857142,42,3,1,Germany,Cycling,2016
+39,0.24390243902439024,41,10,9,United States,Rowing,2016
+40,0.024390243902439025,41,1,0,Cuba,Athletics,2016
+41,0.1,40,4,2,South Africa,Athletics,2016
+42,0.0,40,0,0,Italy,Athletics,2016
+43,0.15789473684210525,38,6,2,Netherlands,Cycling,2016
+44,0.13157894736842105,38,5,3,New Zealand,Rowing,2016
+45,0.02631578947368421,38,1,0,Netherlands,Athletics,2016
+46,0.0,37,0,0,Poland,Swimming,2016
+47,0.4166666666666667,36,15,2,Netherlands,Rowing,2016
+48,0.027777777777777776,36,1,0,Belarus,Athletics,2016
+49,1.0,35,35,18,Germany,Football,2016
+50,0.4857142857142857,35,17,17,Brazil,Football,2016
+51,0.4857142857142857,35,17,8,Germany,Rowing,2016
+52,0.22857142857142856,35,8,1,Ethiopia,Athletics,2016
+53,0.5882352941176471,34,20,14,Great Britain,Cycling,2016
+54,0.5294117647058824,34,18,18,Argentina,Hockey,2016
+55,0.029411764705882353,34,1,1,Colombia,Athletics,2016
+56,0.029411764705882353,34,1,0,Turkey,Athletics,2016
+57,0.029411764705882353,34,1,0,Switzerland,Gymnastics,2016
+58,0.0,34,0,0,South Africa,Football,2016
+59,1.0,33,33,0,Germany,Hockey,2016
+60,0.5454545454545454,33,18,0,Sweden,Football,2016
+61,0.48484848484848486,33,16,16,Great Britain,Hockey,2016
+62,0.09090909090909091,33,3,0,France,Cycling,2016
+63,0.06060606060606061,33,2,1,Ukraine,Gymnastics,2016
+64,0.0,33,0,0,Colombia,Football,2016
+65,0.0,33,0,0,Spain,Hockey,2016
+66,0.5,32,16,0,Netherlands,Hockey,2016
+67,0.03125,32,1,0,Trinidad and Tobago,Athletics,2016
+68,0.0,32,0,0,India,Athletics,2016
+69,0.0,32,0,0,Australia,Hockey,2016
+70,0.0,32,0,0,India,Hockey,2016
+71,0.0,32,0,0,New Zealand,Hockey,2016
+72,1.0,31,31,0,France,Handball,2016
+73,0.4838709677419355,31,15,9,Russia,Fencing,2016
+74,0.2903225806451613,31,9,4,France,Fencing,2016
+75,0.1935483870967742,31,6,1,Bahamas,Athletics,2016
+76,0.06666666666666667,30,2,2,Netherlands,Swimming,2016
+77,0.0,30,0,0,South Korea,Gymnastics,2016
+78,0.0,30,0,0,Sweden,Handball,2016
+79,0.3103448275862069,29,9,1,Australia,Rowing,2016
+80,0.10344827586206896,29,3,0,New Zealand,Cycling,2016
+81,0.10344827586206896,29,3,1,Sweden,Swimming,2016
+82,0.06896551724137931,29,2,1,Bahrain,Athletics,2016
+83,0.0,29,0,0,Argentina,Handball,2016
+84,0.03571428571428571,28,1,0,Kazakhstan,Athletics,2016
+85,0.0,28,0,0,Nigeria,Athletics,2016
+86,0.0,28,0,0,Brazil,Handball,2016
+87,0.5925925925925926,27,16,9,Germany,Canoeing,2016
+88,0.2222222222222222,27,6,0,Canada,Cycling,2016
+89,0.2222222222222222,27,6,0,Italy,Rowing,2016
+90,0.18518518518518517,27,5,1,Denmark,Swimming,2016
+91,0.037037037037037035,27,1,1,Belgium,Athletics,2016
+92,1.0,26,26,0,Italy,Water Polo,2016
+93,0.5,26,13,13,Fiji,Rugby Sevens,2016
+94,0.5,26,13,13,United States,Water Polo,2016
+95,0.38461538461538464,26,10,0,United States,Fencing,2016
+96,0.2692307692307692,26,7,1,Italy,Fencing,2016
+97,0.23076923076923078,26,6,2,Poland,Rowing,2016
+98,0.11538461538461539,26,3,1,United States,Shooting,2016
+99,0.07692307692307693,26,2,1,Italy,Cycling,2016
+100,0.07692307692307693,26,2,0,Canada,Rowing,2016
+101,0.038461538461538464,26,1,0,Czech Republic,Athletics,2016
+102,0.0,26,0,0,Australia,Water Polo,2016
+103,0.0,26,0,0,Brazil,Water Polo,2016
+104,0.0,26,0,0,Hungary,Water Polo,2016
+105,0.0,26,0,0,Spain,Water Polo,2016
+106,0.48,25,12,12,Australia,Rugby Sevens,2016
+107,0.48,25,12,0,New Zealand,Rugby Sevens,2016
+108,0.32,25,8,2,United States,Cycling,2016
+109,0.28,25,7,1,China,Shooting,2016
+110,0.12,25,3,0,South Africa,Swimming,2016
+111,0.08,25,2,1,South Korea,Fencing,2016
+112,0.04,25,1,1,Greece,Athletics,2016
+113,0.0,25,0,0,Portugal,Athletics,2016
+114,0.0,25,0,0,Brazil,Fencing,2016
+115,0.0,25,0,0,Canada,Gymnastics,2016
+116,0.0,25,0,0,Italy,Gymnastics,2016
+117,0.0,25,0,0,Brazil,Rugby Sevens,2016
+118,0.0,25,0,0,France,Rugby Sevens,2016
+119,0.0,25,0,0,Japan,Rugby Sevens,2016
+120,0.0,25,0,0,Spain,Rugby Sevens,2016
+121,0.0,25,0,0,United States,Rugby Sevens,2016
+122,1.0,24,24,0,Serbia,Basketball,2016
+123,1.0,24,24,0,Spain,Basketball,2016
+124,1.0,24,24,24,United States,Basketball,2016
+125,1.0,24,24,0,United States,Volleyball,2016
+126,0.625,24,15,5,Germany,Equestrianism,2016
+127,0.5,24,12,0,Great Britain,Rugby Sevens,2016
+128,0.5,24,12,12,Brazil,Volleyball,2016
+129,0.5,24,12,0,Italy,Volleyball,2016
+130,0.375,24,9,8,France,Equestrianism,2016
+131,0.375,24,9,0,United States,Equestrianism,2016
+132,0.25,24,6,2,Great Britain,Equestrianism,2016
+133,0.16666666666666666,24,4,0,Australia,Equestrianism,2016
+134,0.16666666666666666,24,4,0,Russia,Shooting,2016
+135,0.08333333333333333,24,2,0,Poland,Cycling,2016
+136,0.041666666666666664,24,1,0,Sweden,Equestrianism,2016
+137,0.041666666666666664,24,1,0,Greece,Swimming,2016
+138,0.0,24,0,0,Australia,Basketball,2016
+139,0.0,24,0,0,China,Basketball,2016
+140,0.0,24,0,0,France,Basketball,2016
+141,0.0,24,0,0,Brazil,Equestrianism,2016
+142,0.0,24,0,0,Netherlands,Equestrianism,2016
+143,0.0,24,0,0,Kenya,Rugby Sevens,2016
+144,0.0,24,0,0,Argentina,Volleyball,2016
+145,0.0,24,0,0,Russia,Volleyball,2016
+146,0.21739130434782608,23,5,0,Ukraine,Fencing,2016
+147,0.043478260869565216,23,1,1,Australia,Shooting,2016
+148,0.0,23,0,0,Romania,Athletics,2016
+149,0.0,23,0,0,Brazil,Basketball,2016
+150,0.3181818181818182,22,7,7,Hungary,Canoeing,2016
+151,0.18181818181818182,22,4,1,France,Canoeing,2016
+152,0.0,22,0,0,Morocco,Athletics,2016
+153,0.047619047619047616,21,1,0,Belgium,Swimming,2016
+154,0.0,21,0,0,Kazakhstan,Canoeing,2016
+155,0.35,20,7,4,Italy,Shooting,2016
+156,0.15,20,3,0,Australia,Canoeing,2016
+157,0.1,20,2,1,South Korea,Shooting,2016
+158,0.05,20,1,0,Mexico,Athletics,2016
+159,0.0,20,0,0,Belgium,Gymnastics,2016
+160,0.47368421052631576,19,9,0,Romania,Rowing,2016
+161,0.2631578947368421,19,5,0,China,Fencing,2016
+162,0.21052631578947367,19,4,0,Russia,Cycling,2016
+163,0.15789473684210525,19,3,0,Poland,Canoeing,2016
+164,0.05263157894736842,19,1,0,Hungary,Athletics,2016
+165,0.0,19,0,0,Uganda,Athletics,2016
+166,1.0,18,18,0,Canada,Football,2016
+167,1.0,18,18,0,Nigeria,Football,2016
+168,0.3333333333333333,18,6,2,France,Rowing,2016
+169,0.2222222222222222,18,4,0,Brazil,Canoeing,2016
+170,0.2222222222222222,18,4,3,Germany,Shooting,2016
+171,0.1111111111111111,18,2,0,Russia,Canoeing,2016
+172,0.1111111111111111,18,2,0,Serbia,Canoeing,2016
+173,0.1111111111111111,18,2,2,China,Cycling,2016
+174,0.05555555555555555,18,1,0,Spain,Cycling,2016
+175,0.05555555555555555,18,1,0,Canada,Equestrianism,2016
+176,0.0,18,0,0,Ecuador,Athletics,2016
+177,0.0,18,0,0,Estonia,Athletics,2016
+178,0.0,18,0,0,Ireland,Athletics,2016
+179,0.0,18,0,0,Uzbekistan,Athletics,2016
+180,0.0,18,0,0,Japan,Equestrianism,2016
+181,0.0,18,0,0,Algeria,Football,2016
+182,0.0,18,0,0,Mexico,Football,2016
+183,0.0,18,0,0,India,Shooting,2016
+184,0.0,18,0,0,Serbia,Shooting,2016
+185,0.5294117647058824,17,9,4,Russia,Wrestling,2016
+186,0.35294117647058826,17,6,0,Czech Republic,Canoeing,2016
+187,0.17647058823529413,17,3,0,China,Rowing,2016
+188,0.11764705882352941,17,2,1,Belgium,Cycling,2016
+189,0.11764705882352941,17,2,2,Switzerland,Cycling,2016
+190,0.0,17,0,0,South Korea,Athletics,2016
+191,0.0,17,0,0,Switzerland,Athletics,2016
+192,0.0,17,0,0,Spain,Equestrianism,2016
+193,0.0,17,0,0,Australia,Football,2016
+194,0.0,17,0,0,Denmark,Football,2016
+195,0.0,17,0,0,France,Football,2016
+196,0.0,17,0,0,Japan,Football,2016
+197,0.0,17,0,0,Portugal,Football,2016
+198,0.0,17,0,0,South Korea,Football,2016
+199,0.0,17,0,0,United States,Football,2016
+200,0.0,17,0,0,Zimbabwe,Football,2016
+201,0.0,17,0,0,Cuba,Gymnastics,2016
+202,0.0,17,0,0,Slovenia,Handball,2016
+203,0.0,17,0,0,China,Hockey,2016
+204,0.0,17,0,0,Czech Republic,Swimming,2016
+205,0.0,17,0,0,Israel,Swimming,2016
+206,1.0,16,16,0,Belgium,Hockey,2016
+207,0.875,16,14,10,China,Diving,2016
+208,0.375,16,6,2,Great Britain,Canoeing,2016
+209,0.25,16,4,0,New Zealand,Athletics,2016
+210,0.125,16,2,0,Algeria,Athletics,2016
+211,0.125,16,2,1,Colombia,Cycling,2016
+212,0.0625,16,1,1,Slovakia,Athletics,2016
+213,0.0625,16,1,0,Ukraine,Shooting,2016
+214,0.0,16,0,0,Finland,Athletics,2016
+215,0.0,16,0,0,Lithuania,Athletics,2016
+216,0.0,16,0,0,Norway,Athletics,2016
+217,0.0,16,0,0,Canada,Canoeing,2016
+218,0.0,16,0,0,Argentina,Football,2016
+219,0.0,16,0,0,Fiji,Football,2016
+220,0.0,16,0,0,Honduras,Football,2016
+221,0.0,16,0,0,Iraq,Football,2016
+222,0.0,16,0,0,New Zealand,Football,2016
+223,0.0,16,0,0,Brazil,Hockey,2016
+224,0.0,16,0,0,Canada,Hockey,2016
+225,0.0,16,0,0,Ireland,Hockey,2016
+226,0.0,16,0,0,Japan,Hockey,2016
+227,0.0,16,0,0,South Korea,Hockey,2016
+228,0.0,16,0,0,United States,Hockey,2016
+229,0.0,16,0,0,New Zealand,Swimming,2016
+230,0.0,16,0,0,Switzerland,Swimming,2016
+231,1.0,15,15,0,Germany,Handball,2016
+232,1.0,15,15,15,Russia,Handball,2016
+233,0.4666666666666667,15,7,2,Slovakia,Canoeing,2016
+234,0.4666666666666667,15,7,0,Denmark,Cycling,2016
+235,0.3333333333333333,15,5,2,Great Britain,Diving,2016
+236,0.26666666666666666,15,4,1,France,Sailing,2016
+237,0.26666666666666666,15,4,3,Great Britain,Sailing,2016
+238,0.13333333333333333,15,2,2,Brazil,Sailing,2016
+239,0.06666666666666667,15,1,0,United States,Sailing,2016
+240,0.0,15,0,0,Sweden,Athletics,2016
+241,0.0,15,0,0,China,Football,2016
+242,0.0,15,0,0,Angola,Handball,2016
+243,0.0,15,0,0,Montenegro,Handball,2016
+244,0.0,15,0,0,Poland,Handball,2016
+245,0.0,15,0,0,Qatar,Handball,2016
+246,0.0,15,0,0,South Korea,Handball,2016
+247,0.0,15,0,0,Tunisia,Handball,2016
+248,0.0,15,0,0,Egypt,Shooting,2016
+249,0.0,15,0,0,Finland,Swimming,2016
+250,1.0,14,14,14,Denmark,Handball,2016
+251,1.0,14,14,0,Norway,Handball,2016
+252,0.8571428571428571,14,12,3,Japan,Judo,2016
+253,0.6428571428571429,14,9,0,Azerbaijan,Wrestling,2016
+254,0.35714285714285715,14,5,0,United States,Diving,2016
+255,0.35714285714285715,14,5,2,France,Judo,2016
+256,0.35714285714285715,14,5,1,Turkey,Wrestling,2016
+257,0.21428571428571427,14,3,1,Brazil,Judo,2016
+258,0.21428571428571427,14,3,2,United States,Wrestling,2016
+259,0.14285714285714285,14,2,0,France,Shooting,2016
+260,0.07142857142857142,14,1,0,Venezuela,Athletics,2016
+261,0.07142857142857142,14,1,0,Germany,Diving,2016
+262,0.07142857142857142,14,1,0,Mexico,Diving,2016
+263,0.0,14,0,0,Dominican Republic,Athletics,2016
+264,0.0,14,0,0,Peru,Athletics,2016
+265,0.0,14,0,0,Italy,Canoeing,2016
+266,0.0,14,0,0,Croatia,Handball,2016
+267,0.0,14,0,0,Egypt,Handball,2016
+268,0.0,14,0,0,Netherlands,Handball,2016
+269,0.0,14,0,0,Romania,Handball,2016
+270,0.0,14,0,0,Spain,Handball,2016
+271,0.0,14,0,0,Spain,Sailing,2016
+272,0.0,14,0,0,Hungary,Shooting,2016
+273,0.0,14,0,0,Slovenia,Swimming,2016
+274,1.0,13,13,0,South Africa,Rugby Sevens,2016
+275,1.0,13,13,0,Croatia,Water Polo,2016
+276,1.0,13,13,0,Russia,Water Polo,2016
+277,1.0,13,13,13,Serbia,Water Polo,2016
+278,0.5384615384615384,13,7,2,Hungary,Fencing,2016
+279,0.46153846153846156,13,6,0,Denmark,Rowing,2016
+280,0.15384615384615385,13,2,2,Argentina,Sailing,2016
+281,0.15384615384615385,13,2,0,China,Wrestling,2016
+282,0.07692307692307693,13,1,0,Serbia,Athletics,2016
+283,0.07692307692307693,13,1,0,Venezuela,Cycling,2016
+284,0.07692307692307693,13,1,0,Germany,Judo,2016
+285,0.07692307692307693,13,1,0,Mongolia,Judo,2016
+286,0.07692307692307693,13,1,0,Brazil,Shooting,2016
+287,0.0,13,0,0,Argentina,Athletics,2016
+288,0.0,13,0,0,Latvia,Athletics,2016
+289,0.0,13,0,0,Argentina,Rugby Sevens,2016
+290,0.0,13,0,0,Italy,Sailing,2016
+291,0.0,13,0,0,Cuba,Shooting,2016
+292,0.0,13,0,0,Venezuela,Swimming,2016
+293,0.0,13,0,0,Italy,Tennis,2016
+294,0.0,13,0,0,China,Water Polo,2016
+295,0.0,13,0,0,Greece,Water Polo,2016
+296,0.0,13,0,0,Montenegro,Water Polo,2016
+297,1.0,12,12,0,Canada,Rugby Sevens,2016
+298,1.0,12,12,12,China,Volleyball,2016
+299,1.0,12,12,0,Serbia,Volleyball,2016
+300,0.75,12,9,8,South Korea,Archery,2016
+301,0.5833333333333334,12,7,2,New Zealand,Sailing,2016
+302,0.4166666666666667,12,5,1,Kazakhstan,Boxing,2016
+303,0.4166666666666667,12,5,4,Spain,Canoeing,2016
+304,0.4166666666666667,12,5,1,Iran,Wrestling,2016
+305,0.25,12,3,0,Chinese Taipei,Archery,2016
+306,0.25,12,3,1,Great Britain,Boxing,2016
+307,0.25,12,3,1,Ukraine,Canoeing,2016
+308,0.25,12,3,2,Russia,Judo,2016
+309,0.25,12,3,0,South Korea,Judo,2016
+310,0.25,12,3,0,Kazakhstan,Wrestling,2016
+311,0.16666666666666666,12,2,0,South Africa,Rowing,2016
+312,0.16666666666666666,12,2,0,Germany,Sailing,2016
+313,0.08333333333333333,12,1,0,Bulgaria,Athletics,2016
+314,0.08333333333333333,12,1,0,Czech Republic,Cycling,2016
+315,0.0,12,0,0,Brazil,Archery,2016
+316,0.0,12,0,0,China,Archery,2016
+317,0.0,12,0,0,Italy,Archery,2016
+318,0.0,12,0,0,Puerto Rico,Athletics,2016
+319,0.0,12,0,0,Argentina,Basketball,2016
+320,0.0,12,0,0,Canada,Basketball,2016
+321,0.0,12,0,0,Japan,Basketball,2016
+322,0.0,12,0,0,Lithuania,Basketball,2016
+323,0.0,12,0,0,Senegal,Basketball,2016
+324,0.0,12,0,0,Venezuela,Basketball,2016
+325,0.0,12,0,0,China,Canoeing,2016
+326,0.0,12,0,0,South Korea,Cycling,2016
+327,0.0,12,0,0,Brazil,Diving,2016
+328,0.0,12,0,0,Russia,Diving,2016
+329,0.0,12,0,0,Azerbaijan,Gymnastics,2016
+330,0.0,12,0,0,New Zealand,Gymnastics,2016
+331,0.0,12,0,0,Romania,Gymnastics,2016
+332,0.0,12,0,0,Colombia,Rugby Sevens,2016
+333,0.0,12,0,0,Japan,Shooting,2016
+334,0.0,12,0,0,Hong Kong,Swimming,2016
+335,0.0,12,0,0,Lithuania,Swimming,2016
+336,0.0,12,0,0,Canada,Volleyball,2016
+337,0.0,12,0,0,Egypt,Volleyball,2016
+338,0.0,12,0,0,Iran,Volleyball,2016
+339,0.0,12,0,0,Japan,Volleyball,2016
+340,0.0,12,0,0,Mexico,Volleyball,2016
+341,0.0,12,0,0,Netherlands,Volleyball,2016
+342,0.0,12,0,0,Poland,Volleyball,2016
+343,0.0,12,0,0,Puerto Rico,Volleyball,2016
+344,0.0,12,0,0,South Korea,Volleyball,2016
+345,0.0,12,0,0,France,Water Polo,2016
+346,0.0,12,0,0,Japan,Water Polo,2016
+347,1.0,11,11,0,China,Synchronized Swimming,2016
+348,1.0,11,11,11,Russia,Synchronized Swimming,2016
+349,0.6363636363636364,11,7,3,Uzbekistan,Boxing,2016
+350,0.6363636363636364,11,7,1,Australia,Sailing,2016
+351,0.36363636363636365,11,4,0,China,Boxing,2016
+352,0.36363636363636365,11,4,1,Russia,Boxing,2016
+353,0.36363636363636365,11,4,4,Switzerland,Rowing,2016
+354,0.2727272727272727,11,3,0,Canada,Diving,2016
+355,0.2727272727272727,11,3,0,Denmark,Sailing,2016
+356,0.2727272727272727,11,3,1,Georgia,Wrestling,2016
+357,0.18181818181818182,11,2,0,Azerbaijan,Boxing,2016
+358,0.18181818181818182,11,2,2,Netherlands,Sailing,2016
+359,0.09090909090909091,11,1,0,Netherlands,Judo,2016
+360,0.09090909090909091,11,1,0,Bulgaria,Wrestling,2016
+361,0.09090909090909091,11,1,0,Ukraine,Wrestling,2016
+362,0.0,11,0,0,Botswana,Athletics,2016
+363,0.0,11,0,0,Eritrea,Athletics,2016
+364,0.0,11,0,0,Nigeria,Basketball,2016
+365,0.0,11,0,0,Turkey,Basketball,2016
+366,0.0,11,0,0,Argentina,Canoeing,2016
+367,0.0,11,0,0,Portugal,Canoeing,2016
+368,0.0,11,0,0,Japan,Cycling,2016
+369,0.0,11,0,0,Switzerland,Equestrianism,2016
+370,0.0,11,0,0,Egypt,Fencing,2016
+371,0.0,11,0,0,Spain,Gymnastics,2016
+372,0.0,11,0,0,Japan,Sailing,2016
+373,0.0,11,0,0,South Korea,Swimming,2016
+374,0.0,11,0,0,Australia,Synchronized Swimming,2016
+375,0.0,11,0,0,Brazil,Synchronized Swimming,2016
+376,0.0,11,0,0,Egypt,Synchronized Swimming,2016
+377,0.0,11,0,0,Italy,Synchronized Swimming,2016
+378,0.0,11,0,0,Cuba,Volleyball,2016
+379,1.0,10,10,0,Japan,Synchronized Swimming,2016
+380,1.0,10,10,8,China,Table Tennis,2016
+381,0.7,10,7,0,Japan,Table Tennis,2016
+382,0.7,10,7,5,China,Weightlifting,2016
+383,0.7,10,7,4,Japan,Wrestling,2016
+384,0.6,10,6,3,Cuba,Boxing,2016
+385,0.6,10,6,2,France,Boxing,2016
+386,0.6,10,6,0,Germany,Table Tennis,2016
+387,0.4,10,4,0,Lithuania,Rowing,2016
+388,0.3,10,3,2,Croatia,Athletics,2016
+389,0.3,10,3,0,Italy,Diving,2016
+390,0.3,10,3,2,Cuba,Wrestling,2016
+391,0.2,10,2,0,Australia,Diving,2016
+392,0.2,10,2,0,Malaysia,Diving,2016
+393,0.1,10,1,0,Czech Republic,Rowing,2016
+394,0.1,10,1,1,Croatia,Shooting,2016
+395,0.0,10,0,0,Chile,Athletics,2016
+396,0.0,10,0,0,Ghana,Athletics,2016
+397,0.0,10,0,0,Iran,Athletics,2016
+398,0.0,10,0,0,Slovenia,Athletics,2016
+399,0.0,10,0,0,Belarus,Basketball,2016
+400,0.0,10,0,0,Croatia,Basketball,2016
+401,0.0,10,0,0,Brazil,Cycling,2016
+402,0.0,10,0,0,Ireland,Equestrianism,2016
+403,0.0,10,0,0,Italy,Equestrianism,2016
+404,0.0,10,0,0,Mexico,Fencing,2016
+405,0.0,10,0,0,Venezuela,Fencing,2016
+406,0.0,10,0,0,Algeria,Gymnastics,2016
+407,0.0,10,0,0,Belarus,Gymnastics,2016
+408,0.0,10,0,0,Colombia,Gymnastics,2016
+409,0.0,10,0,0,Ireland,Gymnastics,2016
+410,0.0,10,0,0,Turkey,Gymnastics,2016
+411,0.0,10,0,0,Belarus,Rowing,2016
+412,0.0,10,0,0,Greece,Rowing,2016
+413,0.0,10,0,0,Singapore,Sailing,2016
+414,0.0,10,0,0,Kazakhstan,Shooting,2016
+415,0.0,10,0,0,Argentina,Swimming,2016
+416,0.0,10,0,0,Egypt,Swimming,2016
+417,0.0,10,0,0,Ukraine,Synchronized Swimming,2016
+418,0.0,10,0,0,Australia,Table Tennis,2016
+419,0.0,10,0,0,Austria,Table Tennis,2016
+420,0.0,10,0,0,Brazil,Table Tennis,2016
+421,0.0,10,0,0,Chinese Taipei,Table Tennis,2016
+422,0.0,10,0,0,Hong Kong,Table Tennis,2016
+423,0.0,10,0,0,Poland,Table Tennis,2016
+424,0.0,10,0,0,South Korea,Table Tennis,2016
+425,0.0,10,0,0,United States,Table Tennis,2016
+426,0.0,10,0,0,Australia,Tennis,2016
+427,0.0,10,0,0,Cameroon,Volleyball,2016
+428,0.0,10,0,0,France,Volleyball,2016
+429,0.0,10,0,0,Egypt,Wrestling,2016
+430,0.0,10,0,0,Mongolia,Wrestling,2016
+431,0.4444444444444444,9,4,4,Romania,Fencing,2016
+432,0.4444444444444444,9,4,2,Thailand,Weightlifting,2016
+433,0.3333333333333333,9,3,0,Denmark,Badminton,2016
+434,0.3333333333333333,9,3,2,Japan,Badminton,2016
+435,0.3333333333333333,9,3,1,New Zealand,Canoeing,2016
+436,0.3333333333333333,9,3,0,Czech Republic,Tennis,2016
+437,0.2222222222222222,9,2,1,Colombia,Weightlifting,2016
+438,0.2222222222222222,9,2,0,Egypt,Weightlifting,2016
+439,0.1111111111111111,9,1,1,Brazil,Boxing,2016
+440,0.1111111111111111,9,1,0,Denmark,Canoeing,2016
+441,0.1111111111111111,9,1,0,Cuba,Judo,2016
+442,0.1111111111111111,9,1,0,Belarus,Swimming,2016
+443,0.0,9,0,0,Guatemala,Athletics,2016
+444,0.0,9,0,0,Moldova,Athletics,2016
+445,0.0,9,0,0,Saint Kitts and Nevis,Athletics,2016
+446,0.0,9,0,0,Norway,Cycling,2016
+447,0.0,9,0,0,Ukraine,Cycling,2016
+448,0.0,9,0,0,New Zealand,Equestrianism,2016
+449,0.0,9,0,0,Ukraine,Equestrianism,2016
+450,0.0,9,0,0,Canada,Sailing,2016
+451,0.0,9,0,0,Chile,Sailing,2016
+452,0.0,9,0,0,Switzerland,Sailing,2016
+453,0.0,9,0,0,Austria,Shooting,2016
+454,0.0,9,0,0,Czech Republic,Shooting,2016
+455,0.0,9,0,0,Poland,Shooting,2016
+456,0.0,9,0,0,Thailand,Shooting,2016
+457,0.0,9,0,0,Romania,Swimming,2016
+458,0.0,9,0,0,France,Tennis,2016
+459,0.0,9,0,0,Poland,Tennis,2016
+460,0.0,9,0,0,Venezuela,Wrestling,2016
+461,0.75,8,6,1,Kazakhstan,Weightlifting,2016
+462,0.625,8,5,0,Malaysia,Badminton,2016
+463,0.375,8,3,1,United States,Boxing,2016
+464,0.375,8,3,2,Croatia,Sailing,2016
+465,0.375,8,3,0,Belarus,Wrestling,2016
+466,0.375,8,3,0,Uzbekistan,Wrestling,2016
+467,0.25,8,2,0,Great Britain,Badminton,2016
+468,0.25,8,2,0,China,Judo,2016
+469,0.25,8,2,0,Georgia,Judo,2016
+470,0.25,8,2,0,Uzbekistan,Judo,2016
+471,0.25,8,2,0,Austria,Sailing,2016
+472,0.25,8,2,0,Belarus,Weightlifting,2016
+473,0.25,8,2,1,Armenia,Wrestling,2016
+474,0.125,8,1,0,Denmark,Athletics,2016
+475,0.125,8,1,0,Qatar,Athletics,2016
+476,0.125,8,1,0,Venezuela,Boxing,2016
+477,0.125,8,1,0,China,Sailing,2016
+478,0.125,8,1,1,Canada,Wrestling,2016
+479,0.125,8,1,0,Poland,Wrestling,2016
+480,0.0,8,0,0,Barbados,Athletics,2016
+481,0.0,8,0,0,Cyprus,Athletics,2016
+482,0.0,8,0,0,Israel,Athletics,2016
+483,0.0,8,0,0,Germany,Badminton,2016
+484,0.0,8,0,0,United States,Badminton,2016
+485,0.0,8,0,0,Algeria,Boxing,2016
+486,0.0,8,0,0,South Africa,Cycling,2016
+487,0.0,8,0,0,Argentina,Equestrianism,2016
+488,0.0,8,0,0,Denmark,Equestrianism,2016
+489,0.0,8,0,0,Qatar,Equestrianism,2016
+490,0.0,8,0,0,Russia,Equestrianism,2016
+491,0.0,8,0,0,Estonia,Fencing,2016
+492,0.0,8,0,0,Poland,Fencing,2016
+493,0.0,8,0,0,Switzerland,Fencing,2016
+494,0.0,8,0,0,Uzbekistan,Gymnastics,2016
+495,0.0,8,0,0,Hungary,Judo,2016
+496,0.0,8,0,0,Ukraine,Rowing,2016
+497,0.0,8,0,0,Finland,Sailing,2016
+498,0.0,8,0,0,Belarus,Shooting,2016
+499,0.0,8,0,0,Iran,Shooting,2016
+500,0.0,8,0,0,Norway,Shooting,2016
+501,0.0,8,0,0,Spain,Shooting,2016
+502,0.0,8,0,0,Austria,Swimming,2016
+503,0.0,8,0,0,Serbia,Swimming,2016
+504,0.0,8,0,0,Ukraine,Swimming,2016
+505,0.0,8,0,0,Serbia,Tennis,2016
+506,0.0,8,0,0,United States,Tennis,2016
+507,0.0,8,0,0,Ukraine,Weightlifting,2016
+508,0.0,8,0,0,Hungary,Wrestling,2016
+509,1.0,7,7,6,Russia,Rhythmic Gymnastics,2016
+510,0.5714285714285714,7,4,0,United States,Archery,2016
+511,0.5714285714285714,7,4,0,Belarus,Canoeing,2016
+512,0.5714285714285714,7,4,1,North Korea,Weightlifting,2016
+513,0.42857142857142855,7,3,0,Australia,Archery,2016
+514,0.2857142857142857,7,2,0,Israel,Judo,2016
+515,0.2857142857142857,7,2,0,Greece,Sailing,2016
+516,0.2857142857142857,7,2,0,Great Britain,Shooting,2016
+517,0.2857142857142857,7,2,0,Romania,Tennis,2016
+518,0.2857142857142857,7,2,0,Armenia,Weightlifting,2016
+519,0.2857142857142857,7,2,0,Indonesia,Weightlifting,2016
+520,0.2857142857142857,7,2,0,Sweden,Wrestling,2016
+521,0.14285714285714285,7,1,0,Burundi,Athletics,2016
+522,0.14285714285714285,7,1,0,India,Badminton,2016
+523,0.14285714285714285,7,1,0,Morocco,Boxing,2016
+524,0.14285714285714285,7,1,0,Slovenia,Canoeing,2016
+525,0.14285714285714285,7,1,0,United States,Golf,2016
+526,0.14285714285714285,7,1,0,Great Britain,Judo,2016
+527,0.14285714285714285,7,1,0,Russia,Sailing,2016
+528,0.14285714285714285,7,1,0,North Korea,Shooting,2016
+529,0.14285714285714285,7,1,0,Switzerland,Shooting,2016
+530,0.14285714285714285,7,1,0,Germany,Tennis,2016
+531,0.14285714285714285,7,1,0,Japan,Tennis,2016
+532,0.14285714285714285,7,1,0,Japan,Weightlifting,2016
+533,0.14285714285714285,7,1,0,South Korea,Weightlifting,2016
+534,0.14285714285714285,7,1,0,Germany,Wrestling,2016
+535,0.14285714285714285,7,1,0,India,Wrestling,2016
+536,0.0,7,0,0,Colombia,Archery,2016
+537,0.0,7,0,0,India,Archery,2016
+538,0.0,7,0,0,Indonesia,Archery,2016
+539,0.0,7,0,0,Japan,Archery,2016
+540,0.0,7,0,0,Mexico,Archery,2016
+541,0.0,7,0,0,Spain,Archery,2016
+542,0.0,7,0,0,Ukraine,Archery,2016
+543,0.0,7,0,0,Antigua and Barbuda,Athletics,2016
+544,0.0,7,0,0,Cote d'Ivoire,Athletics,2016
+545,0.0,7,0,0,Tunisia,Athletics,2016
+546,0.0,7,0,0,Hong Kong,Badminton,2016
+547,0.0,7,0,0,Thailand,Badminton,2016
+548,0.0,7,0,0,Ireland,Boxing,2016
+549,0.0,7,0,0,Italy,Boxing,2016
+550,0.0,7,0,0,Cuba,Canoeing,2016
+551,0.0,7,0,0,United States,Canoeing,2016
+552,0.0,7,0,0,Argentina,Cycling,2016
+553,0.0,7,0,0,Belarus,Cycling,2016
+554,0.0,7,0,0,Portugal,Cycling,2016
+555,0.0,7,0,0,Slovenia,Cycling,2016
+556,0.0,7,0,0,Ukraine,Diving,2016
+557,0.0,7,0,0,Great Britain,Fencing,2016
+558,0.0,7,0,0,Lithuania,Gymnastics,2016
+559,0.0,7,0,0,Mexico,Gymnastics,2016
+560,0.0,7,0,0,Australia,Judo,2016
+561,0.0,7,0,0,Canada,Judo,2016
+562,0.0,7,0,0,Ukraine,Judo,2016
+563,0.0,7,0,0,Belarus,Rhythmic Gymnastics,2016
+564,0.0,7,0,0,Cuba,Rowing,2016
+565,0.0,7,0,0,Poland,Sailing,2016
+566,0.0,7,0,0,Sweden,Sailing,2016
+567,0.0,7,0,0,Bulgaria,Shooting,2016
+568,0.0,7,0,0,Slovakia,Shooting,2016
+569,0.0,7,0,0,Ireland,Swimming,2016
+570,0.0,7,0,0,Luxembourg,Swimming,2016
+571,0.0,7,0,0,Portugal,Swimming,2016
+572,0.0,7,0,0,Egypt,Table Tennis,2016
+573,0.0,7,0,0,Nigeria,Table Tennis,2016
+574,0.0,7,0,0,Portugal,Table Tennis,2016
+575,0.0,7,0,0,Romania,Table Tennis,2016
+576,0.0,7,0,0,Singapore,Table Tennis,2016
+577,0.0,7,0,0,Sweden,Table Tennis,2016
+578,0.0,7,0,0,Brazil,Tennis,2016
+579,0.0,7,0,0,Russia,Tennis,2016
+580,0.0,7,0,0,Kyrgyzstan,Wrestling,2016
+581,0.0,7,0,0,Nigeria,Wrestling,2016
+582,0.8333333333333334,6,5,0,Bulgaria,Rhythmic Gymnastics,2016
+583,0.8333333333333334,6,5,0,Spain,Rhythmic Gymnastics,2016
+584,0.6666666666666666,6,4,2,China-1,Badminton,2016
+585,0.6666666666666666,6,4,2,United States-2,Tennis,2016
+586,0.5,6,3,0,Russia,Archery,2016
+587,0.5,6,3,1,Great Britain,Triathlon,2016
+588,0.3333333333333333,6,2,0,Lithuania,Canoeing,2016
+589,0.3333333333333333,6,2,0,Azerbaijan,Judo,2016
+590,0.3333333333333333,6,2,1,Italy,Judo,2016
+591,0.3333333333333333,6,2,0,Kazakhstan,Judo,2016
+592,0.3333333333333333,6,2,1,United States,Judo,2016
+593,0.3333333333333333,6,2,1,Individual Olympic Athletes,Shooting,2016
+594,0.3333333333333333,6,2,0,United States-1,Tennis,2016
+595,0.3333333333333333,6,2,1,Chinese Taipei,Weightlifting,2016
+596,0.16666666666666666,6,1,0,France,Archery,2016
+597,0.16666666666666666,6,1,0,Germany,Boxing,2016
+598,0.16666666666666666,6,1,0,Mongolia,Boxing,2016
+599,0.16666666666666666,6,1,1,South Korea,Golf,2016
+600,0.16666666666666666,6,1,0,Portugal,Judo,2016
+601,0.16666666666666666,6,1,0,Ukraine,Rhythmic Gymnastics,2016
+602,0.16666666666666666,6,1,0,Ireland,Sailing,2016
+603,0.16666666666666666,6,1,1,Singapore,Swimming,2016
+604,0.16666666666666666,6,1,1,Great Britain,Tennis,2016
+605,0.16666666666666666,6,1,1,United States,Triathlon,2016
+606,0.0,6,0,0,Georgia,Archery,2016
+607,0.0,6,0,0,Malaysia,Archery,2016
+608,0.0,6,0,0,Netherlands,Archery,2016
+609,0.0,6,0,0,Austria,Athletics,2016
+610,0.0,6,0,0,Bolivia,Athletics,2016
+611,0.0,6,0,0,Chinese Taipei,Athletics,2016
+612,0.0,6,0,0,Djibouti,Athletics,2016
+613,0.0,6,0,0,Lesotho,Athletics,2016
+614,0.0,6,0,0,Refugee Olympic Athletes,Athletics,2016
+615,0.0,6,0,0,Saudi Arabia,Athletics,2016
+616,0.0,6,0,0,Uruguay,Athletics,2016
+617,0.0,6,0,0,Zimbabwe,Athletics,2016
+618,0.0,6,0,0,China-2,Badminton,2016
+619,0.0,6,0,0,Indonesia,Badminton,2016
+620,0.0,6,0,0,South Korea,Badminton,2016
+621,0.0,6,0,0,Argentina,Boxing,2016
+622,0.0,6,0,0,Turkey,Boxing,2016
+623,0.0,6,0,0,Sweden,Canoeing,2016
+624,0.0,6,0,0,Hong Kong,Cycling,2016
+625,0.0,6,0,0,Japan,Fencing,2016
+626,0.0,6,0,0,Armenia,Gymnastics,2016
+627,0.0,6,0,0,Chile,Gymnastics,2016
+628,0.0,6,0,0,Cyprus,Gymnastics,2016
+629,0.0,6,0,0,Czech Republic,Gymnastics,2016
+630,0.0,6,0,0,Finland,Gymnastics,2016
+631,0.0,6,0,0,Hungary,Gymnastics,2016
+632,0.0,6,0,0,Monaco,Gymnastics,2016
+633,0.0,6,0,0,Norway,Gymnastics,2016
+634,0.0,6,0,0,South Africa,Gymnastics,2016
+635,0.0,6,0,0,Brazil,Rhythmic Gymnastics,2016
+636,0.0,6,0,0,China,Rhythmic Gymnastics,2016
+637,0.0,6,0,0,Germany,Rhythmic Gymnastics,2016
+638,0.0,6,0,0,Greece,Rhythmic Gymnastics,2016
+639,0.0,6,0,0,Israel,Rhythmic Gymnastics,2016
+640,0.0,6,0,0,Italy,Rhythmic Gymnastics,2016
+641,0.0,6,0,0,Japan,Rhythmic Gymnastics,2016
+642,0.0,6,0,0,United States,Rhythmic Gymnastics,2016
+643,0.0,6,0,0,Uzbekistan,Rhythmic Gymnastics,2016
+644,0.0,6,0,0,Israel,Sailing,2016
+645,0.0,6,0,0,Norway,Sailing,2016
+646,0.0,6,0,0,Turkey,Sailing,2016
+647,0.0,6,0,0,Argentina,Shooting,2016
+648,0.0,6,0,0,Chinese Taipei,Shooting,2016
+649,0.0,6,0,0,Mongolia,Shooting,2016
+650,0.0,6,0,0,Turkey,Shooting,2016
+651,0.0,6,0,0,Bahamas,Swimming,2016
+652,0.0,6,0,0,Iceland,Swimming,2016
+653,0.0,6,0,0,Slovakia,Swimming,2016
+654,0.0,6,0,0,Turkey,Swimming,2016
+655,0.0,6,0,0,France,Table Tennis,2016
+656,0.0,6,0,0,Canada,Tennis,2016
+657,0.0,6,0,0,India,Tennis,2016
+658,0.0,6,0,0,Netherlands,Tennis,2016
+659,0.0,6,0,0,Spain,Tennis,2016
+660,0.0,6,0,0,Spain-1,Tennis,2016
+661,0.0,6,0,0,Australia,Triathlon,2016
+662,0.0,6,0,0,Russia,Triathlon,2016
+663,0.0,6,0,0,Spain,Triathlon,2016
+664,1.0,5,5,2,South Korea,Taekwondo,2016
+665,0.8,5,4,0,Norway,Rowing,2016
+666,0.4,5,2,0,Colombia,Boxing,2016
+667,0.4,5,2,1,Slovenia,Judo,2016
+668,0.4,5,2,0,Ireland,Rowing,2016
+669,0.4,5,2,2,Iran,Weightlifting,2016
+670,0.2,5,1,0,Mexico,Boxing,2016
+671,0.2,5,1,0,Japan,Canoeing,2016
+672,0.2,5,1,0,Tunisia,Fencing,2016
+673,0.2,5,1,0,Belgium,Judo,2016
+674,0.2,5,1,0,North Korea,Table Tennis,2016
+675,0.2,5,1,1,Uzbekistan,Weightlifting,2016
+676,0.2,5,1,0,Romania,Wrestling,2016
+677,0.2,5,1,0,South Korea,Wrestling,2016
+678,0.0,5,0,0,Armenia,Athletics,2016
+679,0.0,5,0,0,Bosnia and Herzegovina,Athletics,2016
+680,0.0,5,0,0,Georgia,Athletics,2016
+681,0.0,5,0,0,Guyana,Athletics,2016
+682,0.0,5,0,0,Kyrgyzstan,Athletics,2016
+683,0.0,5,0,0,Mongolia,Athletics,2016
+684,0.0,5,0,0,Australia,Badminton,2016
+685,0.0,5,0,0,Poland,Badminton,2016
+686,0.0,5,0,0,Armenia,Boxing,2016
+687,0.0,5,0,0,Thailand,Boxing,2016
+688,0.0,5,0,0,Ukraine,Boxing,2016
+689,0.0,5,0,0,Austria,Canoeing,2016
+690,0.0,5,0,0,Uzbekistan,Canoeing,2016
+691,0.0,5,0,0,Austria,Cycling,2016
+692,0.0,5,0,0,Lithuania,Cycling,2016
+693,0.0,5,0,0,Belgium,Equestrianism,2016
+694,0.0,5,0,0,Canada,Fencing,2016
+695,0.0,5,0,0,Argentina,Gymnastics,2016
+696,0.0,5,0,0,India,Gymnastics,2016
+697,0.0,5,0,0,Algeria,Judo,2016
+698,0.0,5,0,0,Austria,Judo,2016
+699,0.0,5,0,0,Egypt,Judo,2016
+700,0.0,5,0,0,Spain,Judo,2016
+701,0.0,5,0,0,Estonia,Sailing,2016
+702,0.0,5,0,0,Hungary,Sailing,2016
+703,0.0,5,0,0,Portugal,Sailing,2016
+704,0.0,5,0,0,Colombia,Swimming,2016
+705,0.0,5,0,0,Malaysia,Swimming,2016
+706,0.0,5,0,0,Norway,Swimming,2016
+707,0.0,5,0,0,Tunisia,Swimming,2016
+708,0.0,5,0,0,Great Britain,Table Tennis,2016
+709,0.0,5,0,0,Netherlands,Table Tennis,2016
+710,0.0,5,0,0,Belgium,Tennis,2016
+711,0.0,5,0,0,Croatia,Tennis,2016
+712,0.0,5,0,0,Canada,Triathlon,2016
+713,0.0,5,0,0,France,Triathlon,2016
+714,0.0,5,0,0,Mexico,Triathlon,2016
+715,0.0,5,0,0,Brazil,Weightlifting,2016
+716,0.0,5,0,0,France,Weightlifting,2016
+717,0.0,5,0,0,Germany,Weightlifting,2016
+718,0.0,5,0,0,Brazil,Wrestling,2016
+719,0.0,5,0,0,Colombia,Wrestling,2016
+720,1.0,4,4,2,Brazil-1,Beach Volleyball,2016
+721,1.0,4,4,0,Estonia,Rowing,2016
+722,0.75,4,3,1,Azerbaijan,Taekwondo,2016
+723,0.75,4,3,1,Great Britain,Taekwondo,2016
+724,0.75,4,3,0,China,Trampolining,2016
+725,0.5,4,2,0,South Korea-1,Badminton,2016
+726,0.5,4,2,0,Netherlands-1,Beach Volleyball,2016
+727,0.5,4,2,0,United States-1,Beach Volleyball,2016
+728,0.5,4,2,0,Azerbaijan,Canoeing,2016
+729,0.5,4,2,1,Sweden,Cycling,2016
+730,0.5,4,2,1,Vietnam,Shooting,2016
+731,0.5,4,2,2,China,Taekwondo,2016
+732,0.5,4,2,2,Spain-2,Tennis,2016
+733,0.5,4,2,1,Georgia,Weightlifting,2016
+734,0.25,4,1,0,Grenada,Athletics,2016
+735,0.25,4,1,1,China,Badminton,2016
+736,0.25,4,1,0,China,Golf,2016
+737,0.25,4,1,1,Great Britain,Golf,2016
+738,0.25,4,1,0,Sweden,Golf,2016
+739,0.25,4,1,1,Kazakhstan,Swimming,2016
+740,0.25,4,1,0,Brazil,Taekwondo,2016
+741,0.25,4,1,0,France,Taekwondo,2016
+742,0.25,4,1,0,Iran,Taekwondo,2016
+743,0.25,4,1,0,Mexico,Taekwondo,2016
+744,0.25,4,1,0,United States,Taekwondo,2016
+745,0.25,4,1,0,Argentina,Tennis,2016
+746,0.25,4,1,0,South Africa,Triathlon,2016
+747,0.25,4,1,0,Switzerland,Triathlon,2016
+748,0.25,4,1,0,Spain,Weightlifting,2016
+749,0.25,4,1,0,Turkey,Weightlifting,2016
+750,0.25,4,1,0,United States,Weightlifting,2016
+751,0.25,4,1,0,Tunisia,Wrestling,2016
+752,0.0,4,0,0,Azerbaijan,Athletics,2016
+753,0.0,4,0,0,Costa Rica,Athletics,2016
+754,0.0,4,0,0,Egypt,Athletics,2016
+755,0.0,4,0,0,Namibia,Athletics,2016
+756,0.0,4,0,0,North Korea,Athletics,2016
+757,0.0,4,0,0,Tanzania,Athletics,2016
+758,0.0,4,0,0,Thailand,Athletics,2016
+759,0.0,4,0,0,Chinese Taipei,Badminton,2016
+760,0.0,4,0,0,Netherlands,Badminton,2016
+761,0.0,4,0,0,Russia,Badminton,2016
+762,0.0,4,0,0,South Korea-2,Badminton,2016
+763,0.0,4,0,0,Brazil-2,Beach Volleyball,2016
+764,0.0,4,0,0,Canada-1,Beach Volleyball,2016
+765,0.0,4,0,0,Canada-2,Beach Volleyball,2016
+766,0.0,4,0,0,Netherlands-2,Beach Volleyball,2016
+767,0.0,4,0,0,Spain,Beach Volleyball,2016
+768,0.0,4,0,0,United States-2,Beach Volleyball,2016
+769,0.0,4,0,0,Cameroon,Boxing,2016
+770,0.0,4,0,0,Ecuador,Boxing,2016
+771,0.0,4,0,0,Egypt,Boxing,2016
+772,0.0,4,0,0,Mozambique,Canoeing,2016
+773,0.0,4,0,0,Azerbaijan,Cycling,2016
+774,0.0,4,0,0,Cuba,Cycling,2016
+775,0.0,4,0,0,Iran,Cycling,2016
+776,0.0,4,0,0,Kazakhstan,Cycling,2016
+777,0.0,4,0,0,Latvia,Cycling,2016
+778,0.0,4,0,0,Luxembourg,Cycling,2016
+779,0.0,4,0,0,Mexico,Cycling,2016
+780,0.0,4,0,0,Morocco,Cycling,2016
+781,0.0,4,0,0,Namibia,Cycling,2016
+782,0.0,4,0,0,Colombia,Diving,2016
+783,0.0,4,0,0,Egypt,Diving,2016
+784,0.0,4,0,0,North Korea,Diving,2016
+785,0.0,4,0,0,Germany,Fencing,2016
+786,0.0,4,0,0,Vietnam,Fencing,2016
+787,0.0,4,0,0,Australia,Golf,2016
+788,0.0,4,0,0,Canada,Golf,2016
+789,0.0,4,0,0,Chinese Taipei,Golf,2016
+790,0.0,4,0,0,Denmark,Golf,2016
+791,0.0,4,0,0,Finland,Golf,2016
+792,0.0,4,0,0,France,Golf,2016
+793,0.0,4,0,0,Germany,Golf,2016
+794,0.0,4,0,0,Ireland,Golf,2016
+795,0.0,4,0,0,Italy,Golf,2016
+796,0.0,4,0,0,Japan,Golf,2016
+797,0.0,4,0,0,Malaysia,Golf,2016
+798,0.0,4,0,0,South Africa,Golf,2016
+799,0.0,4,0,0,Spain,Golf,2016
+800,0.0,4,0,0,Thailand,Golf,2016
+801,0.0,4,0,0,Austria,Gymnastics,2016
+802,0.0,4,0,0,Croatia,Gymnastics,2016
+803,0.0,4,0,0,Egypt,Gymnastics,2016
+804,0.0,4,0,0,Guatemala,Gymnastics,2016
+805,0.0,4,0,0,Iceland,Gymnastics,2016
+806,0.0,4,0,0,Jamaica,Gymnastics,2016
+807,0.0,4,0,0,Panama,Gymnastics,2016
+808,0.0,4,0,0,Peru,Gymnastics,2016
+809,0.0,4,0,0,Poland,Gymnastics,2016
+810,0.0,4,0,0,Portugal,Gymnastics,2016
+811,0.0,4,0,0,Slovakia,Gymnastics,2016
+812,0.0,4,0,0,Sweden,Gymnastics,2016
+813,0.0,4,0,0,Trinidad and Tobago,Gymnastics,2016
+814,0.0,4,0,0,Venezuela,Gymnastics,2016
+815,0.0,4,0,0,Poland,Judo,2016
+816,0.0,4,0,0,Romania,Judo,2016
+817,0.0,4,0,0,Sweden,Judo,2016
+818,0.0,4,0,0,Tunisia,Judo,2016
+819,0.0,4,0,0,Turkey,Judo,2016
+820,0.0,4,0,0,China,Modern Pentathlon,2016
+821,0.0,4,0,0,Germany,Modern Pentathlon,2016
+822,0.0,4,0,0,Great Britain,Modern Pentathlon,2016
+823,0.0,4,0,0,Hungary,Modern Pentathlon,2016
+824,0.0,4,0,0,Italy,Modern Pentathlon,2016
+825,0.0,4,0,0,Brazil,Rowing,2016
+826,0.0,4,0,0,Chile,Rowing,2016
+827,0.0,4,0,0,Hong Kong,Rowing,2016
+828,0.0,4,0,0,Japan,Rowing,2016
+829,0.0,4,0,0,Russia,Rowing,2016
+830,0.0,4,0,0,Serbia,Rowing,2016
+831,0.0,4,0,0,Spain,Rowing,2016
+832,0.0,4,0,0,Belgium,Sailing,2016
+833,0.0,4,0,0,South Korea,Sailing,2016
+834,0.0,4,0,0,Thailand,Sailing,2016
+835,0.0,4,0,0,Tunisia,Sailing,2016
+836,0.0,4,0,0,Uruguay,Sailing,2016
+837,0.0,4,0,0,Denmark,Shooting,2016
+838,0.0,4,0,0,Georgia,Shooting,2016
+839,0.0,4,0,0,Peru,Shooting,2016
+840,0.0,4,0,0,Singapore,Shooting,2016
+841,0.0,4,0,0,Bulgaria,Swimming,2016
+842,0.0,4,0,0,Croatia,Swimming,2016
+843,0.0,4,0,0,El Salvador,Swimming,2016
+844,0.0,4,0,0,Refugee Olympic Athletes,Swimming,2016
+845,0.0,4,0,0,Vietnam,Swimming,2016
+846,0.0,4,0,0,Czech Republic,Table Tennis,2016
+847,0.0,4,0,0,India,Table Tennis,2016
+848,0.0,4,0,0,Australia,Taekwondo,2016
+849,0.0,4,0,0,China,Tennis,2016
+850,0.0,4,0,0,France-1,Tennis,2016
+851,0.0,4,0,0,France-2,Tennis,2016
+852,0.0,4,0,0,Great Britain-1,Tennis,2016
+853,0.0,4,0,0,Great Britain-2,Tennis,2016
+854,0.0,4,0,0,Portugal,Tennis,2016
+855,0.0,4,0,0,Slovakia,Tennis,2016
+856,0.0,4,0,0,Ukraine,Tennis,2016
+857,0.0,4,0,0,Belgium,Triathlon,2016
+858,0.0,4,0,0,Hungary,Triathlon,2016
+859,0.0,4,0,0,Italy,Triathlon,2016
+860,0.0,4,0,0,Japan,Triathlon,2016
+861,0.0,4,0,0,New Zealand,Triathlon,2016
+862,0.0,4,0,0,Mexico,Weightlifting,2016
+863,0.0,4,0,0,Romania,Weightlifting,2016
+864,0.0,4,0,0,Venezuela,Weightlifting,2016
+865,0.0,4,0,0,Vietnam,Weightlifting,2016
+866,0.0,4,0,0,North Korea,Wrestling,2016
+867,1.0,3,3,2,Croatia,Rowing,2016
+868,0.6666666666666666,3,2,1,Greece,Shooting,2016
+869,0.6666666666666666,3,2,1,Cote d'Ivoire,Taekwondo,2016
+870,0.6666666666666666,3,2,0,Spain,Taekwondo,2016
+871,0.6666666666666666,3,2,0,Thailand,Taekwondo,2016
+872,0.6666666666666666,3,2,0,Switzerland,Tennis,2016
+873,0.3333333333333333,3,1,0,Netherlands,Boxing,2016
+874,0.3333333333333333,3,1,0,New Zealand,Golf,2016
+875,0.3333333333333333,3,1,1,Greece,Gymnastics,2016
+876,0.3333333333333333,3,1,1,North Korea,Gymnastics,2016
+877,0.3333333333333333,3,1,1,Czech Republic,Judo,2016
+878,0.3333333333333333,3,1,0,United Arab Emirates,Judo,2016
+879,0.3333333333333333,3,1,0,France,Modern Pentathlon,2016
+880,0.3333333333333333,3,1,0,Poland,Modern Pentathlon,2016
+881,0.3333333333333333,3,1,1,Russia,Modern Pentathlon,2016
+882,0.3333333333333333,3,1,0,Ukraine,Modern Pentathlon,2016
+883,0.3333333333333333,3,1,0,Slovenia,Sailing,2016
+884,0.3333333333333333,3,1,0,New Zealand,Shooting,2016
+885,0.3333333333333333,3,1,0,Sweden,Shooting,2016
+886,0.3333333333333333,3,1,0,Dominican Republic,Taekwondo,2016
+887,0.3333333333333333,3,1,0,Egypt,Taekwondo,2016
+888,0.3333333333333333,3,1,0,Russia,Taekwondo,2016
+889,0.3333333333333333,3,1,0,Tunisia,Taekwondo,2016
+890,0.3333333333333333,3,1,1,Belarus,Trampolining,2016
+891,0.3333333333333333,3,1,0,Great Britain,Trampolining,2016
+892,0.3333333333333333,3,1,1,Serbia,Wrestling,2016
+893,0.0,3,0,0,British Virgin Islands,Athletics,2016
+894,0.0,3,0,0,Haiti,Athletics,2016
+895,0.0,3,0,0,Iceland,Athletics,2016
+896,0.0,3,0,0,Liberia,Athletics,2016
+897,0.0,3,0,0,Mauritius,Athletics,2016
+898,0.0,3,0,0,Panama,Athletics,2016
+899,0.0,3,0,0,Philippines,Athletics,2016
+900,0.0,3,0,0,Rwanda,Athletics,2016
+901,0.0,3,0,0,Saint Lucia,Athletics,2016
+902,0.0,3,0,0,South Sudan,Athletics,2016
+903,0.0,3,0,0,Sri Lanka,Athletics,2016
+904,0.0,3,0,0,Sudan,Athletics,2016
+905,0.0,3,0,0,United States Virgin Islands,Athletics,2016
+906,0.0,3,0,0,Vietnam,Athletics,2016
+907,0.0,3,0,0,Zambia,Athletics,2016
+908,0.0,3,0,0,Bulgaria,Badminton,2016
+909,0.0,3,0,0,Australia,Boxing,2016
+910,0.0,3,0,0,Belarus,Boxing,2016
+911,0.0,3,0,0,Bulgaria,Boxing,2016
+912,0.0,3,0,0,Canada,Boxing,2016
+913,0.0,3,0,0,India,Boxing,2016
+914,0.0,3,0,0,Kenya,Boxing,2016
+915,0.0,3,0,0,Bulgaria,Canoeing,2016
+916,0.0,3,0,0,Latvia,Canoeing,2016
+917,0.0,3,0,0,South Korea,Canoeing,2016
+918,0.0,3,0,0,Switzerland,Canoeing,2016
+919,0.0,3,0,0,Tunisia,Canoeing,2016
+920,0.0,3,0,0,Costa Rica,Cycling,2016
+921,0.0,3,0,0,Greece,Cycling,2016
+922,0.0,3,0,0,Ireland,Cycling,2016
+923,0.0,3,0,0,Turkey,Cycling,2016
+924,0.0,3,0,0,France,Diving,2016
+925,0.0,3,0,0,Japan,Diving,2016
+926,0.0,3,0,0,Hong Kong,Fencing,2016
+927,0.0,3,0,0,Belgium,Golf,2016
+928,0.0,3,0,0,Brazil,Golf,2016
+929,0.0,3,0,0,India,Golf,2016
+930,0.0,3,0,0,Mexico,Golf,2016
+931,0.0,3,0,0,Norway,Golf,2016
+932,0.0,3,0,0,Vietnam,Gymnastics,2016
+933,0.0,3,0,0,Ecuador,Judo,2016
+934,0.0,3,0,0,Morocco,Judo,2016
+935,0.0,3,0,0,North Korea,Judo,2016
+936,0.0,3,0,0,Switzerland,Judo,2016
+937,0.0,3,0,0,Czech Republic,Modern Pentathlon,2016
+938,0.0,3,0,0,Egypt,Modern Pentathlon,2016
+939,0.0,3,0,0,Japan,Modern Pentathlon,2016
+940,0.0,3,0,0,Lithuania,Modern Pentathlon,2016
+941,0.0,3,0,0,South Korea,Modern Pentathlon,2016
+942,0.0,3,0,0,United States,Modern Pentathlon,2016
+943,0.0,3,0,0,Austria,Rowing,2016
+944,0.0,3,0,0,Hungary,Rowing,2016
+945,0.0,3,0,0,Tunisia,Rowing,2016
+946,0.0,3,0,0,Algeria,Sailing,2016
+947,0.0,3,0,0,Angola,Sailing,2016
+948,0.0,3,0,0,Aruba,Sailing,2016
+949,0.0,3,0,0,Czech Republic,Sailing,2016
+950,0.0,3,0,0,Mexico,Sailing,2016
+951,0.0,3,0,0,Seychelles,Sailing,2016
+952,0.0,3,0,0,South Africa,Sailing,2016
+953,0.0,3,0,0,Ukraine,Sailing,2016
+954,0.0,3,0,0,Canada,Shooting,2016
+955,0.0,3,0,0,Malta,Shooting,2016
+956,0.0,3,0,0,San Marino,Shooting,2016
+957,0.0,3,0,0,Slovenia,Shooting,2016
+958,0.0,3,0,0,United Arab Emirates,Shooting,2016
+959,0.0,3,0,0,Venezuela,Shooting,2016
+960,0.0,3,0,0,Chile,Swimming,2016
+961,0.0,3,0,0,Ecuador,Swimming,2016
+962,0.0,3,0,0,Guatemala,Swimming,2016
+963,0.0,3,0,0,Mexico,Swimming,2016
+964,0.0,3,0,0,Uzbekistan,Swimming,2016
+965,0.0,3,0,0,Zimbabwe,Swimming,2016
+966,0.0,3,0,0,Belarus,Table Tennis,2016
+967,0.0,3,0,0,Congo (Brazzaville),Table Tennis,2016
+968,0.0,3,0,0,Hungary,Table Tennis,2016
+969,0.0,3,0,0,Iran,Table Tennis,2016
+970,0.0,3,0,0,Russia,Table Tennis,2016
+971,0.0,3,0,0,Slovakia,Table Tennis,2016
+972,0.0,3,0,0,Spain,Table Tennis,2016
+973,0.0,3,0,0,Thailand,Table Tennis,2016
+974,0.0,3,0,0,Belgium,Taekwondo,2016
+975,0.0,3,0,0,Chinese Taipei,Taekwondo,2016
+976,0.0,3,0,0,Croatia,Taekwondo,2016
+977,0.0,3,0,0,Kazakhstan,Taekwondo,2016
+978,0.0,3,0,0,Morocco,Taekwondo,2016
+979,0.0,3,0,0,Uzbekistan,Taekwondo,2016
+980,0.0,3,0,0,Chinese Taipei,Tennis,2016
+981,0.0,3,0,0,Colombia,Tennis,2016
+982,0.0,3,0,0,Hungary,Tennis,2016
+983,0.0,3,0,0,Kazakhstan,Tennis,2016
+984,0.0,3,0,0,Japan,Trampolining,2016
+985,0.0,3,0,0,Russia,Trampolining,2016
+986,0.0,3,0,0,Austria,Triathlon,2016
+987,0.0,3,0,0,Portugal,Triathlon,2016
+988,0.0,3,0,0,Dominican Republic,Weightlifting,2016
+989,0.0,3,0,0,Ecuador,Weightlifting,2016
+990,0.0,3,0,0,Moldova,Weightlifting,2016
+991,0.0,3,0,0,Poland,Weightlifting,2016
+992,0.0,3,0,0,Algeria,Wrestling,2016
+993,0.0,3,0,0,Australia,Wrestling,2016
+994,0.0,3,0,0,Cameroon,Wrestling,2016
+995,0.0,3,0,0,Estonia,Wrestling,2016
+996,0.0,3,0,0,Finland,Wrestling,2016
+997,0.0,3,0,0,Moldova,Wrestling,2016
+998,0.0,3,0,0,Morocco,Wrestling,2016
+999,1.0,2,2,2,Indonesia-1,Badminton,2016
+1000,1.0,2,2,2,Germany-1,Beach Volleyball,2016
+1001,1.0,2,2,0,Italy-1,Beach Volleyball,2016
+1002,1.0,2,2,0,Czech Republic-1,Tennis,2016
+1003,1.0,2,2,2,Russia-2,Tennis,2016
+1004,0.5,2,1,0,Germany,Archery,2016
+1005,0.5,2,1,1,Tajikistan,Athletics,2016
+1006,0.5,2,1,1,Spain,Badminton,2016
+1007,0.5,2,1,0,Croatia,Boxing,2016
+1008,0.5,2,1,0,Malaysia,Cycling,2016
+1009,0.5,2,1,1,Argentina,Judo,2016
+1010,0.5,2,1,0,Colombia,Judo,2016
+1011,0.5,2,1,1,Kosovo,Judo,2016
+1012,0.5,2,1,1,Australia,Modern Pentathlon,2016
+1013,0.5,2,1,0,Mexico,Modern Pentathlon,2016
+1014,0.5,2,1,0,Serbia,Taekwondo,2016
+1015,0.5,2,1,0,Turkey,Taekwondo,2016
+1016,0.5,2,1,1,Canada,Trampolining,2016
+1017,0.5,2,1,0,Philippines,Weightlifting,2016
+1018,0.5,2,1,0,Italy,Wrestling,2016
+1019,0.5,2,1,0,Norway,Wrestling,2016
+1020,0.0,2,0,0,Canada,Archery,2016
+1021,0.0,2,0,0,Egypt,Archery,2016
+1022,0.0,2,0,0,Finland,Archery,2016
+1023,0.0,2,0,0,Great Britain,Archery,2016
+1024,0.0,2,0,0,Kazakhstan,Archery,2016
+1025,0.0,2,0,0,Slovakia,Archery,2016
+1026,0.0,2,0,0,Tonga,Archery,2016
+1027,0.0,2,0,0,Turkey,Archery,2016
+1028,0.0,2,0,0,Venezuela,Archery,2016
+1029,0.0,2,0,0,Afghanistan,Athletics,2016
+1030,0.0,2,0,0,Albania,Athletics,2016
+1031,0.0,2,0,0,American Samoa,Athletics,2016
+1032,0.0,2,0,0,Angola,Athletics,2016
+1033,0.0,2,0,0,Bangladesh,Athletics,2016
+1034,0.0,2,0,0,Belize,Athletics,2016
+1035,0.0,2,0,0,Benin,Athletics,2016
+1036,0.0,2,0,0,Bermuda,Athletics,2016
+1037,0.0,2,0,0,Brunei,Athletics,2016
+1038,0.0,2,0,0,Burkina Faso,Athletics,2016
+1039,0.0,2,0,0,Cambodia,Athletics,2016
+1040,0.0,2,0,0,Cameroon,Athletics,2016
+1041,0.0,2,0,0,Cape Verde,Athletics,2016
+1042,0.0,2,0,0,Cayman Islands,Athletics,2016
+1043,0.0,2,0,0,Central African Republic,Athletics,2016
+1044,0.0,2,0,0,Chad,Athletics,2016
+1045,0.0,2,0,0,Comoros,Athletics,2016
+1046,0.0,2,0,0,Congo (Brazzaville),Athletics,2016
+1047,0.0,2,0,0,Congo (Kinshasa),Athletics,2016
+1048,0.0,2,0,0,Cook Islands,Athletics,2016
+1049,0.0,2,0,0,Dominica,Athletics,2016
+1050,0.0,2,0,0,El Salvador,Athletics,2016
+1051,0.0,2,0,0,Federated States of Micronesia,Athletics,2016
+1052,0.0,2,0,0,Fiji,Athletics,2016
+1053,0.0,2,0,0,Gabon,Athletics,2016
+1054,0.0,2,0,0,Gambia,Athletics,2016
+1055,0.0,2,0,0,Guam,Athletics,2016
+1056,0.0,2,0,0,Guinea,Athletics,2016
+1057,0.0,2,0,0,Guinea Bissau,Athletics,2016
+1058,0.0,2,0,0,Hong Kong,Athletics,2016
+1059,0.0,2,0,0,Indonesia,Athletics,2016
+1060,0.0,2,0,0,Kiribati,Athletics,2016
+1061,0.0,2,0,0,Kosovo,Athletics,2016
+1062,0.0,2,0,0,Lebanon,Athletics,2016
+1063,0.0,2,0,0,Luxembourg,Athletics,2016
+1064,0.0,2,0,0,Macedonia,Athletics,2016
+1065,0.0,2,0,0,Madagascar,Athletics,2016
+1066,0.0,2,0,0,Malawi,Athletics,2016
+1067,0.0,2,0,0,Malaysia,Athletics,2016
+1068,0.0,2,0,0,Maldives,Athletics,2016
+1069,0.0,2,0,0,Mali,Athletics,2016
+1070,0.0,2,0,0,Malta,Athletics,2016
+1071,0.0,2,0,0,Marshall Islands,Athletics,2016
+1072,0.0,2,0,0,Mauritania,Athletics,2016
+1073,0.0,2,0,0,Montenegro,Athletics,2016
+1074,0.0,2,0,0,Myanmar,Athletics,2016
+1075,0.0,2,0,0,Nepal,Athletics,2016
+1076,0.0,2,0,0,Niger,Athletics,2016
+1077,0.0,2,0,0,Oman,Athletics,2016
+1078,0.0,2,0,0,Pakistan,Athletics,2016
+1079,0.0,2,0,0,Palestine,Athletics,2016
+1080,0.0,2,0,0,Papua New Guinea,Athletics,2016
+1081,0.0,2,0,0,Paraguay,Athletics,2016
+1082,0.0,2,0,0,Saint Vincent and the Grenadines,Athletics,2016
+1083,0.0,2,0,0,Samoa,Athletics,2016
+1084,0.0,2,0,0,Sao Tome and Principe,Athletics,2016
+1085,0.0,2,0,0,Senegal,Athletics,2016
+1086,0.0,2,0,0,Seychelles,Athletics,2016
+1087,0.0,2,0,0,Sierra Leone,Athletics,2016
+1088,0.0,2,0,0,Singapore,Athletics,2016
+1089,0.0,2,0,0,Solomon Islands,Athletics,2016
+1090,0.0,2,0,0,Somalia,Athletics,2016
+1091,0.0,2,0,0,Suriname,Athletics,2016
+1092,0.0,2,0,0,Swaziland,Athletics,2016
+1093,0.0,2,0,0,Syria,Athletics,2016
+1094,0.0,2,0,0,Timor Leste,Athletics,2016
+1095,0.0,2,0,0,Togo,Athletics,2016
+1096,0.0,2,0,0,Tonga,Athletics,2016
+1097,0.0,2,0,0,Turkmenistan,Athletics,2016
+1098,0.0,2,0,0,United Arab Emirates,Athletics,2016
+1099,0.0,2,0,0,Austria,Badminton,2016
+1100,0.0,2,0,0,Belgium,Badminton,2016
+1101,0.0,2,0,0,Brazil,Badminton,2016
+1102,0.0,2,0,0,Canada,Badminton,2016
+1103,0.0,2,0,0,Czech Republic,Badminton,2016
+1104,0.0,2,0,0,Estonia,Badminton,2016
+1105,0.0,2,0,0,France,Badminton,2016
+1106,0.0,2,0,0,Indonesia-2,Badminton,2016
+1107,0.0,2,0,0,Ireland,Badminton,2016
+1108,0.0,2,0,0,Portugal,Badminton,2016
+1109,0.0,2,0,0,Singapore,Badminton,2016
+1110,0.0,2,0,0,Ukraine,Badminton,2016
+1111,0.0,2,0,0,Vietnam,Badminton,2016
+1112,0.0,2,0,0,Argentina,Beach Volleyball,2016
+1113,0.0,2,0,0,Australia-1,Beach Volleyball,2016
+1114,0.0,2,0,0,Australia-2,Beach Volleyball,2016
+1115,0.0,2,0,0,Austria-1,Beach Volleyball,2016
+1116,0.0,2,0,0,Austria-2,Beach Volleyball,2016
+1117,0.0,2,0,0,Chile,Beach Volleyball,2016
+1118,0.0,2,0,0,China,Beach Volleyball,2016
+1119,0.0,2,0,0,Costa Rica,Beach Volleyball,2016
+1120,0.0,2,0,0,Cuba,Beach Volleyball,2016
+1121,0.0,2,0,0,Czech Republic,Beach Volleyball,2016
+1122,0.0,2,0,0,Egypt,Beach Volleyball,2016
+1123,0.0,2,0,0,Germany,Beach Volleyball,2016
+1124,0.0,2,0,0,Germany-2,Beach Volleyball,2016
+1125,0.0,2,0,0,Italy,Beach Volleyball,2016
+1126,0.0,2,0,0,Italy-2,Beach Volleyball,2016
+1127,0.0,2,0,0,Latvia,Beach Volleyball,2016
+1128,0.0,2,0,0,Mexico,Beach Volleyball,2016
+1129,0.0,2,0,0,Poland,Beach Volleyball,2016
+1130,0.0,2,0,0,Poland-1,Beach Volleyball,2016
+1131,0.0,2,0,0,Poland-2,Beach Volleyball,2016
+1132,0.0,2,0,0,Qatar,Beach Volleyball,2016
+1133,0.0,2,0,0,Russia,Beach Volleyball,2016
+1134,0.0,2,0,0,Russia-1,Beach Volleyball,2016
+1135,0.0,2,0,0,Russia-2,Beach Volleyball,2016
+1136,0.0,2,0,0,Switzerland-1,Beach Volleyball,2016
+1137,0.0,2,0,0,Switzerland-2,Beach Volleyball,2016
+1138,0.0,2,0,0,Tunisia,Beach Volleyball,2016
+1139,0.0,2,0,0,Venezuela,Beach Volleyball,2016
+1140,0.0,2,0,0,Chinese Taipei,Boxing,2016
+1141,0.0,2,0,0,Congo (Brazzaville),Boxing,2016
+1142,0.0,2,0,0,Dominican Republic,Boxing,2016
+1143,0.0,2,0,0,Hungary,Boxing,2016
+1144,0.0,2,0,0,Japan,Boxing,2016
+1145,0.0,2,0,0,Jordan,Boxing,2016
+1146,0.0,2,0,0,Lesotho,Boxing,2016
+1147,0.0,2,0,0,Lithuania,Boxing,2016
+1148,0.0,2,0,0,Mauritius,Boxing,2016
+1149,0.0,2,0,0,Namibia,Boxing,2016
+1150,0.0,2,0,0,Philippines,Boxing,2016
+1151,0.0,2,0,0,Poland,Boxing,2016
+1152,0.0,2,0,0,Qatar,Boxing,2016
+1153,0.0,2,0,0,Spain,Boxing,2016
+1154,0.0,2,0,0,Tunisia,Boxing,2016
+1155,0.0,2,0,0,Uganda,Boxing,2016
+1156,0.0,2,0,0,Cook Islands,Canoeing,2016
+1157,0.0,2,0,0,Egypt,Canoeing,2016
+1158,0.0,2,0,0,Moldova,Canoeing,2016
+1159,0.0,2,0,0,Palau,Canoeing,2016
+1160,0.0,2,0,0,Samoa,Canoeing,2016
+1161,0.0,2,0,0,South Africa,Canoeing,2016
+1162,0.0,2,0,0,Turkey,Canoeing,2016
+1163,0.0,2,0,0,Algeria,Cycling,2016
+1164,0.0,2,0,0,Chile,Cycling,2016
+1165,0.0,2,0,0,Chinese Taipei,Cycling,2016
+1166,0.0,2,0,0,Croatia,Cycling,2016
+1167,0.0,2,0,0,Ecuador,Cycling,2016
+1168,0.0,2,0,0,Estonia,Cycling,2016
+1169,0.0,2,0,0,Finland,Cycling,2016
+1170,0.0,2,0,0,Israel,Cycling,2016
+1171,0.0,2,0,0,Rwanda,Cycling,2016
+1172,0.0,2,0,0,Serbia,Cycling,2016
+1173,0.0,2,0,0,Slovakia,Cycling,2016
+1174,0.0,2,0,0,Thailand,Cycling,2016
+1175,0.0,2,0,0,Belarus,Diving,2016
+1176,0.0,2,0,0,South Korea,Diving,2016
+1177,0.0,2,0,0,Venezuela,Diving,2016
+1178,0.0,2,0,0,Colombia,Equestrianism,2016
+1179,0.0,2,0,0,Venezuela,Equestrianism,2016
+1180,0.0,2,0,0,Algeria,Fencing,2016
+1181,0.0,2,0,0,Colombia,Fencing,2016
+1182,0.0,2,0,0,Czech Republic,Fencing,2016
+1183,0.0,2,0,0,Greece,Fencing,2016
+1184,0.0,2,0,0,Iran,Fencing,2016
+1185,0.0,2,0,0,Argentina,Golf,2016
+1186,0.0,2,0,0,Austria,Golf,2016
+1187,0.0,2,0,0,Paraguay,Golf,2016
+1188,0.0,2,0,0,Portugal,Golf,2016
+1189,0.0,2,0,0,Switzerland,Golf,2016
+1190,0.0,2,0,0,Australia,Gymnastics,2016
+1191,0.0,2,0,0,Israel,Gymnastics,2016
+1192,0.0,2,0,0,Belarus,Judo,2016
+1193,0.0,2,0,0,Bulgaria,Judo,2016
+1194,0.0,2,0,0,Chinese Taipei,Judo,2016
+1195,0.0,2,0,0,Gabon,Judo,2016
+1196,0.0,2,0,0,Greece,Judo,2016
+1197,0.0,2,0,0,Iran,Judo,2016
+1198,0.0,2,0,0,Kyrgyzstan,Judo,2016
+1199,0.0,2,0,0,Latvia,Judo,2016
+1200,0.0,2,0,0,Mexico,Judo,2016
+1201,0.0,2,0,0,Puerto Rico,Judo,2016
+1202,0.0,2,0,0,Refugee Olympic Athletes,Judo,2016
+1203,0.0,2,0,0,Tajikistan,Judo,2016
+1204,0.0,2,0,0,Turkmenistan,Judo,2016
+1205,0.0,2,0,0,Argentina,Modern Pentathlon,2016
+1206,0.0,2,0,0,Brazil,Modern Pentathlon,2016
+1207,0.0,2,0,0,Canada,Modern Pentathlon,2016
+1208,0.0,2,0,0,Cuba,Modern Pentathlon,2016
+1209,0.0,2,0,0,Guatemala,Modern Pentathlon,2016
+1210,0.0,2,0,0,Ireland,Modern Pentathlon,2016
+1211,0.0,2,0,0,Kazakhstan,Modern Pentathlon,2016
+1212,0.0,2,0,0,Algeria,Rowing,2016
+1213,0.0,2,0,0,Angola,Rowing,2016
+1214,0.0,2,0,0,Argentina,Rowing,2016
+1215,0.0,2,0,0,Azerbaijan,Rowing,2016
+1216,0.0,2,0,0,Bulgaria,Rowing,2016
+1217,0.0,2,0,0,Egypt,Rowing,2016
+1218,0.0,2,0,0,Indonesia,Rowing,2016
+1219,0.0,2,0,0,Kazakhstan,Rowing,2016
+1220,0.0,2,0,0,Mexico,Rowing,2016
+1221,0.0,2,0,0,Paraguay,Rowing,2016
+1222,0.0,2,0,0,Peru,Rowing,2016
+1223,0.0,2,0,0,South Korea,Rowing,2016
+1224,0.0,2,0,0,Thailand,Rowing,2016
+1225,0.0,2,0,0,Turkey,Rowing,2016
+1226,0.0,2,0,0,Vietnam,Rowing,2016
+1227,0.0,2,0,0,Zimbabwe,Rowing,2016
+1228,0.0,2,0,0,Belarus,Sailing,2016
+1229,0.0,2,0,0,Bermuda,Sailing,2016
+1230,0.0,2,0,0,Cook Islands,Sailing,2016
+1231,0.0,2,0,0,Cyprus,Sailing,2016
+1232,0.0,2,0,0,Hong Kong,Sailing,2016
+1233,0.0,2,0,0,Lithuania,Sailing,2016
+1234,0.0,2,0,0,Malaysia,Sailing,2016
+1235,0.0,2,0,0,Peru,Sailing,2016
+1236,0.0,2,0,0,Venezuela,Sailing,2016
+1237,0.0,2,0,0,Azerbaijan,Shooting,2016
+1238,0.0,2,0,0,Bolivia,Shooting,2016
+1239,0.0,2,0,0,Cyprus,Shooting,2016
+1240,0.0,2,0,0,Finland,Shooting,2016
+1241,0.0,2,0,0,Guatemala,Shooting,2016
+1242,0.0,2,0,0,Israel,Shooting,2016
+1243,0.0,2,0,0,Malaysia,Shooting,2016
+1244,0.0,2,0,0,Mexico,Shooting,2016
+1245,0.0,2,0,0,Morocco,Shooting,2016
+1246,0.0,2,0,0,Myanmar,Shooting,2016
+1247,0.0,2,0,0,Oman,Shooting,2016
+1248,0.0,2,0,0,Pakistan,Shooting,2016
+1249,0.0,2,0,0,Panama,Shooting,2016
+1250,0.0,2,0,0,Portugal,Shooting,2016
+1251,0.0,2,0,0,Puerto Rico,Shooting,2016
+1252,0.0,2,0,0,Qatar,Shooting,2016
+1253,0.0,2,0,0,Saudi Arabia,Shooting,2016
+1254,0.0,2,0,0,Sri Lanka,Shooting,2016
+1255,0.0,2,0,0,Tunisia,Shooting,2016
+1256,0.0,2,0,0,Albania,Swimming,2016
+1257,0.0,2,0,0,Algeria,Swimming,2016
+1258,0.0,2,0,0,Angola,Swimming,2016
+1259,0.0,2,0,0,Antigua and Barbuda,Swimming,2016
+1260,0.0,2,0,0,Aruba,Swimming,2016
+1261,0.0,2,0,0,Azerbaijan,Swimming,2016
+1262,0.0,2,0,0,Bahrain,Swimming,2016
+1263,0.0,2,0,0,Bangladesh,Swimming,2016
+1264,0.0,2,0,0,Barbados,Swimming,2016
+1265,0.0,2,0,0,Benin,Swimming,2016
+1266,0.0,2,0,0,Bermuda,Swimming,2016
+1267,0.0,2,0,0,Bolivia,Swimming,2016
+1268,0.0,2,0,0,Bosnia and Herzegovina,Swimming,2016
+1269,0.0,2,0,0,Botswana,Swimming,2016
+1270,0.0,2,0,0,Burkina Faso,Swimming,2016
+1271,0.0,2,0,0,Burundi,Swimming,2016
+1272,0.0,2,0,0,Cambodia,Swimming,2016
+1273,0.0,2,0,0,Cayman Islands,Swimming,2016
+1274,0.0,2,0,0,Central African Republic,Swimming,2016
+1275,0.0,2,0,0,Chinese Taipei,Swimming,2016
+1276,0.0,2,0,0,Comoros,Swimming,2016
+1277,0.0,2,0,0,Congo (Brazzaville),Swimming,2016
+1278,0.0,2,0,0,Cook Islands,Swimming,2016
+1279,0.0,2,0,0,Cote d'Ivoire,Swimming,2016
+1280,0.0,2,0,0,Cuba,Swimming,2016
+1281,0.0,2,0,0,Cyprus,Swimming,2016
+1282,0.0,2,0,0,Dominican Republic,Swimming,2016
+1283,0.0,2,0,0,Estonia,Swimming,2016
+1284,0.0,2,0,0,Ethiopia,Swimming,2016
+1285,0.0,2,0,0,Federated States of Micronesia,Swimming,2016
+1286,0.0,2,0,0,Fiji,Swimming,2016
+1287,0.0,2,0,0,Georgia,Swimming,2016
+1288,0.0,2,0,0,Ghana,Swimming,2016
+1289,0.0,2,0,0,Grenada,Swimming,2016
+1290,0.0,2,0,0,Guam,Swimming,2016
+1291,0.0,2,0,0,Guinea,Swimming,2016
+1292,0.0,2,0,0,Guyana,Swimming,2016
+1293,0.0,2,0,0,Haiti,Swimming,2016
+1294,0.0,2,0,0,Honduras,Swimming,2016
+1295,0.0,2,0,0,India,Swimming,2016
+1296,0.0,2,0,0,Individual Olympic Athletes,Swimming,2016
+1297,0.0,2,0,0,Indonesia,Swimming,2016
+1298,0.0,2,0,0,Jamaica,Swimming,2016
+1299,0.0,2,0,0,Jordan,Swimming,2016
+1300,0.0,2,0,0,Kenya,Swimming,2016
+1301,0.0,2,0,0,Kosovo,Swimming,2016
+1302,0.0,2,0,0,Kyrgyzstan,Swimming,2016
+1303,0.0,2,0,0,Laos,Swimming,2016
+1304,0.0,2,0,0,Latvia,Swimming,2016
+1305,0.0,2,0,0,Lebanon,Swimming,2016
+1306,0.0,2,0,0,Libya,Swimming,2016
+1307,0.0,2,0,0,Liechtenstein,Swimming,2016
+1308,0.0,2,0,0,Macedonia,Swimming,2016
+1309,0.0,2,0,0,Madagascar,Swimming,2016
+1310,0.0,2,0,0,Malawi,Swimming,2016
+1311,0.0,2,0,0,Maldives,Swimming,2016
+1312,0.0,2,0,0,Mali,Swimming,2016
+1313,0.0,2,0,0,Malta,Swimming,2016
+1314,0.0,2,0,0,Marshall Islands,Swimming,2016
+1315,0.0,2,0,0,Mauritius,Swimming,2016
+1316,0.0,2,0,0,Moldova,Swimming,2016
+1317,0.0,2,0,0,Mongolia,Swimming,2016
+1318,0.0,2,0,0,Montenegro,Swimming,2016
+1319,0.0,2,0,0,Morocco,Swimming,2016
+1320,0.0,2,0,0,Mozambique,Swimming,2016
+1321,0.0,2,0,0,Myanmar,Swimming,2016
+1322,0.0,2,0,0,Nepal,Swimming,2016
+1323,0.0,2,0,0,Nicaragua,Swimming,2016
+1324,0.0,2,0,0,Niger,Swimming,2016
+1325,0.0,2,0,0,Nigeria,Swimming,2016
+1326,0.0,2,0,0,Pakistan,Swimming,2016
+1327,0.0,2,0,0,Palau,Swimming,2016
+1328,0.0,2,0,0,Palestine,Swimming,2016
+1329,0.0,2,0,0,Panama,Swimming,2016
+1330,0.0,2,0,0,Paraguay,Swimming,2016
+1331,0.0,2,0,0,Peru,Swimming,2016
+1332,0.0,2,0,0,Philippines,Swimming,2016
+1333,0.0,2,0,0,Qatar,Swimming,2016
+1334,0.0,2,0,0,Rwanda,Swimming,2016
+1335,0.0,2,0,0,Saint Vincent and the Grenadines,Swimming,2016
+1336,0.0,2,0,0,Samoa,Swimming,2016
+1337,0.0,2,0,0,Senegal,Swimming,2016
+1338,0.0,2,0,0,Seychelles,Swimming,2016
+1339,0.0,2,0,0,Sierra Leone,Swimming,2016
+1340,0.0,2,0,0,Sri Lanka,Swimming,2016
+1341,0.0,2,0,0,Sudan,Swimming,2016
+1342,0.0,2,0,0,Suriname,Swimming,2016
+1343,0.0,2,0,0,Syria,Swimming,2016
+1344,0.0,2,0,0,Tajikistan,Swimming,2016
+1345,0.0,2,0,0,Tanzania,Swimming,2016
+1346,0.0,2,0,0,Thailand,Swimming,2016
+1347,0.0,2,0,0,Togo,Swimming,2016
+1348,0.0,2,0,0,Tonga,Swimming,2016
+1349,0.0,2,0,0,Trinidad and Tobago,Swimming,2016
+1350,0.0,2,0,0,Turkmenistan,Swimming,2016
+1351,0.0,2,0,0,Uganda,Swimming,2016
+1352,0.0,2,0,0,United Arab Emirates,Swimming,2016
+1353,0.0,2,0,0,United States Virgin Islands,Swimming,2016
+1354,0.0,2,0,0,Uruguay,Swimming,2016
+1355,0.0,2,0,0,Zambia,Swimming,2016
+1356,0.0,2,0,0,Argentina,Synchronized Swimming,2016
+1357,0.0,2,0,0,Austria,Synchronized Swimming,2016
+1358,0.0,2,0,0,Belarus,Synchronized Swimming,2016
+1359,0.0,2,0,0,Canada,Synchronized Swimming,2016
+1360,0.0,2,0,0,Colombia,Synchronized Swimming,2016
+1361,0.0,2,0,0,Czech Republic,Synchronized Swimming,2016
+1362,0.0,2,0,0,France,Synchronized Swimming,2016
+1363,0.0,2,0,0,Great Britain,Synchronized Swimming,2016
+1364,0.0,2,0,0,Greece,Synchronized Swimming,2016
+1365,0.0,2,0,0,Israel,Synchronized Swimming,2016
+1366,0.0,2,0,0,Kazakhstan,Synchronized Swimming,2016
+1367,0.0,2,0,0,Mexico,Synchronized Swimming,2016
+1368,0.0,2,0,0,Slovakia,Synchronized Swimming,2016
+1369,0.0,2,0,0,Spain,Synchronized Swimming,2016
+1370,0.0,2,0,0,Switzerland,Synchronized Swimming,2016
+1371,0.0,2,0,0,United States,Synchronized Swimming,2016
+1372,0.0,2,0,0,Canada,Table Tennis,2016
+1373,0.0,2,0,0,Cuba,Table Tennis,2016
+1374,0.0,2,0,0,Mexico,Table Tennis,2016
+1375,0.0,2,0,0,Puerto Rico,Table Tennis,2016
+1376,0.0,2,0,0,Turkey,Table Tennis,2016
+1377,0.0,2,0,0,Ukraine,Table Tennis,2016
+1378,0.0,2,0,0,Colombia,Taekwondo,2016
+1379,0.0,2,0,0,Germany,Taekwondo,2016
+1380,0.0,2,0,0,Papua New Guinea,Taekwondo,2016
+1381,0.0,2,0,0,Poland,Taekwondo,2016
+1382,0.0,2,0,0,Sweden,Taekwondo,2016
+1383,0.0,2,0,0,Argentina-1,Tennis,2016
+1384,0.0,2,0,0,Argentina-2,Tennis,2016
+1385,0.0,2,0,0,Australia-1,Tennis,2016
+1386,0.0,2,0,0,Australia-2,Tennis,2016
+1387,0.0,2,0,0,Austria,Tennis,2016
+1388,0.0,2,0,0,Belarus,Tennis,2016
+1389,0.0,2,0,0,Bosnia and Herzegovina,Tennis,2016
+1390,0.0,2,0,0,Brazil-1,Tennis,2016
+1391,0.0,2,0,0,Brazil-2,Tennis,2016
+1392,0.0,2,0,0,Bulgaria,Tennis,2016
+1393,0.0,2,0,0,Chile,Tennis,2016
+1394,0.0,2,0,0,China-1,Tennis,2016
+1395,0.0,2,0,0,China-2,Tennis,2016
+1396,0.0,2,0,0,Czech Republic-2,Tennis,2016
+1397,0.0,2,0,0,Germany-1,Tennis,2016
+1398,0.0,2,0,0,Germany-2,Tennis,2016
+1399,0.0,2,0,0,Mexico,Tennis,2016
+1400,0.0,2,0,0,New Zealand,Tennis,2016
+1401,0.0,2,0,0,Romania-1,Tennis,2016
+1402,0.0,2,0,0,Romania-2,Tennis,2016
+1403,0.0,2,0,0,Russia-1,Tennis,2016
+1404,0.0,2,0,0,Thailand,Tennis,2016
+1405,0.0,2,0,0,Tunisia,Tennis,2016
+1406,0.0,2,0,0,Ukraine-1,Tennis,2016
+1407,0.0,2,0,0,Ukraine-2,Tennis,2016
+1408,0.0,2,0,0,France,Trampolining,2016
+1409,0.0,2,0,0,Portugal,Trampolining,2016
+1410,0.0,2,0,0,United States,Trampolining,2016
+1411,0.0,2,0,0,Argentina,Triathlon,2016
+1412,0.0,2,0,0,Brazil,Triathlon,2016
+1413,0.0,2,0,0,China,Triathlon,2016
+1414,0.0,2,0,0,Germany,Triathlon,2016
+1415,0.0,2,0,0,Ireland,Triathlon,2016
+1416,0.0,2,0,0,Ukraine,Triathlon,2016
+1417,0.0,2,0,0,Albania,Weightlifting,2016
+1418,0.0,2,0,0,Algeria,Weightlifting,2016
+1419,0.0,2,0,0,Australia,Weightlifting,2016
+1420,0.0,2,0,0,Cameroon,Weightlifting,2016
+1421,0.0,2,0,0,Canada,Weightlifting,2016
+1422,0.0,2,0,0,Chile,Weightlifting,2016
+1423,0.0,2,0,0,Cuba,Weightlifting,2016
+1424,0.0,2,0,0,Fiji,Weightlifting,2016
+1425,0.0,2,0,0,Finland,Weightlifting,2016
+1426,0.0,2,0,0,Great Britain,Weightlifting,2016
+1427,0.0,2,0,0,India,Weightlifting,2016
+1428,0.0,2,0,0,Italy,Weightlifting,2016
+1429,0.0,2,0,0,Kyrgyzstan,Weightlifting,2016
+1430,0.0,2,0,0,Latvia,Weightlifting,2016
+1431,0.0,2,0,0,Mongolia,Weightlifting,2016
+1432,0.0,2,0,0,Morocco,Weightlifting,2016
+1433,0.0,2,0,0,New Zealand,Weightlifting,2016
+1434,0.0,2,0,0,Peru,Weightlifting,2016
+1435,0.0,2,0,0,Samoa,Weightlifting,2016
+1436,0.0,2,0,0,Tunisia,Weightlifting,2016
+1437,0.0,2,0,0,Turkmenistan,Weightlifting,2016
+1438,0.0,2,0,0,Ecuador,Wrestling,2016
+1439,0.0,2,0,0,France,Wrestling,2016
+1440,0.0,2,0,0,Guinea Bissau,Wrestling,2016
+1441,0.0,2,0,0,Puerto Rico,Wrestling,2016
+1442,0.0,2,0,0,Senegal,Wrestling,2016
+1443,1.0,1,1,0,Finland,Boxing,2016
+1444,1.0,1,1,1,Jordan,Taekwondo,2016
+1445,1.0,1,1,0,Niger,Taekwondo,2016
+1446,1.0,1,1,1,Puerto Rico,Tennis,2016
+1447,1.0,1,1,0,Lithuania,Weightlifting,2016
+1448,1.0,1,1,0,Denmark,Wrestling,2016
+1449,0.0,1,0,0,Austria,Archery,2016
+1450,0.0,1,0,0,Azerbaijan,Archery,2016
+1451,0.0,1,0,0,Bangladesh,Archery,2016
+1452,0.0,1,0,0,Belarus,Archery,2016
+1453,0.0,1,0,0,Belgium,Archery,2016
+1454,0.0,1,0,0,Bhutan,Archery,2016
+1455,0.0,1,0,0,Chile,Archery,2016
+1456,0.0,1,0,0,Cote d'Ivoire,Archery,2016
+1457,0.0,1,0,0,Cuba,Archery,2016
+1458,0.0,1,0,0,Dominican Republic,Archery,2016
+1459,0.0,1,0,0,Estonia,Archery,2016
+1460,0.0,1,0,0,Fiji,Archery,2016
+1461,0.0,1,0,0,Greece,Archery,2016
+1462,0.0,1,0,0,Iran,Archery,2016
+1463,0.0,1,0,0,Kenya,Archery,2016
+1464,0.0,1,0,0,Libya,Archery,2016
+1465,0.0,1,0,0,Malawi,Archery,2016
+1466,0.0,1,0,0,Moldova,Archery,2016
+1467,0.0,1,0,0,Mongolia,Archery,2016
+1468,0.0,1,0,0,Myanmar,Archery,2016
+1469,0.0,1,0,0,Nepal,Archery,2016
+1470,0.0,1,0,0,North Korea,Archery,2016
+1471,0.0,1,0,0,Norway,Archery,2016
+1472,0.0,1,0,0,Poland,Archery,2016
+1473,0.0,1,0,0,Sweden,Archery,2016
+1474,0.0,1,0,0,Thailand,Archery,2016
+1475,0.0,1,0,0,Zimbabwe,Archery,2016
+1476,0.0,1,0,0,Andorra,Athletics,2016
+1477,0.0,1,0,0,Equatorial Guinea,Athletics,2016
+1478,0.0,1,0,0,Honduras,Athletics,2016
+1479,0.0,1,0,0,Jordan,Athletics,2016
+1480,0.0,1,0,0,Laos,Athletics,2016
+1481,0.0,1,0,0,Libya,Athletics,2016
+1482,0.0,1,0,0,Monaco,Athletics,2016
+1483,0.0,1,0,0,Mozambique,Athletics,2016
+1484,0.0,1,0,0,Nicaragua,Athletics,2016
+1485,0.0,1,0,0,Palau,Athletics,2016
+1486,0.0,1,0,0,Russia,Athletics,2016
+1487,0.0,1,0,0,San Marino,Athletics,2016
+1488,0.0,1,0,0,Tuvalu,Athletics,2016
+1489,0.0,1,0,0,Yemen,Athletics,2016
+1490,0.0,1,0,0,Brunei,Badminton,2016
+1491,0.0,1,0,0,Cuba,Badminton,2016
+1492,0.0,1,0,0,Finland,Badminton,2016
+1493,0.0,1,0,0,Guatemala,Badminton,2016
+1494,0.0,1,0,0,Hungary,Badminton,2016
+1495,0.0,1,0,0,Israel,Badminton,2016
+1496,0.0,1,0,0,Italy,Badminton,2016
+1497,0.0,1,0,0,Mauritius,Badminton,2016
+1498,0.0,1,0,0,Mexico,Badminton,2016
+1499,0.0,1,0,0,South Africa,Badminton,2016
+1500,0.0,1,0,0,Sri Lanka,Badminton,2016
+1501,0.0,1,0,0,Suriname,Badminton,2016
+1502,0.0,1,0,0,Sweden,Badminton,2016
+1503,0.0,1,0,0,Switzerland,Badminton,2016
+1504,0.0,1,0,0,Turkey,Badminton,2016
+1505,0.0,1,0,0,Cape Verde,Boxing,2016
+1506,0.0,1,0,0,Central African Republic,Boxing,2016
+1507,0.0,1,0,0,Federated States of Micronesia,Boxing,2016
+1508,0.0,1,0,0,Fiji,Boxing,2016
+1509,0.0,1,0,0,Ghana,Boxing,2016
+1510,0.0,1,0,0,Haiti,Boxing,2016
+1511,0.0,1,0,0,Honduras,Boxing,2016
+1512,0.0,1,0,0,Iran,Boxing,2016
+1513,0.0,1,0,0,Iraq,Boxing,2016
+1514,0.0,1,0,0,Kyrgyzstan,Boxing,2016
+1515,0.0,1,0,0,Nigeria,Boxing,2016
+1516,0.0,1,0,0,Panama,Boxing,2016
+1517,0.0,1,0,0,Papua New Guinea,Boxing,2016
+1518,0.0,1,0,0,Puerto Rico,Boxing,2016
+1519,0.0,1,0,0,Romania,Boxing,2016
+1520,0.0,1,0,0,Seychelles,Boxing,2016
+1521,0.0,1,0,0,South Korea,Boxing,2016
+1522,0.0,1,0,0,Sweden,Boxing,2016
+1523,0.0,1,0,0,Tajikistan,Boxing,2016
+1524,0.0,1,0,0,Trinidad and Tobago,Boxing,2016
+1525,0.0,1,0,0,Turkmenistan,Boxing,2016
+1526,0.0,1,0,0,United States Virgin Islands,Boxing,2016
+1527,0.0,1,0,0,Vanuatu,Boxing,2016
+1528,0.0,1,0,0,Zambia,Boxing,2016
+1529,0.0,1,0,0,Belgium,Canoeing,2016
+1530,0.0,1,0,0,Ecuador,Canoeing,2016
+1531,0.0,1,0,0,Georgia,Canoeing,2016
+1532,0.0,1,0,0,Iran,Canoeing,2016
+1533,0.0,1,0,0,Lebanon,Canoeing,2016
+1534,0.0,1,0,0,Mexico,Canoeing,2016
+1535,0.0,1,0,0,Morocco,Canoeing,2016
+1536,0.0,1,0,0,Nigeria,Canoeing,2016
+1537,0.0,1,0,0,Sao Tome and Principe,Canoeing,2016
+1538,0.0,1,0,0,Senegal,Canoeing,2016
+1539,0.0,1,0,0,Bolivia,Cycling,2016
+1540,0.0,1,0,0,Bulgaria,Cycling,2016
+1541,0.0,1,0,0,Cyprus,Cycling,2016
+1542,0.0,1,0,0,Dominican Republic,Cycling,2016
+1543,0.0,1,0,0,Egypt,Cycling,2016
+1544,0.0,1,0,0,Eritrea,Cycling,2016
+1545,0.0,1,0,0,Ethiopia,Cycling,2016
+1546,0.0,1,0,0,Guam,Cycling,2016
+1547,0.0,1,0,0,Guatemala,Cycling,2016
+1548,0.0,1,0,0,Hungary,Cycling,2016
+1549,0.0,1,0,0,Indonesia,Cycling,2016
+1550,0.0,1,0,0,Kosovo,Cycling,2016
+1551,0.0,1,0,0,Laos,Cycling,2016
+1552,0.0,1,0,0,Lesotho,Cycling,2016
+1553,0.0,1,0,0,Puerto Rico,Cycling,2016
+1554,0.0,1,0,0,Romania,Cycling,2016
+1555,0.0,1,0,0,Timor Leste,Cycling,2016
+1556,0.0,1,0,0,Trinidad and Tobago,Cycling,2016
+1557,0.0,1,0,0,Tunisia,Cycling,2016
+1558,0.0,1,0,0,United Arab Emirates,Cycling,2016
+1559,0.0,1,0,0,Austria,Diving,2016
+1560,0.0,1,0,0,Croatia,Diving,2016
+1561,0.0,1,0,0,Hungary,Diving,2016
+1562,0.0,1,0,0,Ireland,Diving,2016
+1563,0.0,1,0,0,Jamaica,Diving,2016
+1564,0.0,1,0,0,Netherlands,Diving,2016
+1565,0.0,1,0,0,New Zealand,Diving,2016
+1566,0.0,1,0,0,Puerto Rico,Diving,2016
+1567,0.0,1,0,0,South Africa,Diving,2016
+1568,0.0,1,0,0,Austria,Equestrianism,2016
+1569,0.0,1,0,0,Chile,Equestrianism,2016
+1570,0.0,1,0,0,China,Equestrianism,2016
+1571,0.0,1,0,0,Chinese Taipei,Equestrianism,2016
+1572,0.0,1,0,0,Dominican Republic,Equestrianism,2016
+1573,0.0,1,0,0,Ecuador,Equestrianism,2016
+1574,0.0,1,0,0,Egypt,Equestrianism,2016
+1575,0.0,1,0,0,Finland,Equestrianism,2016
+1576,0.0,1,0,0,Mexico,Equestrianism,2016
+1577,0.0,1,0,0,Morocco,Equestrianism,2016
+1578,0.0,1,0,0,Palestine,Equestrianism,2016
+1579,0.0,1,0,0,Peru,Equestrianism,2016
+1580,0.0,1,0,0,Poland,Equestrianism,2016
+1581,0.0,1,0,0,Portugal,Equestrianism,2016
+1582,0.0,1,0,0,Puerto Rico,Equestrianism,2016
+1583,0.0,1,0,0,South Africa,Equestrianism,2016
+1584,0.0,1,0,0,South Korea,Equestrianism,2016
+1585,0.0,1,0,0,Turkey,Equestrianism,2016
+1586,0.0,1,0,0,Uruguay,Equestrianism,2016
+1587,0.0,1,0,0,Zimbabwe,Equestrianism,2016
+1588,0.0,1,0,0,Argentina,Fencing,2016
+1589,0.0,1,0,0,Austria,Fencing,2016
+1590,0.0,1,0,0,Azerbaijan,Fencing,2016
+1591,0.0,1,0,0,Belarus,Fencing,2016
+1592,0.0,1,0,0,Belgium,Fencing,2016
+1593,0.0,1,0,0,Benin,Fencing,2016
+1594,0.0,1,0,0,Bulgaria,Fencing,2016
+1595,0.0,1,0,0,Cote d'Ivoire,Fencing,2016
+1596,0.0,1,0,0,Cuba,Fencing,2016
+1597,0.0,1,0,0,Georgia,Fencing,2016
+1598,0.0,1,0,0,Individual Olympic Athletes,Fencing,2016
+1599,0.0,1,0,0,Kazakhstan,Fencing,2016
+1600,0.0,1,0,0,Lebanon,Fencing,2016
+1601,0.0,1,0,0,Morocco,Fencing,2016
+1602,0.0,1,0,0,Netherlands,Fencing,2016
+1603,0.0,1,0,0,Panama,Fencing,2016
+1604,0.0,1,0,0,Saudi Arabia,Fencing,2016
+1605,0.0,1,0,0,Senegal,Fencing,2016
+1606,0.0,1,0,0,Turkey,Fencing,2016
+1607,0.0,1,0,0,Bangladesh,Golf,2016
+1608,0.0,1,0,0,Chile,Golf,2016
+1609,0.0,1,0,0,Colombia,Golf,2016
+1610,0.0,1,0,0,Czech Republic,Golf,2016
+1611,0.0,1,0,0,Hong Kong,Golf,2016
+1612,0.0,1,0,0,Israel,Golf,2016
+1613,0.0,1,0,0,Morocco,Golf,2016
+1614,0.0,1,0,0,Netherlands,Golf,2016
+1615,0.0,1,0,0,Philippines,Golf,2016
+1616,0.0,1,0,0,Russia,Golf,2016
+1617,0.0,1,0,0,Venezuela,Golf,2016
+1618,0.0,1,0,0,Chinese Taipei,Gymnastics,2016
+1619,0.0,1,0,0,Slovenia,Gymnastics,2016
+1620,0.0,1,0,0,Afghanistan,Judo,2016
+1621,0.0,1,0,0,American Samoa,Judo,2016
+1622,0.0,1,0,0,Andorra,Judo,2016
+1623,0.0,1,0,0,Angola,Judo,2016
+1624,0.0,1,0,0,Armenia,Judo,2016
+1625,0.0,1,0,0,Aruba,Judo,2016
+1626,0.0,1,0,0,Belize,Judo,2016
+1627,0.0,1,0,0,Benin,Judo,2016
+1628,0.0,1,0,0,Bolivia,Judo,2016
+1629,0.0,1,0,0,Bosnia and Herzegovina,Judo,2016
+1630,0.0,1,0,0,Botswana,Judo,2016
+1631,0.0,1,0,0,Burkina Faso,Judo,2016
+1632,0.0,1,0,0,Burundi,Judo,2016
+1633,0.0,1,0,0,Cameroon,Judo,2016
+1634,0.0,1,0,0,Chile,Judo,2016
+1635,0.0,1,0,0,Congo (Brazzaville),Judo,2016
+1636,0.0,1,0,0,Congo (Kinshasa),Judo,2016
+1637,0.0,1,0,0,Costa Rica,Judo,2016
+1638,0.0,1,0,0,Cote d'Ivoire,Judo,2016
+1639,0.0,1,0,0,Croatia,Judo,2016
+1640,0.0,1,0,0,Djibouti,Judo,2016
+1641,0.0,1,0,0,Dominican Republic,Judo,2016
+1642,0.0,1,0,0,El Salvador,Judo,2016
+1643,0.0,1,0,0,Estonia,Judo,2016
+1644,0.0,1,0,0,Fiji,Judo,2016
+1645,0.0,1,0,0,Finland,Judo,2016
+1646,0.0,1,0,0,Gambia,Judo,2016
+1647,0.0,1,0,0,Ghana,Judo,2016
+1648,0.0,1,0,0,Guatemala,Judo,2016
+1649,0.0,1,0,0,Guinea,Judo,2016
+1650,0.0,1,0,0,Guinea Bissau,Judo,2016
+1651,0.0,1,0,0,Haiti,Judo,2016
+1652,0.0,1,0,0,Honduras,Judo,2016
+1653,0.0,1,0,0,Iceland,Judo,2016
+1654,0.0,1,0,0,India,Judo,2016
+1655,0.0,1,0,0,Iraq,Judo,2016
+1656,0.0,1,0,0,Jordan,Judo,2016
+1657,0.0,1,0,0,Kenya,Judo,2016
+1658,0.0,1,0,0,Laos,Judo,2016
+1659,0.0,1,0,0,Lebanon,Judo,2016
+1660,0.0,1,0,0,Libya,Judo,2016
+1661,0.0,1,0,0,Lithuania,Judo,2016
+1662,0.0,1,0,0,Macedonia,Judo,2016
+1663,0.0,1,0,0,Madagascar,Judo,2016
+1664,0.0,1,0,0,Mali,Judo,2016
+1665,0.0,1,0,0,Mauritius,Judo,2016
+1666,0.0,1,0,0,Moldova,Judo,2016
+1667,0.0,1,0,0,Monaco,Judo,2016
+1668,0.0,1,0,0,Montenegro,Judo,2016
+1669,0.0,1,0,0,Mozambique,Judo,2016
+1670,0.0,1,0,0,Myanmar,Judo,2016
+1671,0.0,1,0,0,Nauru,Judo,2016
+1672,0.0,1,0,0,Nepal,Judo,2016
+1673,0.0,1,0,0,New Zealand,Judo,2016
+1674,0.0,1,0,0,Niger,Judo,2016
+1675,0.0,1,0,0,Pakistan,Judo,2016
+1676,0.0,1,0,0,Palestine,Judo,2016
+1677,0.0,1,0,0,Papua New Guinea,Judo,2016
+1678,0.0,1,0,0,Peru,Judo,2016
+1679,0.0,1,0,0,Philippines,Judo,2016
+1680,0.0,1,0,0,Qatar,Judo,2016
+1681,0.0,1,0,0,Samoa,Judo,2016
+1682,0.0,1,0,0,Saudi Arabia,Judo,2016
+1683,0.0,1,0,0,Senegal,Judo,2016
+1684,0.0,1,0,0,Serbia,Judo,2016
+1685,0.0,1,0,0,Seychelles,Judo,2016
+1686,0.0,1,0,0,South Africa,Judo,2016
+1687,0.0,1,0,0,Sri Lanka,Judo,2016
+1688,0.0,1,0,0,Sudan,Judo,2016
+1689,0.0,1,0,0,Suriname,Judo,2016
+1690,0.0,1,0,0,Syria,Judo,2016
+1691,0.0,1,0,0,Tanzania,Judo,2016
+1692,0.0,1,0,0,Thailand,Judo,2016
+1693,0.0,1,0,0,Trinidad and Tobago,Judo,2016
+1694,0.0,1,0,0,Uruguay,Judo,2016
+1695,0.0,1,0,0,Vanuatu,Judo,2016
+1696,0.0,1,0,0,Venezuela,Judo,2016
+1697,0.0,1,0,0,Vietnam,Judo,2016
+1698,0.0,1,0,0,Yemen,Judo,2016
+1699,0.0,1,0,0,Zambia,Judo,2016
+1700,0.0,1,0,0,Belarus,Modern Pentathlon,2016
+1701,0.0,1,0,0,Bulgaria,Modern Pentathlon,2016
+1702,0.0,1,0,0,Latvia,Modern Pentathlon,2016
+1703,0.0,1,0,0,Turkey,Modern Pentathlon,2016
+1704,0.0,1,0,0,Australia,Rhythmic Gymnastics,2016
+1705,0.0,1,0,0,Austria,Rhythmic Gymnastics,2016
+1706,0.0,1,0,0,Azerbaijan,Rhythmic Gymnastics,2016
+1707,0.0,1,0,0,Cape Verde,Rhythmic Gymnastics,2016
+1708,0.0,1,0,0,Finland,Rhythmic Gymnastics,2016
+1709,0.0,1,0,0,France,Rhythmic Gymnastics,2016
+1710,0.0,1,0,0,Georgia,Rhythmic Gymnastics,2016
+1711,0.0,1,0,0,Kazakhstan,Rhythmic Gymnastics,2016
+1712,0.0,1,0,0,Romania,Rhythmic Gymnastics,2016
+1713,0.0,1,0,0,South Korea,Rhythmic Gymnastics,2016
+1714,0.0,1,0,0,Bahamas,Rowing,2016
+1715,0.0,1,0,0,Belgium,Rowing,2016
+1716,0.0,1,0,0,Bermuda,Rowing,2016
+1717,0.0,1,0,0,Chinese Taipei,Rowing,2016
+1718,0.0,1,0,0,Ecuador,Rowing,2016
+1719,0.0,1,0,0,India,Rowing,2016
+1720,0.0,1,0,0,Iran,Rowing,2016
+1721,0.0,1,0,0,Iraq,Rowing,2016
+1722,0.0,1,0,0,Libya,Rowing,2016
+1723,0.0,1,0,0,Nigeria,Rowing,2016
+1724,0.0,1,0,0,Singapore,Rowing,2016
+1725,0.0,1,0,0,Sweden,Rowing,2016
+1726,0.0,1,0,0,Togo,Rowing,2016
+1727,0.0,1,0,0,Trinidad and Tobago,Rowing,2016
+1728,0.0,1,0,0,Uruguay,Rowing,2016
+1729,0.0,1,0,0,Uzbekistan,Rowing,2016
+1730,0.0,1,0,0,Vanuatu,Rowing,2016
+1731,0.0,1,0,0,Venezuela,Rowing,2016
+1732,0.0,1,0,0,Cayman Islands,Sailing,2016
+1733,0.0,1,0,0,Chinese Taipei,Sailing,2016
+1734,0.0,1,0,0,Colombia,Sailing,2016
+1735,0.0,1,0,0,Egypt,Sailing,2016
+1736,0.0,1,0,0,El Salvador,Sailing,2016
+1737,0.0,1,0,0,Guatemala,Sailing,2016
+1738,0.0,1,0,0,Latvia,Sailing,2016
+1739,0.0,1,0,0,Montenegro,Sailing,2016
+1740,0.0,1,0,0,Saint Lucia,Sailing,2016
+1741,0.0,1,0,0,Trinidad and Tobago,Sailing,2016
+1742,0.0,1,0,0,United States Virgin Islands,Sailing,2016
+1743,0.0,1,0,0,Algeria,Shooting,2016
+1744,0.0,1,0,0,Andorra,Shooting,2016
+1745,0.0,1,0,0,Angola,Shooting,2016
+1746,0.0,1,0,0,Armenia,Shooting,2016
+1747,0.0,1,0,0,Bahrain,Shooting,2016
+1748,0.0,1,0,0,Bangladesh,Shooting,2016
+1749,0.0,1,0,0,Barbados,Shooting,2016
+1750,0.0,1,0,0,Belgium,Shooting,2016
+1751,0.0,1,0,0,Bhutan,Shooting,2016
+1752,0.0,1,0,0,Bosnia and Herzegovina,Shooting,2016
+1753,0.0,1,0,0,Chile,Shooting,2016
+1754,0.0,1,0,0,Colombia,Shooting,2016
+1755,0.0,1,0,0,Dominican Republic,Shooting,2016
+1756,0.0,1,0,0,Ecuador,Shooting,2016
+1757,0.0,1,0,0,El Salvador,Shooting,2016
+1758,0.0,1,0,0,Estonia,Shooting,2016
+1759,0.0,1,0,0,Fiji,Shooting,2016
+1760,0.0,1,0,0,Kosovo,Shooting,2016
+1761,0.0,1,0,0,Latvia,Shooting,2016
+1762,0.0,1,0,0,Lebanon,Shooting,2016
+1763,0.0,1,0,0,Lithuania,Shooting,2016
+1764,0.0,1,0,0,Macedonia,Shooting,2016
+1765,0.0,1,0,0,Namibia,Shooting,2016
+1766,0.0,1,0,0,Nicaragua,Shooting,2016
+1767,0.0,1,0,0,Paraguay,Shooting,2016
+1768,0.0,1,0,0,Romania,Shooting,2016
+1769,0.0,1,0,0,Uzbekistan,Shooting,2016
+1770,0.0,1,0,0,Zimbabwe,Shooting,2016
+1771,0.0,1,0,0,Andorra,Swimming,2016
+1772,0.0,1,0,0,Armenia,Swimming,2016
+1773,0.0,1,0,0,British Virgin Islands,Swimming,2016
+1774,0.0,1,0,0,Costa Rica,Swimming,2016
+1775,0.0,1,0,0,Djibouti,Swimming,2016
+1776,0.0,1,0,0,Gabon,Swimming,2016
+1777,0.0,1,0,0,Gambia,Swimming,2016
+1778,0.0,1,0,0,Iran,Swimming,2016
+1779,0.0,1,0,0,Papua New Guinea,Swimming,2016
+1780,0.0,1,0,0,Puerto Rico,Swimming,2016
+1781,0.0,1,0,0,Saint Lucia,Swimming,2016
+1782,0.0,1,0,0,Yemen,Swimming,2016
+1783,0.0,1,0,0,Colombia,Table Tennis,2016
+1784,0.0,1,0,0,Croatia,Table Tennis,2016
+1785,0.0,1,0,0,Denmark,Table Tennis,2016
+1786,0.0,1,0,0,Fiji,Table Tennis,2016
+1787,0.0,1,0,0,Finland,Table Tennis,2016
+1788,0.0,1,0,0,Greece,Table Tennis,2016
+1789,0.0,1,0,0,Kazakhstan,Table Tennis,2016
+1790,0.0,1,0,0,Lebanon,Table Tennis,2016
+1791,0.0,1,0,0,Luxembourg,Table Tennis,2016
+1792,0.0,1,0,0,Paraguay,Table Tennis,2016
+1793,0.0,1,0,0,Philippines,Table Tennis,2016
+1794,0.0,1,0,0,Qatar,Table Tennis,2016
+1795,0.0,1,0,0,Serbia,Table Tennis,2016
+1796,0.0,1,0,0,Slovenia,Table Tennis,2016
+1797,0.0,1,0,0,Syria,Table Tennis,2016
+1798,0.0,1,0,0,Tunisia,Table Tennis,2016
+1799,0.0,1,0,0,Uzbekistan,Table Tennis,2016
+1800,0.0,1,0,0,Vanuatu,Table Tennis,2016
+1801,0.0,1,0,0,Venezuela,Table Tennis,2016
+1802,0.0,1,0,0,Aruba,Taekwondo,2016
+1803,0.0,1,0,0,Cambodia,Taekwondo,2016
+1804,0.0,1,0,0,Canada,Taekwondo,2016
+1805,0.0,1,0,0,Cape Verde,Taekwondo,2016
+1806,0.0,1,0,0,Central African Republic,Taekwondo,2016
+1807,0.0,1,0,0,Chile,Taekwondo,2016
+1808,0.0,1,0,0,Congo (Kinshasa),Taekwondo,2016
+1809,0.0,1,0,0,Cuba,Taekwondo,2016
+1810,0.0,1,0,0,Finland,Taekwondo,2016
+1811,0.0,1,0,0,Gabon,Taekwondo,2016
+1812,0.0,1,0,0,Haiti,Taekwondo,2016
+1813,0.0,1,0,0,Honduras,Taekwondo,2016
+1814,0.0,1,0,0,Israel,Taekwondo,2016
+1815,0.0,1,0,0,Japan,Taekwondo,2016
+1816,0.0,1,0,0,Libya,Taekwondo,2016
+1817,0.0,1,0,0,Mali,Taekwondo,2016
+1818,0.0,1,0,0,Moldova,Taekwondo,2016
+1819,0.0,1,0,0,Mongolia,Taekwondo,2016
+1820,0.0,1,0,0,Nepal,Taekwondo,2016
+1821,0.0,1,0,0,Netherlands,Taekwondo,2016
+1822,0.0,1,0,0,New Zealand,Taekwondo,2016
+1823,0.0,1,0,0,Norway,Taekwondo,2016
+1824,0.0,1,0,0,Panama,Taekwondo,2016
+1825,0.0,1,0,0,Peru,Taekwondo,2016
+1826,0.0,1,0,0,Philippines,Taekwondo,2016
+1827,0.0,1,0,0,Portugal,Taekwondo,2016
+1828,0.0,1,0,0,Puerto Rico,Taekwondo,2016
+1829,0.0,1,0,0,Senegal,Taekwondo,2016
+1830,0.0,1,0,0,Tonga,Taekwondo,2016
+1831,0.0,1,0,0,Venezuela,Taekwondo,2016
+1832,0.0,1,0,0,Barbados,Tennis,2016
+1833,0.0,1,0,0,Denmark,Tennis,2016
+1834,0.0,1,0,0,Dominican Republic,Tennis,2016
+1835,0.0,1,0,0,Georgia,Tennis,2016
+1836,0.0,1,0,0,Israel,Tennis,2016
+1837,0.0,1,0,0,Latvia,Tennis,2016
+1838,0.0,1,0,0,Liechtenstein,Tennis,2016
+1839,0.0,1,0,0,Lithuania,Tennis,2016
+1840,0.0,1,0,0,Luxembourg,Tennis,2016
+1841,0.0,1,0,0,Moldova,Tennis,2016
+1842,0.0,1,0,0,Montenegro,Tennis,2016
+1843,0.0,1,0,0,Paraguay,Tennis,2016
+1844,0.0,1,0,0,Slovenia,Tennis,2016
+1845,0.0,1,0,0,Sweden,Tennis,2016
+1846,0.0,1,0,0,Turkey,Tennis,2016
+1847,0.0,1,0,0,Uruguay,Tennis,2016
+1848,0.0,1,0,0,Uzbekistan,Tennis,2016
+1849,0.0,1,0,0,Australia,Trampolining,2016
+1850,0.0,1,0,0,Brazil,Trampolining,2016
+1851,0.0,1,0,0,Georgia,Trampolining,2016
+1852,0.0,1,0,0,Germany,Trampolining,2016
+1853,0.0,1,0,0,Kazakhstan,Trampolining,2016
+1854,0.0,1,0,0,New Zealand,Trampolining,2016
+1855,0.0,1,0,0,Ukraine,Trampolining,2016
+1856,0.0,1,0,0,Uzbekistan,Trampolining,2016
+1857,0.0,1,0,0,Azerbaijan,Triathlon,2016
+1858,0.0,1,0,0,Barbados,Triathlon,2016
+1859,0.0,1,0,0,Bermuda,Triathlon,2016
+1860,0.0,1,0,0,Chile,Triathlon,2016
+1861,0.0,1,0,0,Costa Rica,Triathlon,2016
+1862,0.0,1,0,0,Czech Republic,Triathlon,2016
+1863,0.0,1,0,0,Denmark,Triathlon,2016
+1864,0.0,1,0,0,Ecuador,Triathlon,2016
+1865,0.0,1,0,0,Estonia,Triathlon,2016
+1866,0.0,1,0,0,Israel,Triathlon,2016
+1867,0.0,1,0,0,Jordan,Triathlon,2016
+1868,0.0,1,0,0,Mauritius,Triathlon,2016
+1869,0.0,1,0,0,Netherlands,Triathlon,2016
+1870,0.0,1,0,0,Norway,Triathlon,2016
+1871,0.0,1,0,0,Poland,Triathlon,2016
+1872,0.0,1,0,0,Puerto Rico,Triathlon,2016
+1873,0.0,1,0,0,Slovakia,Triathlon,2016
+1874,0.0,1,0,0,Slovenia,Triathlon,2016
+1875,0.0,1,0,0,Sweden,Triathlon,2016
+1876,0.0,1,0,0,American Samoa,Weightlifting,2016
+1877,0.0,1,0,0,Argentina,Weightlifting,2016
+1878,0.0,1,0,0,Austria,Weightlifting,2016
+1879,0.0,1,0,0,Belgium,Weightlifting,2016
+1880,0.0,1,0,0,Cook Islands,Weightlifting,2016
+1881,0.0,1,0,0,Croatia,Weightlifting,2016
+1882,0.0,1,0,0,Czech Republic,Weightlifting,2016
+1883,0.0,1,0,0,El Salvador,Weightlifting,2016
+1884,0.0,1,0,0,Estonia,Weightlifting,2016
+1885,0.0,1,0,0,Ghana,Weightlifting,2016
+1886,0.0,1,0,0,Greece,Weightlifting,2016
+1887,0.0,1,0,0,Guatemala,Weightlifting,2016
+1888,0.0,1,0,0,Haiti,Weightlifting,2016
+1889,0.0,1,0,0,Honduras,Weightlifting,2016
+1890,0.0,1,0,0,Hungary,Weightlifting,2016
+1891,0.0,1,0,0,Iraq,Weightlifting,2016
+1892,0.0,1,0,0,Israel,Weightlifting,2016
+1893,0.0,1,0,0,Kenya,Weightlifting,2016
+1894,0.0,1,0,0,Kiribati,Weightlifting,2016
+1895,0.0,1,0,0,Madagascar,Weightlifting,2016
+1896,0.0,1,0,0,Malaysia,Weightlifting,2016
+1897,0.0,1,0,0,Malta,Weightlifting,2016
+1898,0.0,1,0,0,Marshall Islands,Weightlifting,2016
+1899,0.0,1,0,0,Mauritius,Weightlifting,2016
+1900,0.0,1,0,0,Nauru,Weightlifting,2016
+1901,0.0,1,0,0,Nicaragua,Weightlifting,2016
+1902,0.0,1,0,0,Nigeria,Weightlifting,2016
+1903,0.0,1,0,0,Papua New Guinea,Weightlifting,2016
+1904,0.0,1,0,0,Puerto Rico,Weightlifting,2016
+1905,0.0,1,0,0,Qatar,Weightlifting,2016
+1906,0.0,1,0,0,Saudi Arabia,Weightlifting,2016
+1907,0.0,1,0,0,Seychelles,Weightlifting,2016
+1908,0.0,1,0,0,Slovakia,Weightlifting,2016
+1909,0.0,1,0,0,Solomon Islands,Weightlifting,2016
+1910,0.0,1,0,0,Sri Lanka,Weightlifting,2016
+1911,0.0,1,0,0,Sweden,Weightlifting,2016
+1912,0.0,1,0,0,Syria,Weightlifting,2016
+1913,0.0,1,0,0,United Arab Emirates,Weightlifting,2016
+1914,0.0,1,0,0,Uruguay,Weightlifting,2016
+1915,0.0,1,0,0,Argentina,Wrestling,2016
+1916,0.0,1,0,0,Austria,Wrestling,2016
+1917,0.0,1,0,0,Bahrain,Wrestling,2016
+1918,0.0,1,0,0,Cambodia,Wrestling,2016
+1919,0.0,1,0,0,Chinese Taipei,Wrestling,2016
+1920,0.0,1,0,0,Croatia,Wrestling,2016
+1921,0.0,1,0,0,Czech Republic,Wrestling,2016
+1922,0.0,1,0,0,Greece,Wrestling,2016
+1923,0.0,1,0,0,Haiti,Wrestling,2016
+1924,0.0,1,0,0,Israel,Wrestling,2016
+1925,0.0,1,0,0,Latvia,Wrestling,2016
+1926,0.0,1,0,0,Lithuania,Wrestling,2016
+1927,0.0,1,0,0,Mexico,Wrestling,2016
+1928,0.0,1,0,0,Netherlands,Wrestling,2016
+1929,0.0,1,0,0,Palau,Wrestling,2016
+1930,0.0,1,0,0,Peru,Wrestling,2016
+1931,0.0,1,0,0,Spain,Wrestling,2016
+1932,0.0,1,0,0,Vietnam,Wrestling,2016
